@@ -11,9 +11,9 @@ disqusShortname = "yourdiscussshortname"
 style = "github-dark"
 
 [params]
-  author = "John Doe"
-  info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
+  author = "Viktar Ivanou"
+  info = "If you here by acidend, just get the hell out!"
+  description = "My personal page for all kinds of things"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
@@ -44,7 +44,7 @@ style = "github-dark"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/butbkadrug/"
 [[params.social]]
   name = "Gitlab"
   icon = "fa fa-gitlab fa-2x"
@@ -54,7 +54,7 @@ style = "github-dark"
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://twitter.com/butbkadrug/"
 
 # Menu links
 [[menu.main]]
