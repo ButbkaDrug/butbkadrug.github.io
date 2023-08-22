@@ -6,7 +6,7 @@ description = "Как создавалось незримое сообщение
 slug = ""
 authors = []
 tags = []
-categories = [devMindset]
+categories = []
 externalLink = ""
 series = []
 +++
