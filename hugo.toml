@@ -16,7 +16,7 @@ style = "github-dark"
   description = "My personal page for all kinds of things"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
+  gravatar = "butbkadrug@gmail.com"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
