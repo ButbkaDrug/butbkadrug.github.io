@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get the hell out</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Get the hell out</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Tue, 22 Aug 2023 10:35:40 +0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Незримое сообщение</title>
+      <link>http://example.org/posts/invisible-message/</link>
+      <pubDate>Tue, 22 Aug 2023 10:35:40 +0400</pubDate>
+      
+      <guid>http://example.org/posts/invisible-message/</guid>
+      <description>История Link to heading В нашей истории принцесса и наставник общались, читая сообщения написанные светом и тенью на большом поле перед замком. История однако умалчивает как именно. Об этом мы сегодня и поговорим.
+В сказании об Одине и Зеро живущих в волшебной стране, говориться что они придумали особый язык, состоящий только из полосок света и тени:
+Полоска света - это как будто говорить &amp;ldquo;один&amp;rdquo; Полоска тени - это &amp;ldquo;ноль&amp;rdquo; Мы привыкли к нашему алфавиту состоящему из 32 символов, и десятичной системе исчисления.</description>
+    </item>
+    
+    <item>
+      <title>My Fist Post</title>
+      <link>http://example.org/posts/my-fist-post/</link>
+      <pubDate>Tue, 22 Aug 2023 10:00:25 +0400</pubDate>
+      
+      <guid>http://example.org/posts/my-fist-post/</guid>
+      <description>В далекой стране жила принцесса. Прекрасная и умная. Пока принцесса была маленькая, у неё был наставник, который учил её грамоте, читал её сказки, учил её музыке. Вместе они листали бесчисленные книги в библиотеке наставника, вместе они гуляли по лесу наблюдая как свет пляшет между деревьями на закате. Это было прекрасное время.
+Но потом принцесса выросла и король решил что наставник ей больше не нужен и её увезли во дворец где и полагается жить принцессе.</description>
+    </item>
+    
+  </channel>
+</rss>
