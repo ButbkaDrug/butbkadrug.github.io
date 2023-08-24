@@ -46,15 +46,15 @@ style = "dracula"
   weight = 1
   url = "https://github.com/butbkadrug/"
 [[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
-[[params.social]]
   name = "Buy me a coffee"
   icon = "fa fa-buymeacoffee fa-2x"
   weight = 3
   url = "https://www.buymeacoffee.com/butbkadruge"
+[[params.social]]
+  name = "Telegram"
+  icon = "fa fa-telegram fa-2x"
+  weight = 2
+  url = "https://t.me/butbkadrug"
 
 # Menu links
 [[menu.main]]
