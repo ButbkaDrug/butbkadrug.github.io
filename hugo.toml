@@ -51,10 +51,10 @@ style = "dracula"
   weight = 2
   url = "https://gitlab.com/johndoe/"
 [[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
+  name = "Buy me a coffee"
+  icon = "fa fa-buymeacoffee fa-2x"
   weight = 3
-  url = "https://twitter.com/butbkadrug/"
+  url = "https://www.buymeacoffee.com/butbkadruge"
 
 # Menu links
 [[menu.main]]
