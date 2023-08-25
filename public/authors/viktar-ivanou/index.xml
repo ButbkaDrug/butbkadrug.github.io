@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viktar Ivanou on Get the hell out</title>
+    <link>http://example.org/authors/viktar-ivanou/</link>
+    <description>Recent content in Viktar Ivanou on Get the hell out</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Thu, 24 Aug 2023 07:18:10 +0400</lastBuildDate><atom:link href="http://example.org/authors/viktar-ivanou/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Нулевой уровень</title>
+      <link>http://example.org/posts/rpg_lvl_00/</link>
+      <pubDate>Thu, 24 Aug 2023 07:18:10 +0400</pubDate>
+      
+      <guid>http://example.org/posts/rpg_lvl_00/</guid>
+      <description>&amp;ldquo;Отныне есть нулевой уровень&amp;rdquo; - Мастер Шифу
+Первый день не будет таким уж сложным если наш герой верно обучен :) Наш герой живет рядом с зАмком. Все что нужно сделать это сходить в библиотеку и посмотреть что там есть. Библиотека довольно большая, она находиться на втором этаже замка.
+Нам нужно построить маршрут, чтобы убедиться, что мы не потеряемся, и посмотреть что же есть в библиотеке.
+Открываем файл lvl_00.py в нашем редакторе и мы увидим что-то приблизительно такое:</description>
+    </item>
+    
+    <item>
+      <title>Изучая новые аспекты</title>
+      <link>http://example.org/posts/role-playing-game/</link>
+      <pubDate>Wed, 23 Aug 2023 15:13:51 +0400</pubDate>
+      
+      <guid>http://example.org/posts/role-playing-game/</guid>
+      <description>Игра Link to heading Изучая те аспекты программирования, с которыми я раньше не сталкивался. Мне пришла в голову идея, почему бы не попробовать сделать что-то полезное и в то же время не помочь другим, научиться вместе со мной.
+Пока что это больше идея и, возможно, она окажется не способной к жизни. Но об этом мы узнаем только попробовав. Поэтому, добро пожаловать!
+Для начала нужно получить архив с исходными файлами и заданиями.</description>
+    </item>
+    
+  </channel>
+</rss>
