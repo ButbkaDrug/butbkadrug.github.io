@@ -6,7 +6,17 @@
     <description>Recent content on Get the hell out</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 24 Aug 2023 07:18:10 +0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Aug 2023 14:05:25 +0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Учимся читать</title>
+      <link>http://example.org/posts/rpg_lvl_01/</link>
+      <pubDate>Thu, 24 Aug 2023 14:05:25 +0400</pubDate>
+      
+      <guid>http://example.org/posts/rpg_lvl_01/</guid>
+      <description>День второй Link to heading Как прочитать файл Link to heading Сегодня нам предстоит вернуться в библиотеку дабы прочиться книгу. Но на данный момент наш герой не умеет читать. И наша задача его научить. Для этого мы создадим новы метод read_the_book который будет принимать путь к книге как параметр и возвращать её содержимое
+def read_the_book(file_path:str) -&amp;gt; str: ... Теперь немного о чтении. Чтобы прочитать книгу, нам нужно точно знать где она лежит.</description>
+    </item>
+    
     <item>
       <title>Нулевой уровень</title>
       <link>http://example.org/posts/rpg_lvl_00/</link>
@@ -20,14 +30,14 @@
     </item>
     
     <item>
-      <title>Изучая новые аспекты</title>
+      <title>Изучая новое</title>
       <link>http://example.org/posts/role-playing-game/</link>
       <pubDate>Wed, 23 Aug 2023 15:13:51 +0400</pubDate>
       
       <guid>http://example.org/posts/role-playing-game/</guid>
       <description>Игра Link to heading Изучая те аспекты программирования, с которыми я раньше не сталкивался. Мне пришла в голову идея, почему бы не попробовать сделать что-то полезное и в то же время не помочь другим, научиться вместе со мной.
 Пока что это больше идея и, возможно, она окажется не способной к жизни. Но об этом мы узнаем только попробовав. Поэтому, добро пожаловать!
-Для начала нужно получить архив с исходными файлами и заданиями.</description>
+Для начала нужно получить исходные файламы со всем необходимым.</description>
     </item>
     
     <item>
