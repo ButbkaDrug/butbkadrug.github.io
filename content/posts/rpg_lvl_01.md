@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2023-08-24T14:05:25+04:00
-title = "Учимся читать"
+title = "День первый"
 description = "Сегодня наша задача научить нашего героя читать."
 slug = ""
 authors = ["Viktar Ivanou"]
@@ -11,7 +11,7 @@ externalLink = ""
 series = ["magic-world"]
 +++
 
-# День второй
+# Учимся читать
 
 ### Как прочитать файл
 
