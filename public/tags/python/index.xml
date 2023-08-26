@@ -6,19 +6,30 @@
     <description>Recent content in python on Get the hell out</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 24 Aug 2023 14:05:25 +0400</lastBuildDate><atom:link href="http://example.org/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Aug 2023 06:36:18 +0400</lastBuildDate><atom:link href="http://example.org/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Учимся читать</title>
+      <title>День второй</title>
+      <link>http://example.org/posts/rpg_lvl_02/</link>
+      <pubDate>Sat, 26 Aug 2023 06:36:18 +0400</pubDate>
+      
+      <guid>http://example.org/posts/rpg_lvl_02/</guid>
+      <description>Учимся писать Link to heading Хорошо, в прошлый раз, мы научили нашего героя читать. Пришло вермя научить его еще и писать. Ведь это один из основных навыков, без использования которого ни проходит ни дня. Начнем с простого. Записать строку в файл.
+Добавим новую способность нашему герою:
+1 2 3 class Hero(): def write(self, text): ... Пока что предствавим что у нашего героя есть блокнот(notebook), куда он может записывать все что ему вздумается.</description>
+    </item>
+    
+    <item>
+      <title>День первый</title>
       <link>http://example.org/posts/rpg_lvl_01/</link>
       <pubDate>Thu, 24 Aug 2023 14:05:25 +0400</pubDate>
       
       <guid>http://example.org/posts/rpg_lvl_01/</guid>
-      <description>День второй Link to heading Как прочитать файл Link to heading Сегодня нам предстоит вернуться в библиотеку дабы прочиться книгу. Но на данный момент наш герой не умеет читать. И наша задача его научить. Для этого мы создадим новы метод read_the_book который будет принимать путь к книге как параметр и возвращать её содержимое
-def read_the_book(file_path:str) -&amp;gt; str: ... Теперь немного о чтении. Чтобы прочитать книгу, нам нужно точно знать где она лежит.</description>
+      <description>Учимся читать Link to heading Как прочитать файл Link to heading Сегодня нам предстоит вернуться в библиотеку дабы прочиться книгу. Но на данный момент наш герой не умеет читать. И наша задача его научить. Для этого мы создадим новы метод read_the_book который будет принимать путь к книге как параметр и возвращать её содержимое
+1 2 def read_the_book(file_path:str) -&amp;gt; str: ... Теперь немного о чтении. Чтобы прочитать книгу, нам нужно точно знать где она лежит.</description>
     </item>
     
     <item>
-      <title>Нулевой уровень</title>
+      <title>Нулевой день</title>
       <link>http://example.org/posts/rpg_lvl_00/</link>
       <pubDate>Thu, 24 Aug 2023 07:18:10 +0400</pubDate>
       

@@ -3,7 +3,7 @@
 
 <head>
   <title>
-  Учимся читать · Get the hell out
+  День первый · Get the hell out
 </title>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,16 +17,16 @@
 <meta name="keywords" content="blog,developer,personal">
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Учимся читать"/>
+<meta name="twitter:title" content="День первый"/>
 <meta name="twitter:description" content="Сегодня наша задача научить нашего героя читать."/>
 
-<meta property="og:title" content="Учимся читать" />
+<meta property="og:title" content="День первый" />
 <meta property="og:description" content="Сегодня наша задача научить нашего героя читать." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://example.org/posts/rpg_lvl_01/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2023-08-24T14:05:25+04:00" />
 <meta property="article:modified_time" content="2023-08-24T14:05:25+04:00" />
-<meta property="og:see_also" content="http://example.org/posts/rpg_lvl_00/" /><meta property="og:see_also" content="http://example.org/posts/role-playing-game/" />
+<meta property="og:see_also" content="http://example.org/posts/rpg_lvl_02/" /><meta property="og:see_also" content="http://example.org/posts/rpg_lvl_00/" /><meta property="og:see_also" content="http://example.org/posts/role-playing-game/" />
 
 
 
@@ -132,7 +132,7 @@
         <div class="post-title">
           <h1 class="title">
             <a class="title-link" href="http://example.org/posts/rpg_lvl_01/">
-              Учимся читать
+              День первый
             </a>
           </h1>
         </div>
@@ -172,9 +172,9 @@
 
       <div class="post-content">
         
-        <h1 id="день-второй">
-  День второй
-  <a class="heading-link" href="#%d0%b4%d0%b5%d0%bd%d1%8c-%d0%b2%d1%82%d0%be%d1%80%d0%be%d0%b9">
+        <h1 id="учимся-читать">
+  Учимся читать
+  <a class="heading-link" href="#%d1%83%d1%87%d0%b8%d0%bc%d1%81%d1%8f-%d1%87%d0%b8%d1%82%d0%b0%d1%82%d1%8c">
     <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
@@ -187,13 +187,30 @@
   </a>
 </h3>
 <p>Сегодня нам предстоит вернуться в библиотеку дабы прочиться книгу. Но на данный момент наш герой не умеет читать. И наша задача его научить. Для этого мы создадим новы метод <strong>read_the_book</strong> который будет принимать путь к книге как параметр и возвращать её содержимое</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#ff79c6">def</span> <span style="color:#50fa7b">read_the_book</span>(file_path:<span style="color:#8be9fd;font-style:italic">str</span>) <span style="color:#ff79c6">-&gt;</span> <span style="color:#8be9fd;font-style:italic">str</span>:
+<div class="highlight"><div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#ff79c6">def</span> <span style="color:#50fa7b">read_the_book</span>(file_path:<span style="color:#8be9fd;font-style:italic">str</span>) <span style="color:#ff79c6">-&gt;</span> <span style="color:#8be9fd;font-style:italic">str</span>:
 </span></span><span style="display:flex;"><span>    <span style="color:#ff79c6">...</span>
-</span></span></code></pre></div><p>Теперь немного о чтении. Чтобы прочитать книгу, нам нужно точно знать где она лежит. Взять её, прочитать и потом положить на место, чтобы если она понадобиться кому-то еще, книга была доступна.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Теперь немного о чтении. Чтобы прочитать книгу, нам нужно точно знать где она лежит. Взять её, прочитать и потом положить на место, чтобы если она понадобиться кому-то еще, книга была доступна.</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#ff79c6">with</span> <span style="color:#8be9fd;font-style:italic">open</span>(<span style="color:#f1fa8c">&#34;путь/до/книги/книга.txt&#34;</span>) <span style="color:#ff79c6">as</span> file:
 </span></span><span style="display:flex;"><span>    content <span style="color:#ff79c6">=</span> file<span style="color:#ff79c6">.</span>read()
-</span></span></code></pre></div><p><strong>with</strong> - это волшебное слово, которое помогает нам все сделать правильно, и ничего не забыть. Используя <strong>with</strong> книга сама вернется на место, как только мы закончим с ней работать.</p>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><strong>with</strong> - это волшебное слово, которое помогает нам все сделать правильно, и ничего не забыть. Используя <strong>with</strong> книга сама вернется на место, как только мы закончим с ней работать.</p>
 <blockquote>
 <p>Было бы неплохо если бы это работало и в повседневной жизни. Недавно мы месяцев 5 - 6 ждали пока книга, которую хотелось прочитать вернется в библиотеку. А похоже что человек который её взял, просто забыл вернуть на место&hellip;</p>
 </blockquote>
@@ -209,52 +226,124 @@
 <p>Библиотека большая, и в ней много разных книг. Мы хотим прочитать книгу с самым длинным названием.</p>
 <p>Есть много способов найти файл с самым длинным названием. Мы воспользуемся сортировкой.</p>
 <p>Для начала нам нужен список книг. Мы уже получали список книг, когда были в библиотеке в прошлый раз. Поэтому я не буду описывать, как это сделать. В библиотеке находиться более 5000 книг. Поэтому наш список выходит довольно длинным. Каждый список в <strong>Python</strong> можно отсортировать, вызвав метод sort()</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>list_of_books <span style="color:#ff79c6">=</span> [<span style="color:#ff79c6">...</span>] <span style="color:#6272a4"># Притворимся что это наш список книг</span>
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>list_of_books<span style="color:#ff79c6">.</span>sort()
-</span></span></code></pre></div><p>Без каких либо параметров список отсортирует в алфавитном порядке. Это здорово, но не то что нам нужно. Мы хотим отсортировать по длине названия. К счастью мы можем указать sort() функции, что нужно делать. Как ключ, к сортировке мы передаем имя функции(без кавычек). Результаты выполнения этой функции и будут использованы для сортировки.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#ff79c6">def</span> <span style="color:#50fa7b">way_to_sort</span>(x):
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Без каких либо параметров список отсортирует в алфавитном порядке. Это здорово, но не то что нам нужно. Мы хотим отсортировать по длине названия. К счастью мы можем указать sort() функции, что нужно делать. Как ключ, к сортировке мы передаем имя функции(без кавычек). Результаты выполнения этой функции и будут использованы для сортировки.</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#ff79c6">def</span> <span style="color:#50fa7b">way_to_sort</span>(x):
 </span></span><span style="display:flex;"><span>    <span style="color:#ff79c6">return</span> <span style="color:#8be9fd;font-style:italic">len</span>(x)
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>list_of_books<span style="color:#ff79c6">.</span>sort(key <span style="color:#ff79c6">=</span> way_to_sort)
-</span></span></code></pre></div><p><strong>Если список книг:</strong></p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>list_of_books <span style="color:#ff79c6">=</span> [
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><strong>Если список книг:</strong></p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>list_of_books <span style="color:#ff79c6">=</span> [
 </span></span><span style="display:flex;"><span>                Книгга,
 </span></span><span style="display:flex;"><span>                Книггга,
 </span></span><span style="display:flex;"><span>                Книга,
 </span></span><span style="display:flex;"><span>                Книгггга
 </span></span><span style="display:flex;"><span>]
-</span></span></code></pre></div><p>То функция sort() сначала применит way_to_sort к каждому элементу в списке:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>То функция sort() сначала применит way_to_sort к каждому элементу в списке:</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>[
 </span></span><span style="display:flex;"><span>way_to_sort( Книгга ), <span style="color:#6272a4"># Вернет 6</span>
 </span></span><span style="display:flex;"><span>way_to_sort( Книггга ), <span style="color:#6272a4"># Вернет 7</span>
 </span></span><span style="display:flex;"><span>way_to_sort( Книга ), <span style="color:#6272a4"># Вернет 5</span>
 </span></span><span style="display:flex;"><span>way_to_sort( Книгггга ) <span style="color:#6272a4"># Вернет 8</span>
 </span></span><span style="display:flex;"><span>]
-</span></span></code></pre></div><p>И отсортирует по возрастанию, ориентируясь на результаты работы way_to_sort()</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>И отсортирует по возрастанию, ориентируясь на результаты работы way_to_sort()</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+</span><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>[
 </span></span><span style="display:flex;"><span>Книга, <span style="color:#6272a4"># 5 букв</span>
 </span></span><span style="display:flex;"><span>Книгга, <span style="color:#6272a4"># 6 букв</span>
 </span></span><span style="display:flex;"><span>Книггга, <span style="color:#6272a4"># 7 букв</span>
 </span></span><span style="display:flex;"><span>Книгггга <span style="color:#6272a4"># 8 букв</span>
 </span></span><span style="display:flex;"><span>]
-</span></span></code></pre></div><h3 id="важно-метод-sort-не-возвращает-ничего-а-изменяет-тот-список-с-которым-мы-работаем-поэтому-так-делать-не-нужно">
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="важно-метод-sort-не-возвращает-ничего-а-изменяет-тот-список-с-которым-мы-работаем-поэтому-так-делать-не-нужно">
   <em>ВАЖНО!</em>* метод sort() не возвращает ничего. А изменяет тот список с которым мы работаем поэтому <strong>ТАК</strong> делать <strong>НЕ</strong> нужно:
   <a class="heading-link" href="#%d0%b2%d0%b0%d0%b6%d0%bd%d0%be-%d0%bc%d0%b5%d1%82%d0%be%d0%b4-sort-%d0%bd%d0%b5-%d0%b2%d0%be%d0%b7%d0%b2%d1%80%d0%b0%d1%89%d0%b0%d0%b5%d1%82-%d0%bd%d0%b8%d1%87%d0%b5%d0%b3%d0%be-%d0%b0-%d0%b8%d0%b7%d0%bc%d0%b5%d0%bd%d1%8f%d0%b5%d1%82-%d1%82%d0%be%d1%82-%d1%81%d0%bf%d0%b8%d1%81%d0%be%d0%ba-%d1%81-%d0%ba%d0%be%d1%82%d0%be%d1%80%d1%8b%d0%bc-%d0%bc%d1%8b-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d0%b5%d0%bc-%d0%bf%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83-%d1%82%d0%b0%d0%ba-%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%bd%d0%b5-%d0%bd%d1%83%d0%b6%d0%bd%d0%be">
     <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h3>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>sorted_list <span style="color:#ff79c6">=</span> list_of_books<span style="color:#ff79c6">.</span>sort() <span style="color:#6272a4"># Не правильно!</span>
-</span></span></code></pre></div><p>После того как мы вызвали метод sort() список уже будет отсортирован и с ним можно продолжать работать.</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>sorted_list <span style="color:#ff79c6">=</span> list_of_books<span style="color:#ff79c6">.</span>sort() <span style="color:#6272a4"># Не правильно!</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>После того как мы вызвали метод sort() список уже будет отсортирован и с ним можно продолжать работать.</p>
 <p>Звучит немного спутанно, но так уж оно работает, ну или почти так :)</p>
 <hr>
 <p>Все что нам остается это взять последний элемент списка. Он и будет самым длинным названием.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>title <span style="color:#ff79c6">=</span> list_of_books<span style="color:#ff79c6">.</span>pop()
-</span></span></code></pre></div><p>Останется только вывести текст на экран, если хочется почитать сказку. И не забыть <strong>return</strong> текст, чтобы пройти тест.</p>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>title <span style="color:#ff79c6">=</span> list_of_books<span style="color:#ff79c6">.</span>pop()
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>Останется только вывести текст на экран, если хочется почитать сказку. И не забыть <strong>return</strong> текст, чтобы пройти тест.</p>
 <p>Но помни что title - это только название, чтобы открыть файл, нужно не забыть указать также и путь к файлу!</p>
 <p>Не забудь в конце запустить <strong>run_lvl_01_test.py</strong></p>
 
@@ -281,10 +370,16 @@
         
         
           
+            <li>
+              <a href="/posts/rpg_lvl_02/">День второй</a>
+            </li>
+          
+        
+          
         
           
             <li>
-              <a href="/posts/rpg_lvl_00/">Нулевой уровень</a>
+              <a href="/posts/rpg_lvl_00/">Нулевой день</a>
             </li>
           
         

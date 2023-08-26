@@ -3,37 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.org/authors/</loc>
-    <lastmod>2023-08-24T14:05:25+04:00</lastmod>
+    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
-    <lastmod>2023-08-24T14:05:25+04:00</lastmod>
+    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
-    <lastmod>2023-08-24T14:05:25+04:00</lastmod>
+    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/learning/</loc>
-    <lastmod>2023-08-24T14:05:25+04:00</lastmod>
+    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
   </url><url>
     <loc>http://example.org/series/magic-world/</loc>
-    <lastmod>2023-08-24T14:05:25+04:00</lastmod>
+    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
   </url><url>
     <loc>http://example.org/posts/</loc>
-    <lastmod>2023-08-24T14:05:25+04:00</lastmod>
+    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/python/</loc>
-    <lastmod>2023-08-24T14:05:25+04:00</lastmod>
+    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/rpg/</loc>
-    <lastmod>2023-08-24T14:05:25+04:00</lastmod>
+    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
   </url><url>
     <loc>http://example.org/series/</loc>
-    <lastmod>2023-08-24T14:05:25+04:00</lastmod>
+    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/</loc>
-    <lastmod>2023-08-24T14:05:25+04:00</lastmod>
+    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
   </url><url>
     <loc>http://example.org/authors/viktar-ivanou/</loc>
-    <lastmod>2023-08-24T14:05:25+04:00</lastmod>
+    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/rpg_lvl_02/</loc>
+    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
   </url><url>
     <loc>http://example.org/posts/rpg_lvl_01/</loc>
     <lastmod>2023-08-24T14:05:25+04:00</lastmod>
