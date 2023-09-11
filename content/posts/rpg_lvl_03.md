@@ -1,5 +1,5 @@
 +++ 
-draft = false
+draft = true
 date = 2023-08-27T07:08:08+04:00
 title = "День третий"
 description = "Поиски сокровища"

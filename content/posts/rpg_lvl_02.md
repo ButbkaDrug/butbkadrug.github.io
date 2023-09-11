@@ -1,5 +1,5 @@
 +++ 
-draft = false 
+draft = true
 date = 2023-08-26T06:36:18+04:00
 title = "День второй"
 description = "Учимся писать"
