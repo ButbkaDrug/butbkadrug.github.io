@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'ru-ru'
-title = 'Get the hell out'
+title = 'Butbka World'
 theme = 'hugo-coder'
 
 paginate = 20
@@ -13,7 +13,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Viktar Ivanou"
-  info = "If you here by acidend, just get the hell out!"
+  info = "Welcome! Join me in exploring my observations and insights. This space is dedicated to sharing thoughts and reflections from my personal journey."
   description = "My personal page for all kinds of things"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
