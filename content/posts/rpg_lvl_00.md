@@ -1,5 +1,5 @@
 +++ 
-draft = false
+draft = true
 date = 2023-08-24T07:18:10+04:00
 title = "Нулевой день"
 description = "Нулевой уровень небольшой РПГ"
