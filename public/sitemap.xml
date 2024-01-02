@@ -2,58 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2024-01-02T10:30:35+04:00</lastmod>
+  </url><url>
+    <loc>http://example.org/projects/kilogram/</loc>
+    <lastmod>2024-01-02T10:30:35+04:00</lastmod>
+  </url><url>
+    <loc>http://example.org/projects/</loc>
+    <lastmod>2024-01-02T10:30:35+04:00</lastmod>
+  </url><url>
     <loc>http://example.org/authors/</loc>
-    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
-    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/learning/</loc>
-    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/series/magic-world/</loc>
-    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/python/</loc>
-    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/rpg/</loc>
-    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
   </url><url>
     <loc>http://example.org/series/</loc>
-    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/</loc>
-    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/authors/viktar-ivanou/</loc>
-    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/rpg_lvl_02/</loc>
-    <lastmod>2023-08-26T06:36:18+04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/rpg_lvl_01/</loc>
-    <lastmod>2023-08-24T14:05:25+04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/rpg_lvl_00/</loc>
-    <lastmod>2023-08-24T07:18:10+04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/learing/</loc>
-    <lastmod>2023-08-23T15:13:51+04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/role-playing-game/</loc>
-    <lastmod>2023-08-23T15:13:51+04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/invisible-message/</loc>
-    <lastmod>2023-08-22T10:35:40+04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/my-fist-post/</loc>
-    <lastmod>2023-08-22T10:00:25+04:00</lastmod>
   </url>
 </urlset>
