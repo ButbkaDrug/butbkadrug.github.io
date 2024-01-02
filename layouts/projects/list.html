@@ -2,10 +2,12 @@
   {{ title (i18n (lower .Title)) | default .Title }} · {{ .Site.Title }}
 {{ end }}
 {{ define "content" }}
-<div class="w-full gridgap-4">
+<div class="w-full grid grid-cols-1 lg:grid-cols-3 gap-4">
   {{ range .Pages }}
-  <div class="flex  gap-2 justify-self-center">
+  <div class="justify-self-center">
         <img src="{{.Params.image}}"
+            width="256"
+            height="256"
             alt="{{.Title}}"
         >
         <div>
