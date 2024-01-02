@@ -1,0 +1,19 @@
+{{ define "title" }}
+  {{ title (i18n (lower .Title)) | default .Title }} · {{ .Site.Title }}
+{{ end }}
+{{ define "content" }}
+<div class="w-full gridgap-4">
+  {{ range .Pages }}
+  <div class="flex  gap-2 justify-self-center">
+        <img src="{{.Params.image}}"
+            alt="{{.Title}}"
+        >
+        <div>
+        <h2>{{.Title}}</h2>
+        <h5 class=" w-[256px] text-xl font-normal">{{.Params.description}}</h5>
+        <a href="{{.Permalink}}"><button>More...</button></a>
+        </div>
+  </div>
+  {{end}}
+</div>
+{{end}}

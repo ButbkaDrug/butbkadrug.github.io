@@ -1,6 +1,8 @@
 ---
 title: "Kilogram"
 date: 2024-01-02T10:30:35+04:00
+image: "/kilogram_logo_256.jpeg"
+description: "Kilogram is a command-line interface (CLI) Telegram client designed for..."
 draft: false
 ---
 
