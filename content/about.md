@@ -4,6 +4,7 @@ date: 2024-01-02T16:23:11+04:00
 draft: false
 ---
 
+![profile picture](/profile.jpg)
 Hello there! 👋 I'm Viktar, programming enthusiast currently living in Georgia. Here's a bit about me:
 
 
@@ -14,7 +15,6 @@ I have a passion for programming and have had the pleasure of working with vario
 - Python
 - Golang
 
-
 Apart from coding, I have a few other interests:
 
 - **Music:** I love both listening to and playing music. It's a great way for me to relax and unwind.
@@ -23,3 +23,6 @@ Apart from coding, I have a few other interests:
 
 # Family Life
 I have loving wife and three amazing kids who bring so much joy and happiness to our life.
+
+Feel free to connect with me and share your programming adventures! Let's learn and grow together.
+

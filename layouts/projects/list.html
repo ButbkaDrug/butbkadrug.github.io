@@ -2,6 +2,7 @@
   {{ title (i18n (lower .Title)) | default .Title }} · {{ .Site.Title }}
 {{ end }}
 {{ define "content" }}
+<link rel="stylesheet" href="/dist/output.css">
 <div class="w-full grid grid-cols-1 lg:grid-cols-3 gap-4">
   {{ range .Pages }}
   <div class="justify-self-center">
