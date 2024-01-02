@@ -21,3 +21,5 @@ Kilogram is a command-line interface (CLI) Telegram client designed for integrat
 ## Usage
 
 Feel free to explore Kilogram's features and functionalities as it evolves. Your feedback and contributions are always welcome.
+
+[Kilogram on GitHub](https://github.com/ButbkaDrug/kilogram)
