@@ -26,5 +26,7 @@ Meet Brial Bot, the Telegram chatbot designed to turn your messages into captiva
 
 Discover the world of Brial coding with Brial Bot, your Telegram companion for playful and engaging conversations. Customize your chats and share the joy of decoding with friends!
 
+[Brial Bot on GitHub](https://github.com/ButbkaDrug/brial-tdbot-go)
+
 
 [Start Chatting](https://t.me/brial_bot)
