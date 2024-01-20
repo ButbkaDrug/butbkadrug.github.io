@@ -6,7 +6,28 @@
     <description>Recent content in Projects on Butbka World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 02 Jan 2024 10:30:35 +0400</lastBuildDate><atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jan 2024 10:06:10 +0400</lastBuildDate><atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multitracks Scraper Go</title>
+      <link>http://example.org/projects/multitracks-scraper-go/</link>
+      <pubDate>Thu, 04 Jan 2024 10:06:10 +0400</pubDate>
+      
+      <guid>http://example.org/projects/multitracks-scraper-go/</guid>
+      <description>multitracks-scraper-go Link to heading Multitracks Scraper CLI Tool for Reaper DAW Projects
+Overview Link to heading multitracks-scraper-go is a command-line interface (CLI) tool written in Go that enables users to scrape web pages for song information and automatically create new projects for the Reaper DAW. This tool simplifies the process of setting up projects, making it more efficient for music producers and engineers(Me mostly :) ).
+Features Link to heading Web Scraping: Retrieve song information from web page.</description>
+    </item>
+    
+    <item>
+      <title>Brial bot</title>
+      <link>http://example.org/projects/brial_bot/</link>
+      <pubDate>Tue, 02 Jan 2024 16:06:02 +0400</pubDate>
+      
+      <guid>http://example.org/projects/brial_bot/</guid>
+      <description>Meet Brial Bot, the Telegram chatbot designed to turn your messages into captivating Brial code! Brial Bot adds a dash of mystery and entertainment to your conversations with its unique text conversion feature.
+Features: Link to heading Brial Code Conversion: Simply send your text messages to Brial Bot, and experience the excitement as it transforms your words into intriguing Brial code. Elevate your chat experience with a touch of cryptic fun!</description>
+    </item>
+    
     <item>
       <title>Kilogram</title>
       <link>http://example.org/projects/kilogram/</link>
