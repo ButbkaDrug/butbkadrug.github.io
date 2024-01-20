@@ -1,5 +1,5 @@
 +++ 
-draft = false
+draft = true
 date = 2024-01-07T13:29:01+04:00
 title = "Temp Post"
 description = "Temporary post you shuldnt look at"
