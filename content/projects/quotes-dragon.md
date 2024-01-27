@@ -1,3 +1,10 @@
+---
+title: "Quotes Dragon Telegram Bot"
+date: 2024-01-027T10:06:10+04:00
+draft: false
+image: "https://butbkadrug.github.io/quotes-dragon_256.jpeg"
+description: "The Quotes Bot for Telegram is a chatbot that I made for fun and learning. I think it can be entertaining and inspirational. You can check it out on [Quotes Dragon](https://t.me/quotes_dragon_bot)."
+---
 # Quotes Bot for Telegram
 ![Quotes Dragon Bot](https://butbkadrug.github.io/quotes-dragon.jpeg)
 
