@@ -1,9 +1,9 @@
 ---
-title: "RSS Feed Reader Bot"
-date: 2024-01-31T16:06:02+04:00
+title: "Rss Feed Reader"
+date: 2024-01-31T11:59:33+04:00
 image: "/rss-feed-reader-bot-256.jpeg"
 description: "Sophisticated Telegram bot developed in Golang, designed to revolutionize your feed reading experience(or maybe not)."
-draft: False
+draft: false
 ---
 
 # FeedBot
@@ -23,3 +23,4 @@ FeedBot is a sophisticated Telegram bot developed in Golang, designed to revolut
 1. Clone repository
 2. From repository folder build/run main.go file. Provide your bot tokey ether with -key flag or create .evn file in project root and add "BOT_API_KEY=yourbotapikeyformbotfather". Replase my gibberish with your actual token.
 
+[Check out on GitHub](https://github.com/ButbkaDrug/rss-telegram-bot)

@@ -6,7 +6,17 @@
     <description>Recent content in Projects on Butbka World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 04 Jan 2024 10:06:10 +0400</lastBuildDate><atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jan 2024 11:59:33 +0400</lastBuildDate><atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rss Feed Reader</title>
+      <link>http://example.org/projects/rss-feed-reader/</link>
+      <pubDate>Wed, 31 Jan 2024 11:59:33 +0400</pubDate>
+      
+      <guid>http://example.org/projects/rss-feed-reader/</guid>
+      <description>FeedBot Link to heading Overview Link to heading FeedBot is a sophisticated Telegram bot developed in Golang, designed to revolutionize your feed reading experience. This powerful tool effortlessly handles RSS, Atom, and JSON feeds, delivering the latest updates directly to your Telegram messages.
+Features Link to heading Multi-Format Support: Seamlessly parses RSS, Atom, and JSON feeds for comprehensive coverage. Timely Updates: Receive new entries in your selected feeds. You, can specify timeout on the per feed basis.</description>
+    </item>
+    
     <item>
       <title>Multitracks Scraper Go</title>
       <link>http://example.org/projects/multitracks-scraper-go/</link>
