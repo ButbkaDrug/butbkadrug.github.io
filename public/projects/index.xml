@@ -39,5 +39,17 @@ Features Link to heading Chat Management: Fetch a list of your chats or view the
 Contact Retrieval: Fetch your contacts with ease.</description>
     </item>
     
+    <item>
+      <title>Quotes Dragon Telegram Bot</title>
+      <link>http://example.org/projects/quotes-dragon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/quotes-dragon/</guid>
+      <description>Quotes Bot for Telegram Link to heading Overview Link to heading The Quotes Bot for Telegram is a chatbot that I made for fun and learning. I think it can be entertaining and inspirational. You can check it out on Quotes Dragon.
+Features Link to heading /commands: You can prompt the bot with commands as always.
+Voice Notes Support: The bot is also capable of recognizing speech (Russian).
+Free text recognition: You can type your request in a &amp;ldquo;free text&amp;rdquo; form, and the bot will do its best to understand you.</description>
+    </item>
+    
   </channel>
 </rss>
