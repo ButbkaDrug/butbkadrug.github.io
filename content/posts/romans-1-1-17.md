@@ -92,3 +92,5 @@ Even though Paul does not address any particular issues in his letter. He does s
 Then under the reign of the emperor XXXX all Jews were expelled from the city of Rome. And were allowed to return only **5 years later**. When they got back to their homes and churches. They have found that at this point church consist primerly of non-Jewish believers and now Jews were overlooked and undervalued. So people in the church with different backgrounds would argue about the traditions and the law. About what should be followed and how things should be. So Paul, as a Jewish rabby on one side and apostile for Gentiles on the other helps them to settle thier arguments and find path of love and peace.
 
 At the moment of the writing Paul himself is in the city of Corinth, during his third missionary journey. In the city of Corinth believers struggled to respect Paul as an apostile and God's servant. Also, they have struggled with all kids of immoral behaviors and pagan believes. And that is what Paul had to deal with at the time and those factors also could have their influence on the letter to Rome.
+
+<!--NOTE: a little change from an Iphone -->
