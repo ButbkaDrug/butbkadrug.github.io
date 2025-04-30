@@ -91,6 +91,27 @@ Even though Paul does not address any particular issues in his letter. He does s
 
 Then under the reign of the emperor XXXX all Jews were expelled from the city of Rome. And were allowed to return only **5 years later**. When they got back to their homes and churches. They have found that at this point church consist primerly of non-Jewish believers and now Jews were overlooked and undervalued. So people in the church with different backgrounds would argue about the traditions and the law. About what should be followed and how things should be. So Paul, as a Jewish rabby on one side and apostile for Gentiles on the other helps them to settle thier arguments and find path of love and peace.
 
-At the moment of the writing Paul himself is in the city of Corinth, during his third missionary journey. In the city of Corinth believers struggled to respect Paul as an apostile and God's servant. Also, they have struggled with all kids of immoral behaviors and pagan believes. And that is what Paul had to deal with at the time and those factors also could have their influence on the letter to Rome.
+At the moment of the writing Paul himself located at the city of Corinth, during his third missionary journey. In the city of Corinth believers struggled to respect Paul as an apostile and God's servant. Also, they have struggled with all kids of immoral behaviors and pagan believes. And that is what Paul had to deal with at the time and those factors also could have their influence on the letter to Rome.
 
 <!--NOTE: a little change from an Iphone -->
+
+### Paul's introduction
+
+#### Romans 1:1-8
+>¹Paul, a servant  of Christ Jesus, called to be an apostle, set apart for the gospel of God,²which he promised beforehand through his prophets in the holy Scriptures,³concerning his Son, who was descended from David  according to the flesh⁴and was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord,⁵through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations,⁶including you who are called to belong to Jesus Christ,
+
+>⁷To all those in Rome who are loved by God and called to be saints: 
+
+>Grace to you and peace from God our Father and the Lord Jesus Christ.
+
+Paul starts his letter to the churches of Rome from introduction of himself. As I already mentioned earlied Paul did not started the church in Rome. And therefore people could have questions like WHO IS PAUL? And what he has to do with our fellowship?
+
+When you introduce yourself to a new group of people, that what you usually do. You say your name and then who you are. You present your identity in a very condensed form, in a singular word of a centanse.
+
+When me and my falmily go back home. We often visit different churches and share about our ministry here in Batumi. And that is very regular thing you have to do. You go up on the stage(if it's a church gathering) or you maybe just sit a bit more upright if it is a less formal group. And you say something among the lines "Hello, my name is Viktar. God called me and my wife to be missionaris."
+
+In the conferance inviroment a persone get's up on the stage and says "hi, my name is Tim. I worked at X for the last 10 years. In cyber secyrity departement and today I'm gonna talk about most common volnurabilities in modern web applications."
+
+So, the person presents himself and also presents his credentials. He proves his experties and gives us reasons to respect his oppinions. He proves that he is really knows his field. 
+
+Let's see how does apoustol Paul presents himself. He says: "Hi, I'm Paul and I am a slave of the Chris Jesus". Oh, that's a bit wired. A slave? Out of everything you could have chosen Paul, you choce a slave?
