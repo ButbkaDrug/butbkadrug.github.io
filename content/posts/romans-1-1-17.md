@@ -63,9 +63,9 @@ title = 'Romans 1:1 17'
 
 ---
 
-Today we going to open up a new book of the bible. All Scriptures are inspired by God and good for learning. And for the some time we will anchor to the Pauls letter to the church in the city of Rome. But before we will go ahead and dive into the text, we should lay a little foundation that might help us to understand a little better, or a little easier why certain things are talked about and some are not. It is probably not going to revolutionize your view of the text. Even though it might for some, especially if you never considered that before. But it is certainly can help to explain or in some cases prevent misreading the Scriptures.
+Today we going to open up a new book of the bible. All Scriptures are inspired by God and good for learning. And for the some time we will anchor to the Pauls letter to the church in the city of Rome. But before we will go ahead and dive into the text, we should lay a little foundation that might help us to understand a little better, or a little easier why certain things are talked about and some are not. It is probably not going to revolutionize your view of the text. Even though it might for some, especially if you never considered that before. But it is certainly can help to explain the scriptures. And in some cases prevents misreading.
 
-We will start from the overview of the book and some historical background. Why? Because it is often unlocks the understanding of why certain aspects of the text. How to apply them and so on. Because written word can be tricky. It lacks the emotional context as well as intentions of the writer. Which otherwise are pretty apparent when you talk face to face. Or if nothing else could be easily clarified just by talking. Unlike the live conversation, letter has only word and depending on many factors you can read the same words differently. You know as social networks and message apps gained popularity it became very clear.
+We will start from the overview of the book and some historical background. Why? Because it is often unlocks the understanding of the certain aspects of the text. How to apply them and so on. Because written word can be tricky. It lacks the emotional context. It is not always clear what was the intentions of the writer and etc. Which otherwise are pretty apparent when you talk face to face. Or if nothing else could be easily clarified just by talking. Unlike the live conversation, letter has only word. And depending on many factors you can read the same words differently. You know as social networks and message apps gained popularity it became very clear. 
 
 Many times I found myself in the position where I wrote a little message to someone. Said something pretty innocent. Maybe a little joke or what not. But, on the other end of the conversation. Person misread it and got hurt. Got very offended. And then you have to deal with a conflict that would have not even happen if we would just talk in person.
 
@@ -97,6 +97,8 @@ At the moment of the writing Paul himself located at the city of Corinth, during
 
 ### Paul's introduction
 
+So, with all that being said. Let's start reading.
+
 #### Romans 1:1-8
 >¹Paul, a servant  of Christ Jesus, called to be an apostle, set apart for the gospel of God,²which he promised beforehand through his prophets in the holy Scriptures,³concerning his Son, who was descended from David  according to the flesh⁴and was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord,⁵through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations,⁶including you who are called to belong to Jesus Christ,
 
@@ -112,6 +114,55 @@ When me and my falmily go back home. We often visit different churches and share
 
 In the conferance inviroment a persone get's up on the stage and says "hi, my name is Tim. I worked at X for the last 10 years. In cyber secyrity departement and today I'm gonna talk about most common volnurabilities in modern web applications."
 
-So, the person presents himself and also presents his credentials. He proves his experties and gives us reasons to respect his oppinions. He proves that he is really knows his field. 
+So, the person presents himself and also presents his credentials. He proves his experties and gives us reasons to respect his oppinions. He proves that he really knows his field. 
 
-Let's see how does apoustol Paul presents himself. He says: "Hi, I'm Paul and I am a slave of the Chris Jesus". Oh, that's a bit wired. A slave? Out of everything you could have chosen Paul, you choce a slave?
+Let's see how does apoustol Paul presents himself.
+
+He says: "Hello, I'm Paul and I am a **slave** of the Chris Jesus".
+
+The word "slave" or "servant" as it translated in ESV bible. In original text sounds like "δοῦλος" - [doolos] - which translates as a slave, devoted to another to the disregard of one's own interests.
+
+Paul's fundumental identity that he goes by. The one he presents here in this letter is a slave of Jesus Christ. Paul litterally says I do not belong to myself. I disregarded my own will and I'm fully devoted to the will of my master.
+
+He continue his introduction:
+
+### Romans 1:1
+>¹Paul, a servant  of Christ Jesus, **called to be an apostle**, set apart for the gospel of God,
+
+The word *called* translates as **"invited"** or **"divinely selected and appointed"**. So, Paul, been devinely selected to be an apostle. Who is apostle? Apostle is a delegate, messenger, one sent forth with orders.
+
+Here Paul starts to present us his authority. He provides the reasons why we should listen to him. And as you see it is not because he is very smart. Not because he has a PhD. Not because he was taught by the best of the best. Not because he is exceptionally good at all things God's law.None of that. Paul has all those credentials, but he not using thouse as a proof of this experties if you will.
+
+His authority does not come from him. His authority comes from the fact that he is a servant or the slave of the Jesus Christ, who were apointed to be his messenger, special worker. Paul were sent with orders from the master. And whatever Pauls says or does. He does not do on his own behalf. But on the behalf of the one who sent him. Hi disregarded his own will and fully devoted to the will of his Master. So, his authority comes from his belonging to the master.
+
+Imagine, you walking down the street. The day is really good. Sun shining on you, slight wind blows into your face. You go about your bisness enjoing the moment. And then suddenly some guy on the street stats talking to you. You don't really understand what he is saying. You, as a polite persone would, smile and say sorry, I don't have time. And keep walking. The guy behing you demand you to stop, but you not even thinking about it. Happened to me few times. I'm sure some of you have had simmilar expiriance. No problem what so ever.
+
+But let me share with you the other story that happen to me some time ago. Maybe year or two back. Everything was pretty much like in the first case. Nice day, beautiful weather. And the guy... actulay two of them. With the differance being that they had a Police uniform. They asked me to stop and I did. They asked me some questions and I aswered. They've asked me to open my backpack and I obeyed. I did this not because Gocha and Merab told me. No, but because officers Beridze and Kochalidze requested it. While they are on duty they act not on their own behalf, but on the behalf of the state. State grants them authority. And if you do not obey, you gonna get charges pushed against you. Not because you did't listen to Gocha and Merab, no, but because while they on the duty they represent their "master" the state of Georgia. And disobeying them is the same as disobeying their master. 
+
+Same with apostle Paul. In whatever he does. He does not represents himslelf. He does not speak of himself. He is apointed by the master to do the work. And as long as he is on duty, you should listen to what he is saying. Because disobeying him is the same as disobeying the master who sent him.
+
+Why it is important? Why we spend some much time talking about things that at the first look are not important and obvious.
+
+Because, back in the day, as well as now there are people who doubds Pauls authority. People saying that you should only obey things that Jesus spoke himself, but whatever apostles sayed is not so important, they could have been wrong. They are just people after all.
+
+Yes, they were just regular, everyday people. But those pepole were selected and apointed by God to speak on his behalf. God grants them authority and we should listen and submit. Because, apostles on duty spoke on behalf of God. And all that is written in the bible were inspired by the Holy Spirit. All scripture are good and inspired by God bible says. So, please, do not get trapped by the enemy, by your pride that says "You know better then them". "You need no man to teach you". It will set you up for the falure. 
+
+Not only Pual is chosen by God to be his worker. But also he is not just any worker. Like a multitytool. He is a special instrument. Dedicated to one job.
+
+### Romans 1:1
+ ¹Paul, a servant  of Christ Jesus, called to be an apostle, **set apart for the gospel of God**,
+
+I love tools. I have a few. I know how to work with my hand and fix things, or at least I manage to make them less broken then they were before. And I have this nice multitool. It's not a cheap knockoff. It's a legit one. It's a present from a friend. Solid, made in USA all that. And it does work. It is a handy thing. can be a knife, a saw, a pliers, screwdriver and more. But the moment you need to do something tiny bit more special that regular task, it not gonna help. As good as it is it's going to be useless. But, I have other tools that are highly specialized. And I keep them in the box until the moment I need them. Because, when I need them nothing else will help. Yes, maybe they do one thing, but they do that one thing soooo goood. 
+
+Apostle Paul is like that highly specialized tool. God apointed him to a very specific job. To bring the Gospel to Gentiles. To me and you. So, we as non jewish believers should pay extra attention to what the Paul says. Because, God apointed him to be a messenger specifically to us.
+
+
+<!--COMMENT: Practicality of this message? What do we learned for our day to day life?
+
+* We layed the foundation for our further study which is important. Because you can't build a strong building if your foundation is weak.
+* We assured that Paul and other apostles have authority to speak into our life. And that all bible is good and true. If today you selectively belive the bible, you should repent.
+* We learned that when God calls us to serve him it is not about our experties or skills or anything else, our authority comes from him.
+*What else?
+-->
+
+<!--TIME: 6:40-->
