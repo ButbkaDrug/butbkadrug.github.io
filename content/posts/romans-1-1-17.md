@@ -6,63 +6,6 @@ title = 'Romans 1:1 17'
 
 ## Introduction to the book of Romans
 
->### Romans 1:1-17
->¹Paul, a servant  of Christ Jesus, called to be an apostle, set apart for the gospel of God,²which he promised beforehand through his prophets in the holy Scriptures,³concerning his Son, who was descended from David  according to the flesh⁴and was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord,⁵through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations,⁶including you who are called to belong to Jesus Christ,
-
->⁷To all those in Rome who are loved by God and called to be saints: 
-
->Grace to you and peace from God our Father and the Lord Jesus Christ.
-
->⁸First, I thank my God through Jesus Christ for all of you, because your faith is proclaimed in all the world.⁹ For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I mention you¹⁰always in my prayers, asking that somehow by God's will I may now at last succeed in coming to you.¹¹For I long to see you, that I may impart to you some spiritual gift to strengthen you —¹²that is, that we may be mutually encouraged by each other's faith, both yours and mine.¹³I do not want you to be unaware, brothers,  that I have often intended to come to you (but thus far have been prevented), in order that I may reap some harvest among you as well as among the rest of the Gentiles.¹⁴ I am under obligation both to Greeks and to barbarians,  both to the wise and to the foolish.¹⁵So I am eager to preach the gospel to you also who are in Rome.
-
->¹⁶For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.¹⁷For in it the righteousness of God is revealed from faith for faith,  as it is written, “The righteous shall live by faith.”
-
-## Historical context
-
----
-
-### 🖋️ Authorship
-
-    * Author: The Apostle Paul
-
-    * Date: Around AD 56–58
-
-    * Place of Writing: Likely from Corinth, during Paul’s third missionary journey
-
-    * Audience: Christians in Rome — a mix of Jewish and Gentile believers
-
-### 🕰️ Historical Background
-
-    * The Roman church likely began independently of Paul, possibly formed by Jewish converts from Pentecost (Acts 2) who returned to Rome.
-
-    * Tensions existed between Jewish and Gentile believers, especially after Emperor Claudius expelled Jews from Rome (around AD 49), and they later returned.
-
-    * Paul had never visited the Roman church at the time of writing.
-
-### 🎯 Purpose of the Letter
-
-    * To unify Jewish and Gentile believers around the truth of the gospel
-
-    * To clearly explain the doctrine of salvation by grace through faith
-
-    * To prepare the church for his upcoming visit and future support for his mission to Spain
-
-    * To show how the gospel transforms lives — both spiritually and practically
-
-### 📚 Core Themes
-
-    * Justification by Faith: We are made right with God by faith, not by works (Ch. 3–5)
-
-    *  New Identity in Christ: We are dead to sin and alive to God (Ch. 6–8)
-
-    * Life in the Spirit: Victory over sin and life through the Holy Spirit (Ch. 8)
-
-    * God’s Grace & Sovereignty: His plan for Israel and the nations (Ch. 9–11)
-
-    *  Practical Christian Living: Living out the gospel in community and culture (Ch. 12–15)
-
----
-
 Today we going to open up a new book of the bible. All Scriptures are inspired by God and good for learning. And for the some time we will anchor to the Pauls letter to the church in the city of Rome. But before we will go ahead and dive into the text, we should lay a little foundation that might help us to understand a little better, or a little easier why certain things are talked about and some are not. It is probably not going to revolutionize your view of the text. Even though it might for some, especially if you never considered that before. But it is certainly can help to explain the scriptures. And in some cases prevents misreading.
 
 We will start from the overview of the book and some historical background. Why? Because it is often unlocks the understanding of the certain aspects of the text. How to apply them and so on. Because written word can be tricky. It lacks the emotional context. It is not always clear what was the intentions of the writer and etc. Which otherwise are pretty apparent when you talk face to face. Or if nothing else could be easily clarified just by talking. Unlike the live conversation, letter has only word. And depending on many factors you can read the same words differently. You know as social networks and message apps gained popularity it became very clear. 
