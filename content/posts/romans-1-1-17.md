@@ -132,4 +132,4 @@ And the first thing that we leared is that we should not doubd the authority of 
 #### Disregard of one's will
 Second is that to be God's servant is mean to disregard your own will for the will of God. If you want to serve the Lord you should give up control. Leave your plans and vision for your life and start praying and asking "God, what do You what from me?" And it is not easy thing to do.
 
-###
+{{<stopwatch>}}
