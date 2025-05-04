@@ -5,7 +5,7 @@ title = 'Romans 1:1 17'
 +++
 
 ## Introduction to the book of Romans
-Greetings, we finally finished first letter of John, and today we going to open up a new book of the bible. All Scriptures are inspired by God and good for learning, so no matter were we settle there is some important truth for us! God always speaks to our lifes if we willing to listen, so for the some time we will anchor into the Pauls letter to the church in the city of Rome. Letter to the churches in Rome stand out among other letters of Paul.  Letter to the churches in Rome stand out among other letters of Paul. I'm exited to start digging into God's truth with you!
+Greetings, we finally finished first letter of John, and today we going to open up a new book of the bible. All Scriptures are inspired by God and good for learning, so no matter were we settle there is some important truth for us! God always speaks to our lifes if we willing to listen, so for the some time we will anchor into the Pauls letter to the church in the city of Rome. This one stands out among other letters writen by Paul. It can be considered a little bit more special, so I'm exited to start digging into God's truth with you!
 
 ### Foundation
 But before we will go ahead and dive into the text, we should lay a foundation that might help us to understand scriptures a little dipper, or perhaps I should say a little easier. Why certain things are talked about and some are not, why is the Holy Spirit say sertain thing sertain way and etc. Probably it is not going to revolutionize your view of the text. Even though for some people it might be eyes opening, especially if you never considered that context before. But it is certainly can help to comprehand the scriptures. And in some cases prevents misreading.
