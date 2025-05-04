@@ -55,7 +55,7 @@ So, with all that being said. Let's start reading.
 
 >Grace to you and peace from God our Father and the Lord Jesus Christ.
 
-Paul starts his letter to the churches of Rome from introduction of himself. As I already mentioned earlied Paul did not started the church in Rome. And therefore people could have questions like WHO IS PAUL? And what he has to do with our fellowship?
+Paul starts his letter to the churches of Rome from, classical greetings section. Back in the day that's was a pretty standart way to write the letter. But, besides formal greetings he also says a couple extra things. One of which is that Paul introduces himself. As I already mentioned earlied Paul did not started the church in Rome. And therefore people could have questions like WHO IS PAUL? And what he has to do with our fellowship?
 
 When you introduce yourself to a new group of people, that what you usually do. You say your name and then who you are. You present your identity or credatioals in a very condensed form, in a singular word of a centanse.
 
@@ -132,4 +132,8 @@ And the first thing that we leared is that we should not doubd the authority of 
 #### Disregard of one's will
 Second is that to be God's servant is mean to disregard your own will for the will of God. If you want to serve the Lord you should give up control. Leave your plans and vision for your life and start praying and asking "God, what do You what from me?" And it is not easy thing to do.
 
+### Notes...
+For some time already we are talking about what it is to be a true fallower. As we studied the letter of John this topic would come up again and again. Some time in the past Matt preached to us that following Jesus is not the same as following someone on the social network. It's not about reading statuses and reacting to posts. Giving your thumbs up and likes.
+
+Following Jesus means to live the kind of life he lived. Just like Paul: "Disregard your own will. And submit to God's will for your life"
 {{<stopwatch>}}
