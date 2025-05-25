@@ -41,11 +41,11 @@ Let's start from an easy one a Hypocrite:
 ### Who is Moralist?
 A moralist is a person who:
 
-    Believes in and **promotes** a strict set of moral principles, often focusing on what is right and wrong **behavior**(underlined).
+* Believes in and **promotes** a strict set of moral principles, often focusing on what is right and wrong **behavior**(underlined).
 
-    **Judges** others based on moral standards, especially concerning issues of conduct, ethics, or propriety.
+* **Judges** others based on moral standards, especially concerning issues of conduct, ethics, or propriety.
 
-    May sometimes be seen as **overly concerned** with morality, especially in a judgmental or preachy way.
+* May sometimes be seen as **overly concerned** with morality, especially in a judgmental or preachy way.
 
 Moralism && Hypocrisy. Dangerous mixture. And unfortunately churches are historically known to be subjected to this issue. Jesus often criticized Pharisees for exactly that. But it is not specific to any particular nation or people group. Let's see the verse 1 again:
 
@@ -55,7 +55,7 @@ Moralism && Hypocrisy. Dangerous mixture. And unfortunately churches are histori
 You see, it were not exclusive to Jewish believers only, as some might argue. No, this is the disease that can affect anyone.
 
 ## High moral standards are good
-Let's clarify that high moral standards are **NOT Evil**. God sets this standards. And those who live in God's kingdom should strive to adhere to His expectations. To be more like our Father. Those **standards**, as we call them, are simply are **guard rails** that do not let us hurt ourselves and others. So, it not like we try to be good boys and girls to keep our God happy, behaving appropriately at the church and if we particularly holy in public too. While on the inside burning with all kids of desires. Rotting inside out. No, that's not the goal. Our behavior should be a representation of our inner change. Outer state, our conduct, our behavior, should reflect inner state, state of our heart. Not the other way around.
+Let's clarify that high moral standards are **NOT Evil**. God sets this standards. And those who live in God's kingdom should strive to adhere to His expectations. To be more like our Father. Those **standards**, as we call them, are simply are **guard rails** that do not let us hurt ourselves and others. So, it not like we try to be good boys and girls to keep our God happy, behaving appropriately at the church and if we particularly holy in public too. While on the inside burning with all kinds of desires. Rotting inside out. No, that's not the goal. Our behavior should be a representation of our inner change. Outer state, our conduct, our behavior, should reflect inner state, state of our heart. Not the other way around.
 
 ### Example
 
@@ -88,7 +88,7 @@ Why do we tent to think that our sin is somehow excused or that God treats our s
 ### Romans 2:4,5
 ⁴Or do you **presume** on the riches of his kindness and forbearance and patience, not knowing that God's kindness is meant to lead you to repentance?⁵But because of your hard and impenitent heart you are storing up wrath for yourself on the day of wrath when God's righteous judgment will be revealed.
 
-Presume[καταφρονέω](kataphronéō) - κατά = down, against && φρονέω = to think, to have an opinion or mindset
+Presume [καταφρονέω] *kataphronéō* - κατά = down, against && φρονέω = to think, to have an opinion or mindset
 
 **Meaning:** To look down on, despise or to treat with disrespect.
 
@@ -132,7 +132,7 @@ Because:
 We will leave this part for the next week. But as of today we remind ourselves:
 
 ### Conclusion
-We are not called to be Moralists. Our mission is not to promote, judge or be overly concerned with **the right behavior**. It is not what's important. We should not put on a mask or a good Christian when we come to church and we definitely should not try pretend before God, because he knows our hearts anyway.
+We are not called to be Moralists on Hypocrites. Our mission is not to promote, judge or be overly concerned with **the right behavior**. It is not what's important. We should not put on a mask or a good Christian when we come to church and we definitely should not try pretend before God, because he knows our hearts anyway.
 
 Be real when you pray. If there is a problem in your heart. If you have have desires that God does not admire, tell God about it. Ask him for help. Have a trustworthy AND mature person in the Church(locally) to whom you can talk about it.
 
@@ -140,7 +140,7 @@ You can talk to a pastor. That's what I'm here for. But if that guys it too scar
 
 We should let God to change our hearts, change our way of thinking, and those changes will reflect on the outside. And we would not have to force ourselves to do the right thing. We will have very little or no desire to do the bad things.
  
-We are definitely not called to be Hippocrates. Moral standards do not save or change people. Following rules do not save or change people. Doing good works do not save people and not nesseserly change people. Faith in Jesus Christ saves people. Repentance and being born again that's what changes people. Love that what changes people.
+ Moral standards do not save or change people. Following rules do not save or change people. Doing good works do not save people and not nesseserly change people. Faith in Jesus Christ saves people. Repentance and being born again that's what changes people. Love that what changes people.
 
 
 <!--NOTE: FOR THE NEXT WEEK. TIME IS UP. -->
