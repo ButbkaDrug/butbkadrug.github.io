@@ -105,9 +105,10 @@ People learned the "rules of the game". And now while they at the church they si
 
 Friends, Church in not a theater. We not gathering to "do the right thing" for once. Our gatherings should not be religious habit, which we practice to keep God happy. We are not called to be religious. Religion does not save people. Being religious did not help Jews not gonna help you.
 
+For no one is a Christian who is merely one outwardly, nor is the following outward and physical.
+
 Circumcision of your heart by the Spirit, that's what we after. That's what pleases God. Inward change that renders out. And today is the time to start. Because God WILL judge the world. And you don't want to be on the wrong side when that happens.
 
 
-<!--NOTE:  Их сердца были закрыты -->
 
 {{<stopwatch>}}
