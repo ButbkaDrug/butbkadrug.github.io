@@ -53,7 +53,7 @@ Luckily for us, there is nothing that can stop God's plans. They will come into 
 
 This section(few following verses) might sound a bit confusing at first. To underhand what it's all about a bit better, we need to take into account a few things. Back in a Paul's day it was common in philosophical and legal debates to pose a slippery-slope “what if” scenario — showing that a single premise, taken to its logical extreme, produces an absurd or unjust result.
 
-What Paul is saying, and we talk about this for the last few Sundays, is that we cannot be justified by the work of the law. That the law only points to God's justice, to His goodness. How exactly law points to God's goodness? Because God forgives a sinner(Jew and Gentile), if that sinner repents, apart from his the works. And judges those who do not repent by their works. And it's not a good news for people because we all broke God's law one way or another.
+What Paul is saying, and we talk about this for the last few Sundays, is that we cannot be justified by the work of the law. That the law only points to God's justice, to His goodness. How exactly law points to God's goodness? Because God forgives a sinner(Jew and Gentile), if that sinner repents, apart from his the works. And judges those who do not repent by their works. And it's not a good news for the people who rely on their works, because we all broke God's law one way or another.
 
 But what people believed is that it is all about your works. You get blessing for obedience and curses for disobedience. That **having** the law justifies you.
 
