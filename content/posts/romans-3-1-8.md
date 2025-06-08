@@ -102,7 +102,10 @@ And now you have a choice. You can be stubborn and keep doing what you doing. Be
 
 Or you can leave those experiences, that framework. And start getting to know your spouse. Start building YOUR own relationship instead of utilizing someone else's. And of course there is room for error. And that's why you should have people would help you not to do stupid and sometimes dangerous mistakes.
 
-Maybe it never happened to you. But I've been subjected to that. When I was *Yang and Stupid*. Someone tells you "that's how it should be, this is how it works. What you have is not right". And you go and try to live by that only to figure out that it is actually doesn't. That for your family it does more damage than good.
+Maybe it never happened to you. But I've been subjected to that. When I was *Yang and Stupid*. Someone tells you or you just have this idea in your head:
+>"that's how it should be, this is how it works. What you have is not right".
+
+And you go and try to live by that only to figure out that it's actually doesn't work. That for your family it does more damage than good. Even though it worked for your parents in the past. Or it works for that other family. Not always you can take someone else's experience, even if it's a good one. And apply it to your situation. There is no work around of getting to know your loved one. It is a big part of the very reason for the relationships.
 
 ### WRAP UP
 Today we should pray and ask Holy Spirit to reveal to us His truth. Maybe today we should let go of some thing. Things that shape our view of God in a wrong way. Maybe there are things that does not help us in building up our Faith anymore. Religious way of thinking. When we rely on tradition. On our favorite authors and preachers to shape our image of God.
