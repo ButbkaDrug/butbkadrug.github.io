@@ -46,7 +46,7 @@ Of course not! Even if everyone else is a liar, God is true. As the Scriptures s
 “You will be proved right in what you say,
 and you will win your case in court.”
 
-Luckily for us, there is nothing that can stop God's plans. They will come into existence regardless. Because God is always true to His word. And the basis of His promises is Himself, and that is why we CAN and SHOULD rely on God more the anything else. God and His world are truly immutable. They never change. Even if every last man will turn away from God, he will still be true to the promises He made to people. So, faithfulness of God's special people do not nullify His plans, but rather reveal the greatness of God. Because, He stays true even though people are not.
+Luckily for us, there is nothing that can stop God's plans. They will come into existence regardless. Because God is always true to His word. And the basis of His promises is Himself, and that is why we CAN and SHOULD rely on God more the anything else. God and His world are truly immutable. They never change. Even if every last man will turn away from God, he will still be true to the promises He made to people. So, faithlessness of God's special people do not nullify His plans, but rather reveal the greatness of God. Because, He stays true even though people are not.
 
 ### Romans 3:5 (NLT)
 >5“But,” some might say, “our sinfulness serves a good purpose, for it helps people see how righteous God is. Isn’t it unfair, then, for him to punish us?” (This is merely a human point of view.)
