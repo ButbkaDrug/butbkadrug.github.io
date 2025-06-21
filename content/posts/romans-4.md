@@ -63,7 +63,7 @@ However bible says that Abraham had **NOTHING** to boast about before God. Becau
 
 You see, it's not the hard work. Not the birth. Not anything else but his **faith** that brought the justification. It is not wages. Not something that you can earn by working hard. It is a gift. It is a blessing. Blessing of forgiveness and justification as the verse 7 says.
 
-You cannot earn Gods forgiveness or justification. It is simply impossible on one hand. But also, God desires to make it available to ANYONE at ALL TIMES. And this is why You can only receive it as a gift, as a blessing. No one ever earned justification. Not even Abraham. **Faith that expressed though obedience** - that were it's at.
+You cannot earn Gods forgiveness or justification. It is simply impossible. But that's not even the main point, the greater reason is that God desires to make it available to ANYONE at ALL TIMES. And this is why You can **ONLY** receive it as a gift, as a blessing. No one ever EARNED justification. Not even Abraham. **Faith that expressed though obedience** - that were it's at.
 
 ### Next question
 
@@ -72,7 +72,7 @@ And so, if Abraham got justified because of faith, is this option available only
 ### Romans 4:9-12
 >⁹Is this blessing then only for the circumcised, or also for the uncircumcised? For we say that faith was counted to Abraham as righteousness.¹⁰How then was it counted to him? Was it before or after he had been circumcised? It was not after, but before he was circumcised.¹¹ He received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised. The purpose was to make him the father of all who believe without being circumcised, so that righteousness would be counted to them as well,¹²and to make him the father of the circumcised who are not merely circumcised but who also walk in the footsteps of the faith that our father Abraham had before he was circumcised.
 
-I don't think any of this comes by a surprise. Recently we spent the entire Sunday reflecting on God's justice. We know that God is just and treats people fairly. We can see that this blessing and promise are not only for those who are Abraham's actual descendants. This blessings are available to me and you. As long as we are Abraham's children by heart. As long as we have the same **faith in God**. Those are true descendants, who walk in the footsteps of the faith of Abraham. 
+I don't think any of this comes by a surprise. Recently we spent the entire Sunday reflecting on God's justice. We know that God is just and treats people fairly. We can see that this blessing and promise are not only for those who are Abraham's descendants by birth. This blessings are available to me and you. As long as we are Abraham's children by heart. As long as we have the same **faith in God**. Those are true descendants, who walk in the footsteps of the faith of Abraham. 
 
 ### Romans 4:13-15
 >¹³For the promise to Abraham and his offspring that he would be heir of the world did not come through the law but through the righteousness of faith.¹⁴ For if it is the adherents of the law who are to be the heirs, faith is null and the promise is void.¹⁵For the law brings wrath, but where there is no law there is no transgression.
@@ -92,7 +92,7 @@ God, by His great mercy, made those blessings a **promise** that rest on grace. 
 
 Today we can be considered descendants of Abraham, his offspring. We all are fulfillment of God's promise to him. And as his offspring we share the promises that God made to Abraham. As long as we walk in the footsteps of faith.
 
-Abraham was the person who believed God against the odds. They were not on his side. The facts of life were against him. But he believed never the less. He grew strong in faith as he gave glory to God. He believed God that he can do the impossible. He believed AND acted upon it. Because was the man of **faith that expressed through obedience**.
+Abraham was the person who believed God against the odds. They were not on his side. The facts of life were against him. But he believed never the less. He grew strong in faith as he gave glory to God. He believed that God can do the impossible. He believed AND acted upon it. Because Abraham was the man of **faith expressed through obedience**.
 
 
 So, what do we learned today:
@@ -103,7 +103,7 @@ So, what do we learned today:
 
 Abraham believed the words of God. He believe into the promises God made to him. And  this faith were counted as righteousness.
 
-Just as to Abraham. God made a promise to use. Promise that requires faith, living, active faith. The promise we should believe in order to be justified. And it is a good news of Jesus. We need to have **Faith in Jesus Christ that will be expressed in obedience to him.** Which gives us more then justification. It makes us the children of God.
+Just as God made promise to Abraham. God also made a promise to us. Promise that requires faith, living, active faith. The promise we should believe in order to be justified. And it is a good news of Jesus. We need to have **Faith in Jesus Christ that will be expressed in obedience to him.** Which gives us more then justification. It makes us the children of God.
 
 But without this faith, all you can hope for is wrath and fury.
 
@@ -112,6 +112,6 @@ People come and ask "what is the practicality of it all?". And it's a fair quest
 
 First and foremost you can have confidence. That there is no pitfalls when it comes to God. He is fair as no one else.Yes, God is perfectly fair, but also He is perfectly good and perfectly kind and perfectly loving. Don't forget that. He is FOR you, not against you.
 
-Second. If you still trying to earn justification by doing things, please stop. It is a gift, though faith.
+There other one is that. You are not required to do something special in order to get God's promise. You do not have to become Jew of follow Mosaic or any other law. No rituals, no nothing. If you still trying to earn justification by doing things, please stop. It is a gift, that you receive though faith. Not knowledge, not any kind of faith. But **faith which expressed through obedience**.
 
 {{<stopwatch>}}
