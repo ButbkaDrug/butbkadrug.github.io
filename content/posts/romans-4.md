@@ -7,7 +7,7 @@ title = 'Romans 4'
 We are continue to talk about **"new"** view of justification by God. And today we will look at Abraham.
 
 ## Why Abraham
-Why Abraham? Well, I think it is fare to say that with Abraham begins the story of "God's special people". The story of salvation and Abraham is a key. He is the forefather of Jewish nation. And not only that, but he also considered a forefather of **all** who believes God.
+Why Abraham? Well, I think it is fare to say that with Abraham begins the story of "God's special people". The story of salvation and Abraham is one of the key figures. He is the forefather of Jewish nation. And not only that, but he also considered a forefather of **all** who believes God.
 
 We can find the story of Abraham right in the beginning of the bible in the book of Genesis chapter 12. It's basically at the very start. Rough historic timeline would look like this:
 * Noah came out of the Arc and God promised to never flood the earth again.
