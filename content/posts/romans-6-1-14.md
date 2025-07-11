@@ -40,20 +40,34 @@ If we would condense the doctrine of the hyper grace into a one question, we wou
 
 In other words if justification requires no works. And grace is always enough, maybe then I can continue to live the way I lived before I came to Christ Jesus? All my sins are covered by the work of the cross, so who cares if I continue to sin...
 
-> ### Romans 6:2-4
-> ²By no means! How can we who died to sin still live in it?³Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death?⁴We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life.
+> ### Romans 6:2
+> ²By no means! How can we who died to sin still live in it?
 
-#### Short answer is "No, you cannot continue in sin."
+**Short answer is "No, you cannot continue in sin."** Aboundance of God's grace by no means is a licence to sin.
 
-Aboundance of God's grace is not a license to sin.
+> ### Romans 6:3
+> ³Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death?⁴We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life.
 
-### Romans 6:3
-³Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death?
+All the readers of the Pauls letter were baptized(Greek word that means to immersed, to be covered over with) via water baptism. It was, and still is a very important Christian practise and the command of Jesus. The idea that baptism is something optional, something that is not important is not a biblical idea. Everyone who believed were getting baptized by His church. So, if you consider yourself a follower of Christ, but you never been baptized I strongly recommend to do so. The baptism in our today's scriptures portrays a very important spiritual reality. That there is a dramatic change in life of the believer. Our old self, old corrupted spiritual nature has to die and be buried with Christ, and then we also rise with Christ for the new life by the power of the Father.
 
-All the readers of the Pauls letter were baptized. It was, and still is a very important Christian practise and the command of Jesus. Everyone 
+It worth mentioning that baptism illustrates that spiritual reality but it does not make that reality come to pass.
 
- ⁵For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his.⁶We know that our old self  was crucified with him in order that the body of sin might be brought to nothing, so that we would no longer be enslaved to sin.⁷For one who has died has been set free  from sin.⁸Now if we have died with Christ, we believe that we will also live with him.⁹We know that Christ, being raised from the dead, will never die again; death no longer has dominion over him.¹⁰For the death he died he died to sin, once for all, but the life he lives he lives to God.¹¹So you also must consider yourselves dead to sin and alive to God in Christ Jesus.
+This reality comes to pass when we come to God with genuine repentance. When we confess our sins and ask Him for forgiveness. When we genuinely desire to change. We die to our old life, old ways, old self. And rise with Christ for new life in him.
 
+**We are called to walk in the newness of life. And not to continue to live in sin.** And we do it not by our own strength but by the power of the Father.
+
+> ### Romans 6:5-11
+> ⁵For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his.⁶We know that our old self  was crucified with him in order that the body of sin might be brought to nothing, so that we would no longer be enslaved to sin.⁷For one who has died has been set free  from sin.⁸Now if we have died with Christ, we believe that we will also live with him.⁹We know that Christ, being raised from the dead, will never die again; death no longer has dominion over him.¹⁰For the death he died he died to sin, once for all, but the life he lives he lives to God.¹¹So you also must consider yourselves dead to sin and alive to God in Christ Jesus.
+
+You cannot be resurrected if you haven't died yet. If never actually said good buy to your old, sinful life. If your "old self" is still reign in you. Then sin will also reign in you along with it. We cannot continue to live our old life of rebel against God and expect to be united with Him.
+
+**The only way to get free from sin is though death.** Our old self should be crucified with Jesus. And it is something that is happening during our repentance. It's not something that we should do, but something that is done by the power of God. We don't have to battle our "old man", but simply regard him as dead. Just as a verse 6 says. When we die with Christ in this way death and sin have no dominion over us anymore. We are free to live, then we inherit the eternal life. 
+
+But the new life is not the one we live for ourselves. Just as Christ lives his life for God we also should consider ourselves dead to sin and live to God.
+
+> ### Romans 6:12-14
  ¹²Let not sin therefore reign in your mortal body, to make you obey its passions.¹³ Do not present your members to sin as instruments for unrighteousness, but present yourselves to God as those who have been brought from death to life, and your members to God as instruments for righteousness.¹⁴For sin will have no dominion over you, since you are not under law but under grace.
 
+Even though our "old self" was crucified and we are no longer slaves to sin. Our mortal bodies are still susceptible to the temptations. Unlike the promoters of Hyper Grace, apostle Paul clearly states that there is our part in all this. It is within our power and responsibility not to let sin reign in our mortal bodies. Sin wants to make you obey its passions.
 
+I think that in this case there are only two choices. You will ether preset youself to God and your member to God as instruments for righteousness, or your mortal body will become an instrument of unrighteousness controled by the sin.
