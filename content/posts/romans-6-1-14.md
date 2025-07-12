@@ -68,6 +68,23 @@ But the new life is not the one we live for ourselves. Just as Christ lives his 
 > ### Romans 6:12-14
  ¹²Let not sin therefore reign in your mortal body, to make you obey its passions.¹³ Do not present your members to sin as instruments for unrighteousness, but present yourselves to God as those who have been brought from death to life, and your members to God as instruments for righteousness.¹⁴For sin will have no dominion over you, since you are not under law but under grace.
 
-Even though our "old self" was crucified and we are no longer slaves to sin. Our mortal bodies are still susceptible to the temptations. Unlike the promoters of Hyper Grace, apostle Paul clearly states that there is our part in all this. It is within our power and responsibility not to let sin reign in our mortal bodies. Sin wants to make you obey its passions.
+Even though our "old self" was crucified and we are no longer slaves to sin. Our mortal bodies are still susceptible to the temptations. You still can willingly give up the control to sin. Unlike the promoters of Hyper Grace who says that there is nothing we should do on our part. That everything we happen "just by itself" as long as we focus on who we are in Christ. Apostle Paul clearly states that there is our part in all this. It is within our power and it is our responsibility not to let sin reign in our mortal bodies. Sin wants to make you to obey its passions.
 
-I think that in this case there are only two choices. You will ether preset youself to God and your member to God as instruments for righteousness, or your mortal body will become an instrument of unrighteousness controled by the sin.
+
+And first thing that we do is written in the verse 13:
+
+### Romans 6:13
+¹³ Do not present your members to sin as instruments for unrighteousness, but present yourselves to God as those who have been brought from death to life, and your members to God as instruments for righteousness.
+
+If we would read literal translation it would say "do not go on presenting the members of your body to sin". First of all we should stop doing the wrong thing. We used to be slaves to sin. We used to be controlled by it without even realizing it. But when we come to Christ, we die to sin. We are no longer slaves. It is not OK to keep doing wrong things waiting on God to change me.
+
+### Stop old
+Do not go to the bar or club. Because you know that you will present your body to sin if you do. If things on the internet trip you up, stop visiting those websites. Install blockers, set up your devices. Do not preset your eyes, your ears and the rest of your body to sin. It can be hard at the beginning, because there is things we used to do. It can be hard to break the old habits. Sometimes you find yourself starting doing things on autopilot, and catching yourself half way through thinking "what I am doing?". Remember, you died to sin. You no longer slave. You can break out.
+
+
+### Start new
+The second part of the process is to present yourself to God. Let God use you for righteousness. For his good purposes. 
+<!--FIX: expand this though-->
+
+
+I think that the two are nessesery. If you not gonna serve God with your body, you gonna go back to your "old fried" sin. I think it's pretty much impossible to stay neutral.
