@@ -63,4 +63,57 @@ That's why our new life in Jesus Christ is under the dominion of God's grace. Wh
 > ### Romans 6:16
 > ¹⁶Do you not know that if you present yourselves to anyone as obedient slaves,  you are slaves of the one whom you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?
 
+First of all I want you to pay attention that there is no neutral position. You choice between obedience and sin. You ether obey God, or rebel against God. And that's what sin is actually is. It is rebel against God. 
 
+And each path has it's own consequences.
+
+* **Obedience** - leads you to righteousness.
+
+* And "**Independents**"(or I'd say illusion of it) - leads to death. And it is not so much physical death that we are talking about. Because, if Jesus not gonna come back very soon, most of us will died physically. Our body will "expire" if you will.
+
+But In this scripture it is not about the death of the body. But, rather eternal death.
+
+### Matthew 22:13
+¹³‘...cast him into the outer darkness. In that place there will be weeping and gnashing of teeth.’
+
+As much as we not really now how eternety with God will look like. Except that it will be much better that what we have now.
+
+Same goes for eternal death. We don't really know how it's going to look like acept that it will be something really really bad.
+
+### Living under the grace
+So, living under the grace does not mean freedom to do whatever you want satisfying every desire of your flesh. It is not about being independent and doing your thing. No. This is what bible call living in sin. Rebel against God. And you cannot obey God and rebel again God in the same time.
+
+### True approach
+True approach described in the following verses:
+
+### Romans 6:17,18
+¹⁷But thanks be to God, that you who were once slaves of sin have become obedient from the heart to the standard of teaching to which you were committed,¹⁸and, having been set free from sin, have become slaves of righteousness.
+
+**To Live under the grace is to become obedient from the heart to the standard of teaching**
+
+To be obedient from the heart that's where it's all at. Not superficial obedience. Not just formal following some rules. No. Obedience that comes from the depth of the heart.
+
+It is like those people who use turn signals when they drive in the middle of the night, in the middle of nowhere when no one sees them. They do it not because they have to do it. Not because they are afraid to get a ticket. But because they believe it is right thing to do. From the depth of their heart.
+
+It is like not throwing trash in the middle of the forest. No one gonna know. But you don't do it because you believe that it is wrong thing to do. From the depth of your heart. 
+
+**To be obedient from the depth of your heart will cause the change of the behavior**
+
+> ### Romans 6:19
+>¹⁹ I am speaking in human terms, because of your natural limitations. For just as you once presented your members as slaves to impurity and to lawlessness leading to more lawlessness, so now present your members as slaves to righteousness leading to sanctification.
+
+We talked about it last time. That it's not only about stopping doing the wrong things, but it's about start doing the right thing. Sin often uses our members that God gave us for good, to do lawlessness which leads to eternal death.
+
+But once you've been raised for a new life you need to preset very same members of your body for doing righteousness. And this will lead to sanctification. Which will lead to eternal life in Christ Jesus.
+
+### Romans 6:20-22
+ ²⁰ For when you were slaves of sin, you were free in regard to righteousness.²¹ But what fruit were you getting at that time from the things of which you are now ashamed? For the end of those things is death.²²But now that you have been set free from sin and have become slaves of God, the fruit you get leads to sanctification and its end, eternal life.
+
+The bottom line is that living under the Grace is to be obedient from the heart to God and His Word. You cannot continue in sin. Do not fool yourselves you cannot live a life of obedience to God and rebel against God all in the same time. You have to chose one or the other. But remember:
+
+### Romans 6:23
+²³ For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.
+
+The choice is ours. If you never have been born again today is the day. To die for sin, and raise for new life for God in Jesus Christ. Or maybe you are going to church for a while not. But in all honesty you can't say that you are **obidient from the depth of your heart**. Maybe not too much righteousness happening in your life. 
+
+I invite you to pray with me.
