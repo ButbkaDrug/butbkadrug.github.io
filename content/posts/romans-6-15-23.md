@@ -20,6 +20,10 @@ And the response you get:
 > "It's OK. We're not under the law, but under the grace"
 
 Which produces question: 
+
+### Romans 6:15
+ ¹⁵What then? Arr we to sin because we are not under law but under grace?
+
 > **Does God's grace allow for sin?**
 
 Today we will seek the answer to this question. And as we do so we should remember that when taken out of the context scriptures can be misused to justify pretty much anything. People twist the bible to fit their view of the world instead of letting God change their way of thinking. Let's not be this kids of people and consider the context of the scripture and let's open our hearts for God to speak to us, encourage and even convict us as necessary. We should not be afraid to pray this kind of prayers because we know that even when God has to exercise correction it's not to hurt us, but to give us life.
@@ -119,3 +123,6 @@ The bottom line is that living under the Grace is to be obedient from the heart 
 The choice is ours. If you never have been born again today is the day. To die for sin, and raise for new life for God in Jesus Christ. Or maybe you are going to church for a while now. But in all honesty you can't say that you are **obedient from the depth of your heart**. Maybe not too much righteousness happening in your life. Maybe you slipped to the old way of living.
 
 If that's something that resonate with you. I invite you to pray.
+
+
+{{<stopwatch>}}
