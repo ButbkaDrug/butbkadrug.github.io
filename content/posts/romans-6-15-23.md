@@ -60,6 +60,7 @@ Once you've had no choice. You've been controlled by the sin. But now the era of
 <!--NOTE: Picture "Dobby has no master"-->
 
 ### No Master
+[show an image of Dobby]
 Unlike Dobby, none of us have this option. If you carefully read the bible, you will know that if Lord God is not your mater, then you are slave to sin. We are free in Jesus because unlike sin, God never forces you to do things. God respects our will and never taking control over our bodies. When on the other hand sin never let's us do what we want, but rather manipulates us to obey it's passions.
 
 > ### Romans 6:16
