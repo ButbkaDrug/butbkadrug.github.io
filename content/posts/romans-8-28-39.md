@@ -22,10 +22,32 @@ I don't know if you ever find yourself in a position when you are so crushed tha
 
 Some uber spiritual people will say it never happens if you a real one, but I will dare to say it does. Bible doesn't say that we will never be down. What it actually promise is that we will never be alone. 
 
-### Romans 8:26-30
->²⁶Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words.²⁷And he who searches hearts knows what is the mind of the Spirit, because  the Spirit intercedes for the saints according to the will of God.²⁸And we know that for those who love God all things work together for good,  for those who are called according to his purpose.²⁹For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.³⁰And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified.
+### Romans 8:26,27
+>²⁶Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words.²⁷And he who searches hearts knows what is the mind of the Spirit, because  the Spirit intercedes for the saints according to the will of God.
 
-The good news it that spirit helps us in our weakness.
+The good news it that Holy Spirit, that lives in us, helps us in our weakness.
+
+The Greek word "ἀσθένεια" (astheneia) - comes from "ἀ" (a = without) + "σθένος" (sthenos = strength), so it literally means "without strength".
+
+Spirit of God helps us when we are without strength. God doesn't sit on his throne watching us struggle and then crossing out our name saying *"oh, well... oh, well... that one was not strong enough"*. No, God is loving father. God is on our side. And when we fall short. When we don't even know what to pray for. When we can't even tell would be God's will in the situations and how to pray.  Spirit of God himself intercedes for us.
+
+If you find yourself at the point of astheneia or "*no strength*". It doesn't meant that you are a bad Christian. That you didn't read you bible enough. You didn't fasted enough. You didn't pray enough. It doesn't meant that God is angry with you. But God is there, with you. As Spirit intercede for you, on your behalf.
+
+And unlike us, Spirit always know how to pray. Spirit knows our heart and knows the will of God for the concrete situation. As verse 27 indicates. And it doesn't matter weather our weakness has physical, emotional, spiritual or intellectual nature Spirit of God, that lives in us, still understands what we feel and what we need. 
+
+"Bad Things Happen To Good People" it a common phrase. And there is even a book under the same name. And more often then not bad things and decease  is not the consequences of good people's  sin, lack faith, or perhaps they were not even born again in the first place. It's much simpler that that. It is because we still live in the broken world and not everything that happens to us is good. But God can turn all things to work together for good, for those who love Him.
+
+### Romans 8:28-30
+²⁸And we know that for those who love God all things work together for good, for those who are called according to his purpose.²⁹For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.³⁰And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified.
+
+
+<!Note: Continue for here -->
+| Verse         | Message                                        |
+| ------------- | ---------------------------------------------- |
+| 1 Timothy 2:4 | God desires all to be saved and know the truth |
+| 2 Peter 3:9   | God is patient, wanting none to perish         |
+| Ezekiel 33:11 | God has no pleasure in the death of the wicked |
+| John 3:16     | God's love extends to the whole world          |
 
 
 ### Romans 8:26-39
