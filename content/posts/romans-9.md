@@ -37,23 +37,34 @@ There is few important things going on. Let's brake some of them down.
 ### Not all who was born Jew is chosen by God
 First and the most radical claim that Paul makes is that not all who was born Jew should be considered children of God. It was very controversial statement. Because it went against traditional views. And Paul supports his argument with 2 stories from old testament. Story of Abraham and story of Isaac. 
 
-And in both stories man would have more that one child. And God would chose one of them for his divine purpose. Not only that, but God doesn't chose firstborn. This is something that was expected. But in both stories it was younger brother who got elected. Which was completely unfair and unheard of in the context of the culture. God's choice is completely sovereign.
+And in both stories man would have more that one child. And God would chose one of them for his divine purpose. Not only that, but God doesn't chose firstborn. But in both stories it was younger brother who got elected. Which was completely unfair and unheard of in the context of the culture. Reminding us that God's choice is completely sovereign and does not depend on human actions or merits.
 
 ### It's not about individuals
-Please, note that in both of the stories we are NOT talking about individuals and their destiny. But, we are talking about nations that descended from them. And also at this point we not talking about the salvation in any capacity. We talk about God's choices of people for fulfillment of His plan of delivering salvation to people.
+Please, note that in both of the stories we are NOT talking about individuals and their destiny. But, we are talking about nations that descended from them. And also at this point we not talking about salvation in any capacity. We talk about God's choices of people for fulfillment of His plan of delivering salvation to people.
 
 ### Severing choice
-We can see that thought the history God makes sovereign choices as today's scripture points out. He choices people groups and sometimes individuals for His special GOOD purposes, for His work. God's chose before any kind of actions on the human part. Therefore you cannot "earn" or be "owed" that choice. He just know the right person for the mission.
+However bible clearly show that you can not inherit "salvation", the right to be called children of God. And also you can't earn it by work. Leaving no chance to those who believed that being a Jew == to being saved. In this scripture Paul is saying is that though they are Jews. Not all of them are God's children. Which was insane statement to make. Because Jews always was God's special people. His hairs. How come they are not part of this promise? Why Gentiles getting saved in bulk. Receiving Holy Spirit and so on. But not so much Israelites? We will see answer to this shortly.
 
-What Paul is saying is that though they are Jews. Not all of them are God's children. Which was insane statement to make. They always was God's special people. How come they are not part of this promise? Why Gentiles getting saved in bulk. With getting Holy Spirit and so on. But not so much Israelites?
+But as for this few verses. We see that God makes sovereign choices, as it is pleases to Him. He chose to adopt Gentiles as His children as well. And this is why me and you are in the church today! He choose to give away salvation for free, to everyone who believes, regardless of their nation. He choose to give the gift of the Holy Spirit to everyone as well. 
+
+And for us it sounds normal and resalable. But Israelites of the first century most likely had different views.
+
+### Application
+Do not try to fit God into your mental frame. God makes the choices that pleases to Him, even if you do not agree. Even if they don't submit to your logic. It is not God who should submit. But you.
+
 
 ### Romans 9:14-18
 >¹⁴What shall we say then? Is there injustice on God's part? By no means!¹⁵For he says to Moses, “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”¹⁶So then it depends not on human will or exertion, but on God, who has mercy.¹⁷For the Scripture says to Pharaoh, “For this very purpose I have raised you up, that I might show my power in you, and that my name might be proclaimed in all the earth.”¹⁸So then he has mercy on whomever he wills, and he hardens whomever he wills.
 
-### Injustice <!--FIX: Israel should have been first and more important. But now Gentiles taking a lead -->
-And Paul foresees reaction of his readers. "It is unfair, that not all Israelites are chosen by God". Again he goes back to Old Testament to state that it not injustice but actually act of mercy. The story that Paul reminds them us, is the story when Jews made a golden calf and started to worship him while Moses was on the mountain with God. And God wanted to destroy all of them. They broke the covenant and by justice, they deserved destruction. But God decides to forgave some and judged the others.
+### Injustice
+And Paul foresees reaction of his readers. "It is unfair, that not all Israelites are chosen by God. Maybe it is unfair that salvation is free. After all for thousands of years they've been God's special people. Following His law and so on and so forth."
 
-They all was supposed to be destroyed. But God forgave some. We should not forget that God doesn't owe us anything. He doesn't owe us kindness,  he doesn't owe us blessings, he doesn't own us healing ither. It is by His sovereign choice he decides to have mercy on some.
+Again Paul goes back to Old Testament to state that it not injustice, but actually it is act of mercy. The story that Paul reminds us, is the story when Jews made a golden calf and started to worship him while Moses was on the mountain with God. And God wanted to destroy all of the Jews. They broke the covenant and by justice, they deserved destruction. But in the end God decides to forgive some and judged the others.
+
+They deserved to be destroyed. But God forgave some. Because that what pleased to Him. Not because he had too. Not because He owed them forgiveness. No. God doesn't owe anything to anyone.
+
+### Application
+Even though all this verses they are exclusively relate to Jews. We should not forget that God doesn't owe us anything ither. He doesn't owe us kindness, he doesn't owe us blessings, he doesn't own us healing. It is by His sovereign choice he decides to have mercy on some. Don't forget that God is not only loving Father, He is still sovereign and almighty. Do not act like God owes you stuff just because you follow Him. That's not the way to go.
 
 ### Hardening
 Here comes the challenging part of today chapter. It's easier for us to accept God's divine and sovereign right to show mercy on whomever he wills. But not so much with hardening of hearts. When we read verse 18:
