@@ -49,7 +49,31 @@ Today we going to talk about proper response to God's mercies. Chapters 1 throug
 All this things granted to us in Jesus Christ. And there's a lot of good things. Way more then we ever desired. Especially considering the fact that WE are the rebels. We are the once's to blame for state of the world. Nevertheless God is full of mercy and offers us another chance. Considering all that what is the proper response?
 
 ### Life of worship
-Short answer can be found in the verse 1 *present your bodies as a living sacrifice...* Don't worry if you like me and can't immediately say what that's mean. There rest of the letter is a more or less explanation of this short phrase. But before we will dive into specifics. There are few things to note in this verse.
+Short answer can be found in the verse 1 *present your bodies as a living sacrifice...* Don't worry if you like me and can't immediately make sense of this phrase. There rest of the letter is a more or less explanation of this short phrase. But before we will dive into specifics. There are few things to note in this verse.
+<!--TIME: 04:00 -->
 
 
+### Beseech
+Verse 1 starts saying *"I appeal to you..."* or as other translations say *"I beseech you"*, *"I urge you"*, *"I beg you"*. Apostle Paul begs, pleads us to urgently do something. We will talk about **WHAT** to do in a minute. But, first let's pay attention to the pleading itself. Why Paul, has to beg, urge and beseech us?
 
+#### Example [Picture]
+Because you know, if you think about it. You typically don't have to beg for things that happen automatically. When I'm making a cup of tea for example. I put a tea bag and poor some hot water. And then it just happens. I don't have to stay there and appeal to a tea bag to release it's goodness, that little bit of bitterness and color. And maybe a vitamin or two...
+
+Imagine me talking to a tea bag:
+>*"I urge you little one. For the sake of everything that good and holy, please let the infusion commence! I know you have a little more of that food coloring and road dust. After all I payed for you, I kept you in a dry place. I even pre-warmed the cup to make sure you are not cold! Please, don't be difficult!"*
+
+Sounds funny right? It's just a silly and maybe slightly dramatic example, but I believe it can helps us to see something important.
+
+You only have to urge or beseech if other will have to get involved. When the other party have to make a concise choice, or as we say "opt in".
+
+> ### Romans 12:1 NKJV
+>I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service.
+
+[NOTES:]
+It means to give your whole self — your actions, your choices, your daily life — fully to God as an act of worship, in response to His mercy.
+
+Not dying for God, but living for Him — every day.
+
+Giving up self-centered ways and living in a way that honors God.
+
+Your whole life becomes an act of worship, not just religious rituals.
