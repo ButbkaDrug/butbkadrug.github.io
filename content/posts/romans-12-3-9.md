@@ -5,94 +5,105 @@ title = 'Romans 12:3-9'
 +++
 
 ## Romans 12:3-9
-It's been a few weeks since we looked into the book of Romans. We have had a little break while pastor Jeff and the team were here ministering to us. It was a wonderful time. They did a really good job. And if you were blessed by their work and haven't had chance to say thank you, I highly encourage you to send them at leas a short text with thanks. It will help you to maintain a grateful attitude and it will be extremely encouraging for them as well.
+It's been a few weeks since we looked into the book of Romans. We have had a little break while pastor Jeff and the team were here ministering to us. It was a wonderful time. They did a truly great job of serving to our church but also going out to the street and talking about God with people. So, if you were blessed by their ministy, and haven't had chance to say thank you, I highly encourage you to send them a short(or long) text and say thank you. It's just a right thing to do and it will be very encouraging for them.
 
-With that being said now we can come back to the book of Romans and start looking into the last portion of the book. Currently we are at the chapter 12.
+With that being said now we can come back to our scripture for the week and start looking into the last portion of the book of Romans. Currently we are at the chapter 12.
 
-With this chapter we start to explore more "practical" side of things. In the first portion of the letter we were mostly talking about foundational truth, about things we believe in as followers of Christ. Reinforcing foundation of our faith. By Exploring the grace of God and finding an answers to some dipper questions.
+In this chapter we start to explore more "practical" side of things. Unlike the the first half of the letter  which mostly talking about foundational truth. Things which we believe in as followers of Christ. Reinforcing foundation of our faith. By reviling the grace of God and uncovering answers to some dipper life issues.
 
-Last time we've had an overview of what did God do for us. How great and rich his mercies. We started to talk about the **"life of worship."** that described in verses 1 and 2.
+Two weeks ago we've had kind of an overview. We looked at all those things that God did for us. How great and rich his mercies are. We started to talk about the **"LIFE OF WORSHIP."** that summerized in verses 1 and 2.
 
 > ### Romans 12:1,2
 >¹I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship.² Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.
 
 ### LIFE OF WORSHIP
-Last time we said that **LIFE OF WORSHIP** is not dying for God, but it is living for Him every day of our life.
+Remember we said that to live **LIFE OF WORSHIP** is not dying for God, but rather living for Him every day of our life.
 
 ### IN FAMILY
-It is somewhat like a marriage relationships. Your relationships does not automatically rich perfection on the wedding day. No, it's not how it works. After the wedding real work only starts.
+It is somewhat like a marriage relationships. When you enter into a marriage it's not really about being ready to die, to take a bullet for you spause. It's very unlickly that the opportunity would ever present itself. Way more often it's about doing dishes, cooking dinner and putting the toilet seat down. Right? 
 
-While you single, you can, and most likely do, live a pretty self centered life. Probably without even realizing it. But when you enter true marriage relationships and especially when you start having multiple children(pet's doesn't counts, sorry). That's when you truly learn to die for yourself. Thant's when you learn to put interests and needs of your family above your own. That's when the changes happen. It's not happening automatically. You have to make that decision and follow it through. Day after day.
+While you single, you can, and most likely do, live a pretty self centered life. Probably without even realizing it. But when you enter a true marriage relationships and especially when you start having multiple children(pet's doesn't counts, sorry). That's when you learn to die for yourself. Thant's when you learn to put interests and needs of your family above your own. That's when the changes happen. It's not happening automatically though. You have to **make** that decision and follow it through. Day after day.
 
 And unless you do that, family life not gonna work out.
 
-Day after day you make decision to set aside, and at the times completely give up, on **YOUR** desires, **YOUR** dreams, **YOUR** needs for the sake of those you love. For your wife, your kids. And that is **life of love** as a husband and a father.
+Every single day you make decision to set aside, and at the times completely give up, on **YOUR** desires, **YOUR** dreams, **YOUR** needs for the sake of those you love. For your wife, your kids. And that is **life of love** - the life of a husband and a father.
 
 ### OUR ATTITUDE
-And same should be our attitude to the Lord. But often I feel like if we would portray our attitude to the Lord to the marriage relationships. It would be like:
-You've had a wedding ceremony and all that. But actually you are not living together. Yeah, you kinda remain faithful to your spouse most of the time. But you only meet once a week, or every other week if you are too tired, for couple hours. And even then you only half paying attention and can't wait to go back home to your own life....
+Same principle applies to our walk with the Lord. Unfortunately, if we were to compare our relationship with God to a marriage, I think it would often look something like this:
+
+You fell in love and got married. With a ceremony and all that. But then, you end up never moving together. Yeah, you kinda remain faithful to your spouse. But you don't really wanna change anyghing in your life. You meet once a week, or every other week if you are too tired. You spend together a couple of hours. And even then you only half paying attention to what's happaning. Actually, you can't wait to go back home to your own life...to your own little things. Because this meeting became a rootin, a chore. Something that you have to do to fulfill the obligations.
 
 No one would call THAT a marriage!
 
-You can't live a life of a single in a marriage relationships. It's not gonna work out.
+You can't live like a single preson in a marriage. It's not gonna work.
 
-But this is exactly what we do in our walk with the Lord. There is *ME* and **MY LIFE**, "MY TIME", "MY MONEY" and there is "GOD". And Lord should be happy with me because I come to church every other Sunday. Yeah, sometimes I come late and go early. But I mostly there. It's not a big deal if I check my emails and respond to a couple of messages while He trying to talk to me, I mostly listen after all...
+And that is exactly what we try to do in our walk with the Lord. There is **ME** and **MY LIFE**, **"MY TIME"**, **"MY EVERYTHING"** and there is "GOD". We saparate a little corner of your life for him and think that Lord should be happy. Because I come to church every other Sunday. Yeah, maybe sometimes I come late and go early. But I mostly there. It's not a big deal if I check my emails and respond to a couple of messages while He trying to talk to me, I mostly listen after all...
 
-I mean, what you think will happen if you will try that to your wife? You can forget about any kind of affection. Most likely you will divorce in a no time!
+I mean, what you think will happen if you will try that wiht your husband or wife? It will ruin your relationships. You can forget about any kind of affection. Most likely you will divorce in a no time!
 
 Please, don't try this at home!
 
-If you live a life of a "2 Sundays a Month" Christian, if you don't let His word to transform your way of thinking, why you are getting surprised that you struggle to experience God's presence, His love?
+If you’re living as a “two Sundays a month” Christian, why are you surprised that you struggle to experience God’s presence and His love?
 
 ### TRANSFORM 
-When you get married you should transform the way you approach life, transform your way of thinking. You transition from self centered way of thinking to something else. You should go from "What can **I get** from my wife" to "How can **I bless** my wife", from "You owe ME", to "I owe YOU". From "What this relationships gives ME" to "What can I give". Transformation of the way of thinking.
+When person get married he should transform the way he approaches life. Transform the way of thinking. You transition from self centered way of thinking to something quite opposite. You should go from "What can **I get** from my wife" to "How can **I bless** my wife", from "You owe ME", to "I owe YOU". From "What this relationships gives ME" to "What can I give in this relationships".
 
-So, daily self-sacrifice and transformation of the way of thinking is a solid foundation for a healthy marriage that lasts. And same should be in our relationships with the Lord. That's what the verses 1 and 2 talk about.
+So, daily self-sacrifice and transformation of the way of thinking is a solid foundation for a healthy marriage realtionships that will last. Same applies for our relationships with the Lord. That's what the verses 1 and 2 talk about.
 
 ### TRANSITION
-We should LOVE God with *"ALL YOUR HEART, AND WITH ALL YOUR SOUL, AND WITH ALL YOUR MIND"*. We should live the **LIFE OF WORSHIP**.
+It is the same as to say that we should LOVE God with *"ALL OUR HEART, AND WITH ALL OUR SOUL, AND WITH ALL OUR MIND"*. We should live the **LIFE OF WORSHIP**.
 
-But human love also often can be self centered in a way. I mean we want our loved once's spend their time with us, show their affection to us, care about us. And it not necessary wrong or something. But because of this, we tent to think that it is exactly what God expects from us towards Him. That to truly love God is to withdraw ourselves from this world completely, go to a desert or monastery and stay there.
+With one core differance.
+
+Human love can be self centered in a way. I mean we want our loved once's spend their time with us, show their affection to us, care about us. And I don't think it's wrong or something. And due to that, we tent to think that is exactly what God expects too. We think that true love to God is to withdraw ourselves from this world, go to a desert or monastery and stay there. 
 
 And people do exactly that. They withdraw from their families. Abounded their responsibilities and obligations as spouse and parent in order to "fully devote to God". It was especially popular in Medieval Period and it is still actual in slightly different shape and form in our day and time.
 
-But this is not what God wants. His love is not self centered. It is selfless, self-giving. God says show me your love by loving people around you.
+But this is not what God wants. Actually His desire is completely oposite. His love is not **self-centered**. It is **selfless**, **self-giving**. God says *Show me your love by loving people around you*.
 
-If you love God, He wants you to show your love by being the best husband or wife you possible can, by being the best parent you possible can. It's not about withdrawing yourself from the world, but changing the small world around you. Through love. It's starts in a family. But it is also includes the church family! The body of Christ. Your LOCAL community of Christians that you are a part of.
+He wants you to show your love to Him by being the best husband or wife you possible can be. He wants you to be the best parent you possible can be.
+
+It's not about withdrawing yourself from the world, but changing a small world around you. Little communities you a part of. Through love. It's starts in a family. But it is also includes the church family!  The body of Christ. Your **LOCAL**, **OFFLINE** community of Christians. And then it goes above and beyond to the whole world, but that's for the following weeks. Our scriputre for today focuses on the church.
 <!--TIME: 08:00-->
 
-We live in the world of constant consumption. It effects us big time. More then we realize. Often we thing about the church from consumers perspective. "What can I get? What do I gain if I come?". And from consumers perspective local gathering like ours doesn't make much sense really. You can go online and enjoy christian music and sing along, and find a speaker who gives a sermon that fits your taste. And as a consumer probably you will be more satisfied. 
+Local churches face a problem in our day. We live in the world of constant consumption. And It effects us big time. More then we realize. Often we thing about the church. We think from consumers perspective. "What can I get? What would I gain by coming?". And I must say that from consumers point of view local gathering like ours doesn't make much sense. Because, you can go online and enjoy christian music and sing along. You can find a christian speaker who's sermons fits your taste. As a consumer you will be more satisfied this way.
 
-But the church is not a product, it's not another corporation that offers you a subscription plan in exchange to it's services. Like Netflix or Amazon
+But it is not the biblical idea of the church. Church is not a product, it's not another corporation that offers you a subscription plan in exchange to it's services. Like Netflix or Amazon.
 
-Church is the body of Christ. You individually is not the body of Christ. Individualistic society tell you that it's between you and God. There is nothing more. That church only made sense in the old days, when bible was not available. When there were no online services and teachers. It tells you that you don't need church. That your "personal" faith all that matters.
+Church is the body of Christ. You individually is not the body of Christ. Individualistic society tell you that it's only between you and God. There is nothing more. That church is the thing of the past. Of the old days, when bible was not available. When there were no online churches and teachers. It tells you that you don't need church. That your "personal" faith all that matters.
 
-But it's not truth at all. Being a part of a local Church matters. It is essential for every christian. Outside the body of Christ we are just dead cells. Nothing more. And you can't be the part of the body "remotely". I never heard yet of "online kidneys" or "online liver". To be the part of the body you have to present in the body.
+Unfortunately it's not true. Being a part of a local Church matters. It is essential for every christian. Because, cell that is outside the body is a dead cells. You can't be the part of the body "remotely". At least at this stage I never heard of **"online kidneys"** or **"remote liver"**. To belong to the body, you have to be present in the body.
 
 Church is not about consumption. It's about serving one another. More often in a little, practical ways. With the gifting that we have from God.
 
-If we will keep up with our marriage analogy. You can watch a life of the family online as much a you want. There are quite a few people online who share their everyday life with the world. But it will never make you a part of that family. You will never have true experience. Because it's not about the knowledge. But about going through life side by side, having each others backs.
+If we will keep up with our marriage analogy. You can watch a family dinners online as much a you want. But it does not make you a famaly member.
 
-Church is not about Sunday service. It's not about hearing the sermon. It's about life as community. Day in day out. Serving one another.
+There are quite a few people who share their everyday life with the world via socail networks. You can track their posts. You can know alot about their life. But it will never make you a part of their family. You will never have true experience. Because it's not about the knowledge. But about going through life side by side, having each others backs. And so on and so forth.
+
+Church is not about Sunday service. It's not about hearing the sermon, singing couple songs and going home. It's about life as community. Day in day out. Serving to one another.
 
 > ### Romans 12:3-9
 >³For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each according to the measure of faith that God has assigned.⁴For as in one body we have many members, and the members do not all have the same function,⁵so we, though many, are one body in Christ, and individually members one of another.⁶ Having gifts that differ according to the grace given to us, let us use them: if prophecy, in proportion to our faith;⁷if service, in our serving; the one who teaches, in his teaching;⁸the one who exhorts, in his exhortation; the one who contributes, in generosity; the one who leads, with zeal; the one who does acts of mercy, with cheerfulness.
 
->⁹Let love be genuine. Abhor what is evil; hold fast to what is good.
+>⁹Let love be genuine...
 
-Sometimes we life as if God doesn't care whether we are part of a local church or not as long as we pray enough prayers and read enough bible. But I think he does. Scripture doesn't say, if you decide to join church locally then... No, it says as a part of a local community this is how you should live...
+We all different, but equally important. We have different giftings, and only together we are body of Christ. And we **SHOULD** use our giftings to **build up** one anothe. And not only we should serve to one another, but also, we should serve with a right attitude. Your attutude is as iportant as your service. As Verse 9 says *our love should be genuine* or other way to translate it *"Let love be without hiprocrasy"*.
 
-And First of all verse 3 says that we should see truth about ourselves and live in the light of it. You know, without exalting ourselves about there mere mortals everyday regular church goers, but also without false meekness and humiliation. When we deem down anything we say or do. Having healthy self esteem. We are all created by the image of God. And he equally loves us all.
+But often we life as if God doesn't really care whether we are part of a local church or not as long as we pray enough prayers and read enough bible.
 
-And as we read further we can see that our **life of worship** only possible in the context of the local church. Our **life of worship** is to minister to our family and our brothers and sisters with the gifting that we have.
+But I dont think so... In His word God doesn't say, ***if** you decide to join church locally*... No, it says ***as a part of a local community** this is how you should live*...
 
-We all have a way to bless our family. We all have a gifting from God. And we called to exercise that gifting for the benefit of the body of Christ.
+Our **life of worship** starts from ministering to our family, extends to our brothers and sisters in christ and continue to flow into the world that does not yet know God.
 
-Sometimes life is funny. Sometimes we are truly good at something. And there is a lot of people who benefit from it, except for our own family.
+And LOVE shold be always at heart. It's the most important part. All that we do, we should do in love and out of love. Jesus was love first type of person. And we should follow his example.
+
+We all have a giftings from God. And we called to exercise those giftings. In our families. As well as for the benefit of the body of Christ. And you know, sometimes life is funny. Sometimes we are truly good at something. And there is a lot of people who benefit from it, except for our own family.
 
 As they say:
 >"The cobbler’s children have no shoes"
 
-Don't be that guy. Our love for God should be expressed in a practical way. And it should start in our family, then extent to our church and then go beyond into the world.
+Don't be such person. Use the giftings you have to express your love for God. By serving your people. In love.
 
 
+### EVERYONE HAVE A GIFT
+Also, don't say "I don't have a gifting". Because you do! You can be a blessing for others. 
