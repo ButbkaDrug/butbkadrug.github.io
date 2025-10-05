@@ -80,30 +80,46 @@ If we will keep up with our marriage analogy. You can watch a family dinners onl
 
 There are quite a few people who share their everyday life with the world via socail networks. You can track their posts. You can know alot about their life. But it will never make you a part of their family. You will never have true experience. Because it's not about the knowledge. But about going through life side by side, having each others backs. And so on and so forth.
 
-Church is not about Sunday service. It's not about hearing the sermon, singing couple songs and going home. It's about life as community. Day in day out. Serving to one another.
+Church is not about Sunday service. It's not about hearing the sermon and singing couple songs. It's about life as a community. Day in day out. Serving to one another. This is **LIFE of WORSHIP**.
 
 > ### Romans 12:3-9
 >³For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each according to the measure of faith that God has assigned.⁴For as in one body we have many members, and the members do not all have the same function,⁵so we, though many, are one body in Christ, and individually members one of another.⁶ Having gifts that differ according to the grace given to us, let us use them: if prophecy, in proportion to our faith;⁷if service, in our serving; the one who teaches, in his teaching;⁸the one who exhorts, in his exhortation; the one who contributes, in generosity; the one who leads, with zeal; the one who does acts of mercy, with cheerfulness.
 
 >⁹Let love be genuine...
 
-We all different, but equally important. We have different giftings, and only together we are body of Christ. And we **SHOULD** use our giftings to **build up** one anothe. And not only we should serve to one another, but also, we should serve with a right attitude. Your attutude is as iportant as your service. As Verse 9 says *our love should be genuine* or other way to translate it *"Let love be without hiprocrasy"*.
+### GENERAL WILL OF GOD
+You see, Paul confirms that yes, we all different, BUT equally important. God brough us together, with our different giftings for a reason. Together we are the body of Christ. And there is a plan and a purpose for us. Everyone of you. We all called by God. He has a plan for you as an individual, but also he has a plan for us a whole.
 
+And the first thing we **SHOULD** learn to do. Is to use our giftings to **build up** one anothe. Hear me our: "God wants you, yes, you. To use your giftings. He wants you to server your family. He wants you to serve your bother and sisters in Christ." You start there, and then God will reveal more and more specific plan for your life.
+
+### ATTITUDE MATTERS
+And not only we should serve to one another, but also, we should serve with a good attitude. Your attutude is as important as your service. Verse 9 says *our love should be genuine* or other way to translate it *"Let love be without hiprocrasy"*. LOVE shold be always at heart of everything we do. It's the most important part. No matter what we do, we should do in love and out of love. Because, let's face it. People get hurt in churches. Sometimes so much so, that they leave the church. They say that people in this world was so much nices to them then people in the church. And that's tragedy. Because we are called to be known by our love for one another. 1 Chorinthians 13 can teach us some principles of acting in love. Jesus was love first type of person. And we should follow his example.
+
+### Does GOD CARE IF WE GO TO CHURCH?
 But often we life as if God doesn't really care whether we are part of a local church or not as long as we pray enough prayers and read enough bible.
 
-But I dont think so... In His word God doesn't say, ***if** you decide to join church locally*... No, it says ***as a part of a local community** this is how you should live*...
+I dont think so... Bible doesn't say, ***if** you decide to join church locally*... No, it says ***as a part of a local community** this is how you should live*...
 
-Our **life of worship** starts from ministering to our family, extends to our brothers and sisters in christ and continue to flow into the world that does not yet know God.
+Our **life of worship** is life of action. It starts from ministering to our family, extends to our brothers and sisters in christ and continue to flow into the world that does not yet know God.
 
-And LOVE shold be always at heart. It's the most important part. All that we do, we should do in love and out of love. Jesus was love first type of person. And we should follow his example.
+**LIFE OF WORSHIP** of a one person can make a differance. By changing a small world arund you. You can make a global impact. And it doesn't take very much. I know that you are brave people who are not afraid of a change. You left your country, your comfort thone and came here. You are the risk takers. Even if you don't think this way about yourself. You **CAN** change this world. You have something to give to your family, to your brother and sisters.
 
-We all have a giftings from God. And we called to exercise those giftings. In our families. As well as for the benefit of the body of Christ. And you know, sometimes life is funny. Sometimes we are truly good at something. And there is a lot of people who benefit from it, except for our own family.
+### Struggles
+Sometimes all it takes is to share our struggles:
 
-As they say:
->"The cobbler’s children have no shoes"
+Because, statistically speaking, and what I mean is that I don't have any specific people in mind. But based on the numbers there is more then one person right now in this room who stuggles with the use of pornography. Actually it is probobly more like 4 - 10 people. It's a nasty harmful thing. And you can help one another to overcome this problem. If you be willing to open up and serve one another.
 
-Don't be such person. Use the giftings you have to express your love for God. By serving your people. In love.
+Same goes for exsessive alchohol usage, dipression, loneleness, etc...
+
+We should live behind egocentric "ME" buble. And start to live the **LIFE OF WORSHIP**. You should
+
+### Romans 12:1
+>...present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship.
 
 
-### EVERYONE HAVE A GIFT
-Also, don't say "I don't have a gifting". Because you do! You can be a blessing for others. 
+### CONCLUSION
+Our Love for God is not something mystical. It's not about isolation, and rejection of this world.
+
+God wants us to love and serve to our families. To our church. To this world.
+
+And as we do so, He wiil transofrm our way of thinking by the renewal of our mind. Then we will learn to know God’s will for us, which is good and pleasing and perfect.
