@@ -1,6 +1,6 @@
 +++
 date = '2025-10-18T11:14:05+04:00'
-draft = true
+draft = false
 title = 'Romans 12:9-21'
 +++
 
@@ -75,64 +75,86 @@ Place your index fingers about an inch away from the corner of your mouth and ge
 ### Excersising
 Do you see where we are going with this?
 
-When did you practised drills for your inner man last time? Our scripture for today contains a few of them. Excersises for your spiritual growth.
+Our live is like a song we sing. Are you a good singer? When was the last time you practised excersises for your "spiritual voice"?
 
-### First drill
-1. Verse 9: Showing a real love. Do you practice love on the regular basis at home, in church? How is that?
+If don't know any, the today is your day. Our scripture contains a few of them. Excersises that will teach you how to turn your life into a vocal melody of love for God.
+
+We gonna look at 3 basic warm ups. 
+
+### Exersice #1
+> #1 **Practicing Love**(Verse 9:).
+
+First exersice is a simple warm-up — we start by exercising true love. It easy, it's safe. It is a good starting point. Remember, in singin you end where you started. If you start with poor technichue, your voice not gonna sound nice. Your singing not going to be beautiful, so solid foundation is important!
+ 
+But what should I do?
 
 ### 1 Corinthians 13:4-7
 >⁴Love is patient, love is kind, it is not jealous; love does not brag, it is not arrogant.⁵It does not act disgracefully, it does not seek its own *benefit;* it is not provoked, does not keep an account of a wrong *suffered,*⁶it does not rejoice in unrighteousness, but rejoices with the truth;⁷it keeps every confidence, it believes all things, hopes all things, endures all things.
 
-2. Second part of verse 9 - Hate what is wrong. Hold tightly to what is good. This one of the characteristics of a true love. But also, it is a choice. Choice that we need to make daily. We should guard our mind, and not to give the room for the enemy. Because, frankly if we let evel snick into our heart, then it is only a matter of time for our actions to catch up.
+That's a good place to start. Practice this twords your kids, your wife, your friends, parats. Annoying neighbours. etc.
 
-First drill is a kinda warm up roteen. First we should exercise real love. 
+But remember is is you who should be patient, kind, not jealous. Not them.
 
-### Second drill
-3. Verse 10-13: Being devoted to the church.
+But it's not all. Second part of verse 9 says **Hate what is wrong. Hold tightly to what is good.** That is also very important part of this worm up. Choice that we need to make daily. To guard our heart. Not to give the room to the enemy. Because, frankly if we let evel snick into our heart, then it is only a matter of time for our actions to catch up. It will rouin our spiritual voice.
 
-Verses 10-13 call us to be a family.
+### Exersice #2
+> #2 Stretching. We need to stretch our vocal chords. To increase our vocal range.
+
+Verses 10–13 call us to extend our love beyond the boundaries of our family. We should learn to treat our church as one.
 
 > Every church is a family… a slightly dysfunctional one, but family nonetheless.
 
-Me and you, we are called to show mutual respect. We are almost encoraged to compete who can show more respect for another. In a genuane way of course. And even more so, we are called to respect even if we are not respected back. This one is a bit more advanced.
+At least that's what they say...
 
-We are called to work hard for the Lord. For the sake of his kingdom. And be cool about it. Even when things do not go well. Especially I want to emphesize prayer. We are called to be devoted to prayer. And it is so for a reason.
+* Me and you, we are called to respect one another. In a genuane way of course. Even if we are not respected back.
+
+* We are called to work hard for the Lord. For the sake of his kingdom. Together.  Even when things do not go well.
+
+* We are called to be devoted to prayer. As a family, as a church. And it is so for a reason.
 
 They say that:
 
 >"Prayer is the powerhouse of the church"
 
-Let's ask ourselves. How much power we produce? Can we produce enough power to light up entire city, or single LED unit is all we capable of? I think we can do better that this.
+Let's ask ourselves. How much power we produce? Can we produce enough power to light up entire city(the one on the hill), or tiny LED unit is all we capable of, you know, bright enough to see the trail your on, but invisible from a couple miters away?
 
-Verse 13. Contributing - emphasises our care for one another. Active and practical participation in one anothers lives and needs. It means that we should be open, we inviting people to come to us for help. Showing our genuane care for one another. And the second part of this verse is about practising **hospitality**. And the word "practicing" is actually qute strong word in original language. Later in the verse 14 the same word translated as persecute. So the idea is that we are once again activly seaking, we persue people with hospitality. Showing our love in action, not just kind words.
+I think we can do better that this!
 
-I want you to ask yourself, when did you last time practised hospitality? When was the last time you helped someone in church with their needs? Do you even know about the needs of your brothers and sisters?
+Verse 13. Contributing - emphasises our care for one another. Active and practical participation in one anothers lives and needs. It means that we should be open, we inviting people to come to us for help. Showing our genuane care for one another. Second half of the verse is about **practising hospitality**. The word "practicing" is actually qute strong in original language. N the verse 14 the same word translated as **persecute**!  We should activly seek, we should persue people with hospitality. Showing our love in action, not just kind words.
+
+When was the last time I practised hospitality? When was the last time I helped someone in church with their needs? Do I even know about their needs?
 
 Please, be your own judge.
 
-We are called to be a family for one another. Show respect. Take care of one another needs like a true family does.
-
-We also called to provide emotional support to one another. To share our vicories and our defeats.
+We also called to provide emotional support to one another.
 
 ### Romans 12:15
 ¹⁵Rejoice with those who rejoice, and weep with those who weep.
 
-Which implies that one should be willing to share about his highs and lows. And the other should be willing to listen, to empatize. **Not advice**! but listen. Be ready to cry with the one. Or laugh with the one. Even if you are on the low yourself. And that's no easy job. That's one skill to master. Unfortunately we tend to start giving advice or make it about ourselves. And that's not it. Just weep with those who weep. That's all there is to it.
+Which implies that one should be willing to share about his highs and lows. And the other should be willing to listen, to empatize. **Not advice**! but listen. To be ready to cry together. Or laugh together. Even if you are on the low yourself. And that's no easy job. That's one skill to master.
+
+Unfortunately we tend to start advice people instead. Or make it about ourselves. And that's not it. Weep with those who weep. That's all there is to it.
 
 So, when did you last time cried with someone from your church? Did you ever? 
 
-Our second drill is to stretch our hearts and include our church into our family circle.
+**Exsercise #2:** Stretching our hearts and include our church.
 
-### Third drill
-7. Verse 14, 17, 19 - all tell us about our reaction to injustice twords us. We all know this. And in all honesty, this are so hard to practice.
+### Excersise #3
+**Exercise #3** — arguably the hardest one — is learning to let go.
 
-We all crave for justice. At least when it comes to **our justice**.
+Did you know that many amateur singers, myself included, often tense up? We often engage muscles that don’t actually help us sing — in fact, they resist. Muscles like our swallowing muscles, facial muscles, and the muscles in our throat.
 
-So often I want to do my own justice. I don't know why. Especially when I try to sqeeze between illigaly parked cars to get where I need to go. Small problems of a small city)))
+And in order to release your voice, you shoul learn to relax them. You should learn to let go.
 
-But in the moments like that we are called to move in the opposite spirit. We are called to bless. To step back and not to take our own revange. We are called to be at peace with all people, if only possible.
+Verses 14, 17, 19 - all tell us about that.
 
-Which means to streach our heart even more. Third drill is to stretch our love to those who ouside our church family, even if they are our enemies.
+As we learn to sing with our spiritual voice. We also tend to tense up. We have natural reactions that prevent our voices from singing freely. Our reaction to injustice.
+
+Because we all crave justice — at least when it comes to **our own** sense of justice. When someone treats me unfairly, my whole being tenses up — and I want them to get a *dose of their own medicine*. And it is qute natural reaction. We used to it. But if we want to sing well, we should learn to let go.
+
+In the moments like this we are called to move in the opposite spirit. We are called to bless, instead of cursing. To step back and not to take our own revange. We are called to be at peace with all people, if only possible.
+
+It will truly realsea our voices. Unleashing our ability to sing the song of love to the Lord.
 
 ### DO NOT BE OVERCOME BY EVIL
 And for me the verse 21 is a great summary of all of this.
@@ -140,7 +162,13 @@ And for me the verse 21 is a great summary of all of this.
 ### Romans 12:21
 >²¹Do not be overcome by evil, but overcome evil with good.
 
-In real life, two negatives don’t make a positive. It's only true for matematical problems. When it comes to real life. If you not going to abhor what is evel, if you not gonna cling to what is goood. You will be overcomed by evel.
+In real life, two negatives don’t make a positive. It's only true for matematical problems. When it comes to real life. Poor technique will ruine your voice. Only with a proper technique you can sing a beautiful song.
 
 ### Conclusion
-Maybe today was your first training session. Today we leared basic excersises. Three drills that we need to practise to the rest of our life. In order to sing the song of love to our Lord with our life. 
+Maybe today was your first vocal training session ever. Today we leared 3 basic principles:
+
+1. Warm up
+2. Streatch
+3. Let go
+
+These three must be practiced throughout our entire lives, enabling us to offer the song of love to our Lord.
