@@ -11,3 +11,22 @@ title = 'Romans 13'
 
 > ¹¹Besides this you know the time, that the hour has come for you to wake from sleep. For salvation is nearer to us now than when we first believed.¹² The night is far gone; the day is at hand. So then let us cast off the works of darkness and put on the armor of light.¹³ Let us walk properly as in the daytime, not in orgies and drunkenness, not in sexual immorality and sensuality, not in quarreling and jealousy.¹⁴But put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires.
 
+### DRAFT
+Last time I taught you a vocal excise. Did you practiced it? I did. But I have a confession to make. In my persue of simplicity and clarity I had to hide some truth from you. And now I'm afraid that I set you up for a failure. 
+
+As I said I'm not a professional singer. I'm a self taught. I never had a training session in a real life. And even though I had an access to a great training program, there was a problem. Actually TWO big problems.
+
+### First problem
+First problem is that my English was not very good, by very generous estimates. To be honest, I did not understand more then half of what was said in explanation section. And those words that I did know didn't make much sense to me in the context of the lesson.
+
+Couch will say somethig ***
+All that I would hear *** tang *** roof of your mouth.
+
+I would sit in my room puzzled. I know what the roof is. House have roof. And I pretty sure I don't have a roof in my mouth... What they even mean?
+
+I had to rely on audio examples and simply try to replicate them. Basically I still had to make up my own mind of what I'm doing. What is the goal of the exercise. What is important and what it not. And it didn't turned out very well.
+
+Because I had to rely on my own judgment. My own wisdom if you will. Sometimes I would completely misjudge the exercise, and effectively create a bad vocal habit, that actually ruins my voice. And then I would spend weeks practicing and reinforcing those bad habits. With some of which I struggle to this day.
+
+### Second problem
+I desperately needed and didn't have someone. Who would guide me. Who would explain the meaning and goal of those exercises. And that was my second big problem. I could have avoided so many mistakes. I could be so much better singer. If only I would have a couch who would tell me how to go about certain situations and problems. He would spare me from unnecessary struggles and pain.
