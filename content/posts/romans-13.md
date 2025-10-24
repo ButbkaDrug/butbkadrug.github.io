@@ -11,22 +11,36 @@ title = 'Romans 13'
 
 > ¹¹Besides this you know the time, that the hour has come for you to wake from sleep. For salvation is nearer to us now than when we first believed.¹² The night is far gone; the day is at hand. So then let us cast off the works of darkness and put on the armor of light.¹³ Let us walk properly as in the daytime, not in orgies and drunkenness, not in sexual immorality and sensuality, not in quarreling and jealousy.¹⁴But put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires.
 
-### DRAFT
-Last time I taught you a vocal excise. Did you practiced it? I did. But I have a confession to make. In my persue of simplicity and clarity I had to hide some truth from you. And now I'm afraid that I set you up for a failure. 
+### Opposition
+We live in the world where two kingdoms oppose each other. Kingdom of this world or worldly system, opposes God and His kingdom. This opposition is real. And unfortunately for me and you, we don't get the stay neutral. You can't say "I take no sides". It's not an option
 
-As I said I'm not a professional singer. I'm a self taught. I never had a training session in a real life. And even though I had an access to a great training program, there was a problem. Actually TWO big problems.
+### Syco story
+I already mentioned that I grew up in a small town. It's a nice place surrounded by forest. You cannot really tell now. But original idea was to build the buildings so that if you look from above, they would come together in a word. USSR. But then, soviet union fell and those plans came to an end. Leaving us only with USS but no R. When I was growing up our town still preserved a bit of that nostalgic, post soviet, slightly depressing atmosphere. Especially in the Autumn. Grey sky, grey buildings, grey roads, grey everything. It get's dark pretty early. Not too much sun. etc.
 
-### First problem
-First problem is that my English was not very good, by very generous estimates. To be honest, I did not understand more then half of what was said in explanation section. And those words that I did know didn't make much sense to me in the context of the lesson.
+One of such day. At the evening. When sun was long gone. And darkness swollen the streets me and my friend were walking around. Talking about life. We were teenagers. I guess that's why night time was so attractive. Half of the street light were broken, the other half was pretty dim and very yellow. Creating this post apocalyptic vibe. Most of the people were inside, enjoin their evening, getting ready for bad. Because, our town is not like Batumi. You have to get up very early to go to work, so there are almost no people on the streets after dark. 
 
-Couch will say somethig ***
-All that I would hear *** tang *** roof of your mouth.
+So, I'm going down the street with my boddy. We are talking about some teenage stuff. We see some guys from school. We know some of them well, less so some other ounces. We should go and say hello to them.
 
-I would sit in my room puzzled. I know what the roof is. House have roof. And I pretty sure I don't have a roof in my mouth... What they even mean?
+We came closer. And as we having a small I'm looking around. It's dark, it's quite. I'm slightly cold. Yellow light above the building entrance about 20 miters away trying it's best to light up the night. Not achieving very much to be honest. Some guy walking home by himself. Puffed up jacket makes him look like MMA fighter.
 
-I had to rely on audio examples and simply try to replicate them. Basically I still had to make up my own mind of what I'm doing. What is the goal of the exercise. What is important and what it not. And it didn't turned out very well.
+I'm kinda wondering in my thought. Thinking that dim light makes him look huge. And somewhere at the back of my mind I hear one of the boys saying:
 
-Because I had to rely on my own judgment. My own wisdom if you will. Sometimes I would completely misjudge the exercise, and effectively create a bad vocal habit, that actually ruins my voice. And then I would spend weeks practicing and reinforcing those bad habits. With some of which I struggle to this day.
+- Hey, that's Syco.
 
-### Second problem
-I desperately needed and didn't have someone. Who would guide me. Who would explain the meaning and goal of those exercises. And that was my second big problem. I could have avoided so many mistakes. I could be so much better singer. If only I would have a couch who would tell me how to go about certain situations and problems. He would spare me from unnecessary struggles and pain.
+Everything that fallowed have happened very quickly. Fractions of the second.
+
+First I thought to myself "Syco"? I've heard about syco from boys. They teething him and then when he gets really mad and tryis to catch them, they run away. But, I've though that they talk about harmless, maybe slightly odd, elderly man. This guys look like a killing machine. You would not want to mess with him.
+
+As I'm thinking that someone from our crowd shouts:
+- Hey Syco, we're here!!!
+
+My heart stopped beating. As this huge man turn around and charge at us saying no words.
+
+First thought to reach my mind, was the confident version of me saying: "Don't run. You are not with them. You did nothing wrong therefore you are safe".
+
+Then more reasonable thought took over with a counter argument "Do you think he cares? He is not in the mood to ask question. He is in the mood to fight."
+
+And I ran. As fast as possible. 
+
+### Sides
+That night I didn't get to chose sides. I was pulled into a struggle against my will.
