@@ -4,12 +4,6 @@ draft = true
 title = 'Romans 13'
 +++
 
-### Romans 13:1-14
-> ¹Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God.²Therefore whoever resists the authorities resists what God has appointed, and those who resist will incur judgment.³For rulers are not a terror to good conduct, but to bad. Would you have no fear of the one who is in authority? Then do what is good, and you will receive his approval,⁴for he is God's servant for your good. But if you do wrong, be afraid, for he does not bear the sword in vain. For he is the servant of God, an avenger who carries out God's wrath on the wrongdoer.⁵Therefore one must be in subjection, not only to avoid God's wrath but also for the sake of conscience.⁶For because of this you also pay taxes, for the authorities are ministers of God, attending to this very thing.⁷ Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed.
-
-> ⁸ Owe no one anything, except to love each other, for the one who loves another has fulfilled the law.⁹For the commandments, “You shall not commit adultery, You shall not murder, You shall not steal, You shall not covet,” and any other commandment, are summed up in this word: “You shall love your neighbor as yourself.”¹⁰Love does no wrong to a neighbor; therefore love is the fulfilling of the law.
-
-> ¹¹Besides this you know the time, that the hour has come for you to wake from sleep. For salvation is nearer to us now than when we first believed.¹² The night is far gone; the day is at hand. So then let us cast off the works of darkness and put on the armor of light.¹³ Let us walk properly as in the daytime, not in orgies and drunkenness, not in sexual immorality and sensuality, not in quarreling and jealousy.¹⁴But put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires.
 
 ### Intro
 <!--TODO: write an intro -->
@@ -58,4 +52,20 @@ But that night I didn't get to chose. I was pulled into a struggle against my wi
 I could not escape the situation. I had to deside what to do...
 
 ### This world
-Why am I telling this story? Because often it is the same with us, when we live the life of worship. When we try to glorify God in our thoughts, actions and behaviours. Sometimes we find ourselves in the situations we wish would never happened to us. And then the question is what do I do?
+Why am I telling this story? Because so often, life is the same way. We get pulled into struggles against our will. We wish things like that would never happen to us. I know how that feels — I’ve had my own battles, and I know some of yours. They’re real. We wish things were different.
+
+But, that's not an option. We can't control that. But we can control how do we go about it! We can utilize the wisdom of this wold. And worship this woldly system. Or we can use God's wisdom. And glorify Him in the choices we make. Unfortunately, it's not that easy. Often times you not gonna be understoo. You not gonna be supportned and accepted by the people of this world. If you will rely on God's wisdom. Often His wisdom looks foolish, counter intuetive, and sometimes offensie to the people of this world. They expect you to act just like them. And they get very upset and sometimes very angry if you don't. 
+
+Even our own flesh rises against us.
+
+> ### Romans 7:19
+> ¹⁹For the good that I want, I do not do, but I practice the very evil that I do not want.
+
+It takes an effort to do the right thing. It takes corage and dedication to go against the motion. 
+
+### Romans 13:1-14
+> ¹Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God.²Therefore whoever resists the authorities resists what God has appointed, and those who resist will incur judgment.³For rulers are not a terror to good conduct, but to bad. Would you have no fear of the one who is in authority? Then do what is good, and you will receive his approval,⁴for he is God's servant for your good. But if you do wrong, be afraid, for he does not bear the sword in vain. For he is the servant of God, an avenger who carries out God's wrath on the wrongdoer.⁵Therefore one must be in subjection, not only to avoid God's wrath but also for the sake of conscience.⁶For because of this you also pay taxes, for the authorities are ministers of God, attending to this very thing.⁷ Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed.
+
+> ⁸ Owe no one anything, except to love each other...
+
+That's a tough scripture. I might get cancelled to night. Because many of us here tonight. Because of our governing authorities.
