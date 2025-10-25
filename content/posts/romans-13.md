@@ -11,17 +11,23 @@ title = 'Romans 13'
 
 > ¹¹Besides this you know the time, that the hour has come for you to wake from sleep. For salvation is nearer to us now than when we first believed.¹² The night is far gone; the day is at hand. So then let us cast off the works of darkness and put on the armor of light.¹³ Let us walk properly as in the daytime, not in orgies and drunkenness, not in sexual immorality and sensuality, not in quarreling and jealousy.¹⁴But put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires.
 
+### Intro
+<!--TODO: write an intro -->
+
+
 ### Opposition
-We live in the world where two kingdoms oppose each other. Kingdom of this world or worldly system, opposes God and His kingdom. This opposition is real. And unfortunately for me and you, we don't get the stay neutral. You can't say "I take no sides". It's not an option
+We live in the world where two kingdoms oppose each other. Kingdom of this world or worldly system, opposes God and His kingdom. This opposition is real. And unfortunately for me and you, we don't get the stay neutral. You can't say "I take no sides". It's not an option.
 
 ### Syco story
-I already mentioned that I grew up in a small town. It's a nice place surrounded by forest. You cannot really tell now. But original idea was to build the buildings so that if you look from above, they would come together in a word. USSR. But then, soviet union fell and those plans came to an end. Leaving us only with USS but no R. When I was growing up our town still preserved a bit of that nostalgic, post soviet, slightly depressing atmosphere. Especially in the Autumn. Grey sky, grey buildings, grey roads, grey everything. It get's dark pretty early. Not too much sun. etc.
+I have previously mention that I grew up in a small town. It's a nice place surrounded by forest. You cannot really tell now. But, back in the day, original idea was to build a town in such a way that if you look from above, all building would form a word. **USSR**. But then, soviet union fell and those plans came to an end. Leaving us only with USS but no R.
 
-One of such day. At the evening. When sun was long gone. And darkness swollen the streets me and my friend were walking around. Talking about life. We were teenagers. I guess that's why night time was so attractive. Half of the street light were broken, the other half was pretty dim and very yellow. Creating this post apocalyptic vibe. Most of the people were inside, enjoin their evening, getting ready for bad. Because, our town is not like Batumi. You have to get up very early to go to work, so there are almost no people on the streets after dark. 
+When I was growing up our town still preserved a bit of that nostalgic, post soviet, slightly depressing atmosphere. Especially in the Autumn. Grey sky, grey buildings, grey roads, grey everything. In the Autemn it get's dark pretty early. And even during the day you are not gonna see too much sun. So, even a daylight is kinda grey.
 
-So, I'm going down the street with my boddy. We are talking about some teenage stuff. We see some guys from school. We know some of them well, less so some other ounces. We should go and say hello to them.
+On the one of such day. At the evening. When sun was long gone. And darkness swollen the streets me and my friend were walking around. Talking about life. We were teenagers. I guess that's why night time was so attractive. Half of the street lights were broken, the other half was pretty dim and very yellow. Creating this post apocalyptic vibe. Most of the people were inside, enjoin their evening, getting ready for bad. Because, our town is not like Batumi. You have to get up very early to go to work. And that's why there are almost no people on the streets after dark. 
 
-We came closer. And as we having a small I'm looking around. It's dark, it's quite. I'm slightly cold. Yellow light above the building entrance about 20 miters away trying it's best to light up the night. Not achieving very much to be honest. Some guy walking home by himself. Puffed up jacket makes him look like MMA fighter.
+So, me and my boddy going down the empty street. Talking about some teenage stuff. We can see some guys from school a bit furthur away. We know some of them well, less so some other ounces. But anyway we should go and say hello to them.
+
+We came closer. Shake hands. Start chatting. And as we having a small talk I look around. It's dark, it's quite. I'm slightly cold. Yellow light above the building entrance about 20 miters away trying it's best to light up the night. Not achieving very much to be honest. Some guy walking home by himself. Puffed up jacket makes him look like MMA fighter.
 
 I'm kinda wondering in my thought. Thinking that dim light makes him look huge. And somewhere at the back of my mind I hear one of the boys saying:
 
@@ -29,18 +35,27 @@ I'm kinda wondering in my thought. Thinking that dim light makes him look huge. 
 
 Everything that fallowed have happened very quickly. Fractions of the second.
 
-First I thought to myself "Syco"? I've heard about syco from boys. They teething him and then when he gets really mad and tryis to catch them, they run away. But, I've though that they talk about harmless, maybe slightly odd, elderly man. This guys look like a killing machine. You would not want to mess with him.
+First I thought to myself "Syco"? I've heard about syco from boys. They were telling that they teething a guy. And he gets very mad very quckly. When he gets really mad, he chases them. And they run away. It is dump thing to do, that's what I always though. But, in my mind, I imagined harmless, maybe slightly odd, elderly man. But this guy... Man... This guys look like a killing machine! You would not want to mess around with him.
 
 As I'm thinking that someone from our crowd shouts:
 - Hey Syco, we're here!!!
 
-My heart stopped beating. As this huge man turn around and charge at us saying no words.
+My heart stopped. At that very moment, the guy — a beast of a man, a total unit — turned around and charged at us without a word.
+
+All the other guys broke into a run — they were ready, they knew what was coming. They’d done this many times before. But me? I froze. Blacked out for a split second.
 
 First thought to reach my mind, was the confident version of me saying: "Don't run. You are not with them. You did nothing wrong therefore you are safe".
 
-Then more reasonable thought took over with a counter argument "Do you think he cares? He is not in the mood to ask question. He is in the mood to fight."
+Then reason kicked in with a counter-argument: "You think he cares? He's not about talk — he’s about violence."
 
-And I ran. As fast as possible. 
+That argument was strong enough. I ran. As fast as I could... The guy was fast, scary fast. But hey, I didn’t need to outrun him. Just the slowest guy in our crowd.
 
-### Sides
-That night I didn't get to chose sides. I was pulled into a struggle against my will.
+### No choise
+And you know today. We can judge yang Viktar. Maybe we can say he could do better. He shuldn't have been there in the first place. And probobly that is true.
+
+But that night I didn't get to chose. I was pulled into a struggle against my will. It did not metter that I don't want to be part of this. That I was there by acident. That I'm sorry. The guy would choew me up and spit me out. Before I would even say a word.
+
+I could not escape the situation. I had to deside what to do...
+
+### This world
+Why am I telling this story? Because often it is the same with us, when we live the life of worship. When we try to glorify God in our thoughts, actions and behaviours. Sometimes we find ourselves in the situations we wish would never happened to us. And then the question is what do I do?
