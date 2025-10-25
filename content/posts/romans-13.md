@@ -10,7 +10,13 @@ title = 'Romans 13'
 
 
 ### Opposition
-We live in the world where two kingdoms oppose each other. Kingdom of this world or worldly system, opposes God and His kingdom. This opposition is real. And unfortunately for me and you, we don't get the stay neutral. You can't say "I take no sides". It's not an option.
+We are continue our deep dive into a **Life of worship**. We continue to learn how we can glorify and honor God in every sphere of of our life.
+
+Last week we said that our life is like a song. And our actions is like the melody that we sing.
+
+We glorify God when we chose to rely on His wisdom and guidance rather then our own. Otherwise we glorify ourselves and this worldly system.
+
+And living by the wisdom of our own can take us places we don't want to be in.
 
 ### Syco story
 I have previously mention that I grew up in a small town. It's a nice place surrounded by forest. You cannot really tell now. But, back in the day, original idea was to build a town in such a way that if you look from above, all building would form a word. **USSR**. But then, soviet union fell and those plans came to an end. Leaving us only with USS but no R.
@@ -68,25 +74,25 @@ Even you, who is in the church right now. You can get angry and upset, and disag
 
 How about now? I think that that's a tough scripture. I'm afraid I might actually get cancelled tonight. Because for many of us, one of the major reasons why we are here in Batumi, is our governing authorities.
 
-Georgia going through a rough times right now. But even as non Georgian citizens we can relate to the situation quite well. I think all of Eastern European countries went through similar processes very recently. And when this kind of situations rise up, it is no brainier what the world expect from you. - **REBEL**
+Georgia going through a rough times right now. But even as non Georgian citizens we can relate to the situation quite well. I think all of Eastern European countries went through similar processes very recently. And when this kind of situations rise up, it is no brainier what the world expects from you. - **REBEL**
 
 ### Rebel
 Rebel became our standard reaction. When we disagree. When we have enough of it. When we want something we don't have, but as we think we deserve. We rebel. In the garden of Eden, Adam and Even rebelled against God. But first Satan rebelled against God. Rebel - is his invention. It is his way.
 
-Our scripture for today is opposite to rebel. It has a few bold statements that rob us the wrong way.
+But as we read our scripture for today, we can different pattern. Our passage suggest something opposite to rebel. It has a few bold statements that rub us the wrong way.
 
 > "there is no authority except from God..."
 
 > "whoever resists the authorities resists what God has appointed..."
 
-> "that authorities are God's servants..."
+> "authorities are God's servants..."
 
 Paul, are you out of your mind?
 
 ### Paul
 Paul experienced fare amount of persecution from authorities. Roman government was not a fan of Christians by any stretch of the imagination. And yet, Paul by the inspiration of the Holy Spirit still writes this lines. "be in subjection"... "pay taxes"... Simply be a good citizen in all regards.
 
-This is what God wants from you! Do this as an act of, obedience to God. Act of worship.
+This is what God wants from you! Do this as an act of obedience to God. Act of worship.
 
 ### Law breakers
 God instituted authorities. They have function and responsibility before God. To serve people. To Protect them from wrongdoers. Punish the crime and etc. But even if they do not fulfill their function well. It does not make it fair for us to break the law.
