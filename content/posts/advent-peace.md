@@ -24,7 +24,7 @@ Or if we talk about inner state of a person:
 
 We all like to feel at peace, don’t we? It is very natural for us to long for peace.
 
-For our family, peace is when we go to the sea early in the morning. We drive to our secret spot in Gonio. Before you even see the water, you can already feel the salty breeze. You walk closer and lie down by the waves. They rock gently. No one is around. The sun shines on you. You feel calm and relaxed. You feel at peace.
+For our family, peace is when we go to the sea early in the morning. We drive to our secret spot in Gonio. [ IMAGE OF PEACE ] Before you even see the water, you can already feel the salty breeze. You walk closer and lie down by the waves. They rock gently. No one is around. The sun shines on you. You feel calm and relaxed. You feel at peace.
 
 How many of you would like to do that instead of going to work tomorrow?
 
