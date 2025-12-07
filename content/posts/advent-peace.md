@@ -1,6 +1,6 @@
 +++
 date = '2025-12-05T09:12:37+04:00'
-draft = true
+draft = false
 title = 'Advent - PEACE'
 +++
 
