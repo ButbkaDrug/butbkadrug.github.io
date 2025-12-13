@@ -57,36 +57,37 @@ On the other hand **fullness of joy** as it described in the bible is **an endur
 
 Unlike momentary happiness that not meant to last. Fullness of joy is an enduring, persistent state. It's is not like that brief spike of a nice feelings in the everlasting darkness of your life.
 
-It's a change that starts in you. And eventually spreads outwards. It starts to spill out to those around you.
+It's a change that starts in you. And eventually spreads outwards. It starts to spill out to those around you. It's like turning light on casting out darkness from you life.
 
 ### John 15:11
 ¹¹These things I have spoken to you so that My joy may be in you, and *that* your joy may be made full.
 
 When we receive **HIS** joy. We don't have to rely on external circumstances anymore. We don't have to rely on the rain. We can have an unlimited source of the living water right within us. Always at hand so to speak. 
 
-When you have **fullness of joy**, you can still feel sad, maybe even feel unhappy at times. But it's only momentary. It's not overwhelming, not paralyzing or life controlling. Overall you still live in joy.
+When you have **fullness of joy**, you can still feel sad, maybe even feel unhappy at times. But it's only momentary. It's not overwhelming, not paralyzing or life controlling feeling. Even though sad at times overall you still live life full of joy.
 
 Before his suffering on the cross Jesus told his disciples:
 
 ### John 16:22
 ²²Therefore you too have grief now; but I will see you again, and your heart will rejoice, and no one *is going to* take your joy away from you.
 
+Fullness of Joy that Jesus offers to us. Is not mere reaction to trouble free, easy life. He does not promise that from now on we will have 0 issues. No. Instead Jesus offers us a source of strength to overcome challenges. New way of living when we stay joyful even when not everything goes well. 
 
-Fullness of Joy that Jesus offers to us. Does not come from trouble free life. He does not promise that from now on we will have 0 issues. Instead He offers us source of strength to overcome those challenges. 
+Jesus offers us His Joy which does not depend on external circumstances. Joy that stays, lasts. 
 
+
+<!--NOTE: You don't need rain water when you have a spring right next to you.-->
+
+### Galatians 5:22
+²²But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,
 
 <!--NOTE: Thoughts-->
-Happiness can be momentarly. You can feel momentarly happy. But, overall live in depression. Misarable and unhappy.
-
 Joy is something at core level. You can be momentarly sad. But you overall you live in joy.
 
 Joy comes with holy spirit. We are not nesseserly "feel" Holy Spirit. But we definetly can see the results of he's presents in us.
 
 <!--NOTE: FULL JOY. True joy only in Jesus. -->
 ## JOHN
-### John 15:11
-¹¹These things I have spoken to you so that My joy may be in you, and *that* your joy may be made full.
-
 
 ### John 16:24
 ²⁴Until now you have asked for nothing in My name; ask and you will receive, so that your joy may be made full.
@@ -109,5 +110,3 @@ Joy comes with holy spirit. We are not nesseserly "feel" Holy Spirit. But we def
 ## Galatians
 ### Galatians 5:22
 ²²But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,
-
-
