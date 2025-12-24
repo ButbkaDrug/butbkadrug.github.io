@@ -51,8 +51,6 @@ Christmas is no longer centered around Jesus. Christmas without Christ is a real
 
 
 ### Preparing for story...
-Here in Calvary Chapel we believe in Jesus. God who came down to earth. He is our Lord and Savior. And it's not just words. We are not about being religious. We pursue living faith. That's why we should take Christmas seriously. And not just rush through this season using it as an excuse to treat ourselves and our loved once with something special.
-
 Here at Calvary Chapel, we believe in Jesus. God who came down to earth. He is our Lord and Savior. And this is not just words. We are not about being religious. We pursue a living faith.
 
 That is why we should take Christmas seriously. And not just rush through this season, using it as an excuse to treat ourselves and our loved ones to something special.
