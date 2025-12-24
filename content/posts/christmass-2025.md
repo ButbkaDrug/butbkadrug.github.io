@@ -18,9 +18,6 @@ So now, I would really like us to take a moment, slow down a little. Bringing ou
 
 
 ### Q:
-What do you mean go back to the core?
-
-Well... Christmas as we know it today is actually relatively new. It's only around 100 years ago Christmas took the form we all know. It became widely celebrated even among non religious people. And it was not a result of the great revival, spiritual awakening. It was not about people coming back to God. Back to the bible. No. None of that. It had nothing to do with faith in God at all.
 
 What do you mean by going back to the core?
 
