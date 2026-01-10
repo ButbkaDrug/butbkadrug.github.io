@@ -2,13 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/1-john-4-1-6/</loc>
-    <lastmod>2025-03-12T09:01:38+04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-12T09:01:38+04:00</lastmod>
+    <lastmod>2025-12-26T10:15:51+04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-12-26T10:15:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-15-20-33/</loc>
+    <lastmod>2025-12-26T10:15:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/christmass-2025/</loc>
+    <lastmod>2025-12-23T08:57:07+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/advent-joy/</loc>
+    <lastmod>2025-12-11T12:20:32+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/advent-peace/</loc>
+    <lastmod>2025-12-05T09:12:37+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-15-13-33/</loc>
+    <lastmod>2025-11-20T08:48:04+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/translation-notes/</loc>
+    <lastmod>2025-11-02T12:12:37+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-12-9-21/</loc>
+    <lastmod>2025-10-18T11:14:05+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-13/</loc>
+    <lastmod>2025-10-17T16:30:30+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-12-3-9/</loc>
+    <lastmod>2025-10-03T10:30:30+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-12-1-2/</loc>
+    <lastmod>2025-09-10T15:09:58+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-9/</loc>
+    <lastmod>2025-08-19T15:09:58+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-8-28-39/</loc>
+    <lastmod>2025-08-14T13:34:58+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-8-1-14/</loc>
+    <lastmod>2025-08-01T09:26:58+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-6-15-23/</loc>
+    <lastmod>2025-07-16T14:26:58+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-6-1-14/</loc>
+    <lastmod>2025-07-10T14:26:58+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-4/</loc>
+    <lastmod>2025-06-18T12:57:30+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-3-1-8/</loc>
+    <lastmod>2025-06-05T09:11:36+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-2-12-29/</loc>
+    <lastmod>2025-05-28T11:10:49+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-2-1-11/</loc>
+    <lastmod>2025-05-21T10:49:51+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-1-1-17/</loc>
+    <lastmod>2025-05-08T08:37:24+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/romans-introduction/</loc>
+    <lastmod>2025-04-26T12:34:18+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/easter-2025/</loc>
+    <lastmod>2025-04-17T08:30:22+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1-john-5-6-13/</loc>
+    <lastmod>2025-04-09T14:45:11+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1-john-5-1-6/</loc>
+    <lastmod>2025-04-03T07:45:59+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1-john-4-4-19/</loc>
+    <lastmod>2025-03-18T09:02:03+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/1-john-4-1-6/</loc>
     <lastmod>2025-03-12T09:01:38+04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/1-john-3-10-17/</loc>
@@ -50,6 +125,8 @@
     <priority>0.1</priority>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/cheetsheet/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
