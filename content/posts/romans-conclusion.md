@@ -18,6 +18,10 @@ We can say that we just finished a comprehensive unit in the school of God. And 
 
 Bible is not ment to be just read. Bible ment to be applied directly into our lifes. But let's be honest with ourselves How much biblical influence do we allow in our life?
 
+### Romans 12:2
+²And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.
+
+
 
 
 ### James 1:22-25
