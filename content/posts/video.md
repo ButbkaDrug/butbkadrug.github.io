@@ -1,7 +1,7 @@
 +++
 date = '2026-01-14T11:11:36+04:00'
-draft = true
-title = 'Video'
+draft = false
+title = 'Video Transcription'
 +++
 
 ### PRE
