@@ -5,11 +5,19 @@ title = 'Romans Conclusion'
 +++
 
 ### Intro
-We are officially finished the book of Romans. Congraculations everyone! It didn't take us too long. We have started with Romans on the first week of May 2025. So, It took us about 8 mounth to go from the beginning to the end. 16 chapters of fundamental truth. Rough calculations will give us 2 chapters a month speed. Not bad.
+Last week we are officially finished the book of Romans. Congratulations everyone! It didn't even take us that long. We have started Romans on the first week of May 2025. So, It took us about 8 mounth to go through the whole book. From the beginning to the end. 16 chapters of solid, fundamental truth. Rough calculations will give us speed of 2 chapters per month. Not bad.
 
-You probobly thinking "Ok, we done with Romans. It's all good. But, what's next? Where do we go now?". I've thought about it too. And you know what? We not going to go anywhere just yet. Because of multiple reasons. One of them being that I would have to leave for few weeks. And we will have visitors coming and sharing the word. Some of them you know, some of them will be new people for you. But they all great trustworthy people of God. And I'm sure of them that they will preach good, healthy message.
+And now we at the stage when one can say: *"Ok, we done with Romans. It's all good. So, what's next? Where do we go now?"*.
 
-So, thinking of that I did not wanted to start a new book and then to have a several week break, right after that. Instead I had something differant on my heart.
+
+I've thought about it too. And you know what? We not going to go anywhere just yet. Because of multiple reasons. One of them being that I would have to leave for few weeks. And we will have visitors coming and sharing the word with us. Some of them you know, some of them will be new for you. But they all great, trustworthy people of God. And I'm sure of them that they will bring very good, very healthy and helpful message.
+
+Having that in mind I did not wanted to start a new book. Because  we would have to have a several week break, right after we start.
+
+And few weeks ago I had... Maybe we can call it conviction. A topic that we should go over. 
+
+### Consumption
+Today we live in the culture of the constant consumption. We constantly consume some content. It shows in a verity of way in our lives. Some of the manifestations are harmless, others not so much. We con
 
 ### Exams
 I wanted us to reflect yet again. Re-evaluate where do we place bible, the word of God in our life? And I know that we all know **"the right answer"**. But, I don't want you to tell me the right answer. I want you to look back over the last 8 mounth. And to see, how much your life changed due to the studiyng book of Romans. 
