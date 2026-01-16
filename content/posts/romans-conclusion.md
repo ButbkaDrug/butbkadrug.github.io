@@ -17,7 +17,20 @@ Having that in mind I did not wanted to start a new book. Because  we would have
 And few weeks ago I had... Maybe we can call it conviction. A topic that we should go over. 
 
 ### Consumption
-Today we live in the culture of the constant consumption. We constantly consume some content. It shows in a verity of way in our lives. Some of the manifestations are harmless, others not so much. We con
+The problem that, I think we all see. Is that we live in the culture of the constant consumption. It shows in many ways in our lives. But all in all we always after something. Whether it's podcasts, sermons, books, etc. We listen and watch, watch and listen or read. And often it feels like we getting better, wiser. We get more insight, new knowledge, new revelations. It feels like we learn something, making progress! But do we? Or maybe it's just an illusion.
+
+
+### Hunger. Good food vs Bad food
+Ideas that you hear they sound fake. They sound like someone elses words. 
+After a while you just can tell that, someone got hooked up. It shows in their vocabulary, in their phrasing. 
+
+
+Maybe we start right. We lack knowledge, or wisdom and we start the search. But then, before we know we, it turns into recreational consumtion. We actually already found the answer. But we 
+
+
+We missing fundamental step. Practicing. You can't truly know something, unless you master it by repeated practice. All the pro's go back to fundamentals all the time. But every time they do, they uncover new side of it. In pretty much any craft. 
+
+We stopped internelizing information. We offloaded our critical thinking. And that's what the world want's you
 
 ### Exams
 I wanted us to reflect yet again. Re-evaluate where do we place bible, the word of God in our life? And I know that we all know **"the right answer"**. But, I don't want you to tell me the right answer. I want you to look back over the last 8 mounth. And to see, how much your life changed due to the studiyng book of Romans. 
