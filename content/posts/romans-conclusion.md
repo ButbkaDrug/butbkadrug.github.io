@@ -17,87 +17,12 @@ But also, in the same time, a few weeks ago I had... Maybe we can call it a conv
 
 And that what we will do today. 
 
-### Sushi
-And we will start with a question. **How many of you like Sushi**?
-
-
-In our family we realized that all of us love Sushi. Even smaller kids, which still surpises me. Unfortunately, we almost never buy them in Batumi, because "oh my gooodness" they are expensive here. And not always that good.
-
-So, what's natural solution in this case? Exactly! "I'll do it myself. What's a big deal to boil some rise and make into roll? Right?" And you turn on a burner, thow a pot on it. Water, rise, vinigar. Bam, bam, bam. I'm looking goood... That's what I've thought.
-
-But very soon you realize that it's not as streightforward as you think it is. My sushi was more like rise blobs with cucamber in it. Total falure.
-
-[Scene from Ratatui. When guy(Linguinni) is tasting the soup that he made in the beginning]
-
-It took so much effort and the result was... Well, less then I expected. I realized the it takes more then I've though. That having a recepy. Knowing the steps is not enough. That's why when I ran into a documentory about becoming a Sushi chif, I watched it.
-
-### Becoming a chif
-Apparantly it is qute a commitement. One enroll into particular "kitchen" as a apprentice. And from there it will take you anywhere from 5 up to 10+ years. You start as a cleaner. Moping floors, doing dishes. Then they trust you to wash rise. And one can just be washing rise for multiple years! Can you imagine?! Then you do some cutting and slicing. Then cooking rise. Then serving. Practicing each step can take multiple years. And most of this years you learn by watching. By imitating. By doing.
-
-### Diffarance
-And this approach is so diffarant from the world we life today. Today, after watching couple videos on youtube. One considered an expert. Right? I've definetelly guilty of that. Thinking to myself that I have experties in some area because I watched couple videos online )))
-
-It is because in todays world we adopted "Greek" style of learning. Where the highes activity is **theōria*. Which means **looking at**. In **theoria** world highest goal is understanding, possesing the knowledge. Application is not important and often unnessesery. It is worldview where **knowledge is the goal**.
-
-- "One can know the good without doing it"
-
-This is how we study in our schools. This is how we study in the university. In the modern world we spend first 20 years of our life mastering **theōria**. Which in some sense set's us up for a failure.
-
-Because withough even realizing it, we take this approach and apply it to all spheres of our life. We listen and watch, watch and listen or read. And it feels good. Feels like we getting better, wiser. We get more insight, new knowledge, new revelations. It feels like we learn something, making progress!
-
-### We use same approach
-We use same approach when it comes to our faith. Our following Christ. We consider ourselves better christians, because we listen to more sermons. More teaching.
-
-**And I think you should stop**.
-
-...
-
-
-
-
-### John 1:43
- ⁴³...He *found Philip. And Jesus *said to him, “**Follow Me**”
-
-### John 10:27
-²⁷My sheep listen to My voice, and I know them, and they **follow Me**;
-
-### Biblical approach
-
-Biblical approach is.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Luke 6:46-49
 > ⁴⁶“Now why do you call Me, ‘Lord, Lord,’ and do not do what I say?
 
 > ⁴⁷Everyone who comes to Me and hears My words and acts on them, I will show you whom he is like:⁴⁸he is like a man building a house, who dug deep and laid a foundation on the rock; and when there was a flood, the river burst against that house and *yet* it could not shake it, because it had been well built.⁴⁹But the one who has heard and has not acted *accordingly* is like a man who built a house on the ground without a foundation; and the river burst against it and it immediately collapsed, and the ruin of that house was great.”
 
-This scripture is the very end of so colled *Sermon on the Mauntain*. Which is basically an outline of how we should live. It is very practical. It's probobly the most famous. Maybe even the most important sermon of Jesus. Definetely it's one of the most qoted pices of scriptures. And considered to be **the core** of christian living.
+This scripture is at the very end of so called *Sermon on the Maintain*. Which is basically an outline of how we should live. It's probably the most famous. Maybe even the most important sermon of Jesus. Definitely it's one of the most quoted paces of scriptures. And considered to be **the core** of christian living.
 
 All that to say "It's extremely important". So, we better pay attention to what it says. I want us to have a closer look at verse 46:
 
@@ -112,9 +37,9 @@ In modern translation it sounds like:
 ### LORD, LORD
 This is important question. But before we will break it down. First let's gather a little bit of a context. Who Jesus is talking to? Who He is asking?
 
-We can see that this question addressed exclusively to the people, who call Jesus *Lord, Lord*. What is that mean?
+We can see that this question addressed exclusively to the people, who call Jesus *Lord, Lord*. But, what does is mean?
 
-Now, you probobly alreayd know this, but repetition of the word "Lord" is deliberate. In Hebrew and Aramaic speech, repetition intensifies meaning. In other words.
+Now, you probably already know this, but repetition of the word "Lord" is deliberate. In Hebrew and Aramaic speech, repetition intensifies meaning. In other words.
 
 **Calling Jesus “Lord, Lord” implies:**
 * devotion
@@ -122,14 +47,46 @@ Now, you probobly alreayd know this, but repetition of the word "Lord" is delibe
 * belonging
 * public confession
 
-Jesus addresses those who claim to be His devoted, loyal followers. In the modern turms we would say. It it people who go to church on Sundays. Who sing during worship. Have all the right answers. They know all the right words. They **LISTEN**, they **HEAR** the WORD. They follow Jesus.
+Jesus addresses those who claim to be His devoted, loyal followers. In the modern terms we would say. That it is people who go to church on Sundays. Who sing during worship. Have all the right answers. They know all the right words. They **LISTEN**, they **HEAR** the WORD. They "follow" Jesus.
 
-Potentially Jesus speaks about me and you. We all fall into this category.
+Potentially Jesus can speaks about me and you. We all can fall into this category. Because it is hard to tell real followers from superficial.
 
 ### THE PROBLEM
-The major differance between truly devoted followers and superficially devoted followers. Is that the other onces **do not DO** what Jesus say. They listen, they hear, they follow Jesus around. But they do not do what he say.
+The major difference between truly devoted followers and superficially devoted followers. Is that the other once's **do not DO** what Jesus say. They listen, they hear, they "follow" Jesus around. But they **do not do what he say**.
 
-The word **DO** also means **make**, **produce**. Following is not merely LISTENING, HEARING or READING the word. It's appying. It is doing, producing, making.
+This kind of people were around Jesus back in the day. They are here tonight. They like the ideas of Jesus. They are just not into doing things His way.
+
+### TO DO
+The word **DO** also means **make**, **produce**. Following is not merely LISTENING, HEARING or READING the word. It is about applying. It is about doing, producing fruit, making difference. **ACTING UPON IT**
+
+Unfortunately we live in the world of consumption. When we trained to just endlessly consume. We listen to the podcasts or sermons non stop. Thinking that makes us more spiritual. Makes us better Christians. As soon as we finish one book, podcast, sermon. We jump to the next one. And then the next one. So on and so forth.
+
+We like the ideas and words. But we rarely bother to do the work necessary to internalize that knowledge. We do not act upon it. We do not take time to practice.
+
+We consume so much and act so little that eventually we become spiritually obese. We say that "I need this to grow. I do it for my spiritual growth." When in reality you consume just for the sake of it, because it feels good. And you want more.
+
+### Difference in worldview
+I think it is a real problem. In the modern world we adopted "Greek" style of learning. Where the highest activity is **theōria**. Observation. In the world of **theōria** highest goal is understanding, possessing the knowledge. Application is not important and often unnecessary. It is a worldview in which **knowledge is the goal**.
+
+This is how we study in our schools. This is how we study in the university. We spend first 20 years of our life mastering the art of **theōria**. Gathering knowledge without ever acting upon it. We know so much, but most of the time we don't even know what to do with all that information. Because in the world of **theoria** understanding of the concept is the goal.
+
+That is why today one consider himself **an expert** after watching couple videos on YouTube or reading a book on the topic. I've definitely been guilty of that.
+
+And then you you 
+
+
+### EXAMPLE
+The Princess Bride (1987) Scene: Vizzini vs. Westley (battle of wits)
+or
+Wizard Duel: Severus Snape vs Gilderoy Lockhart
+
+### 
+And without realizing it, we take this approach and apply it to all spheres of our life. We listen and watch, watch and listen or read. And it feels good. Feels like we getting better, wiser. We get more insight, new knowledge, new revelations. It feels like we learn something, making progress!
+
+
+
+
+
 
 ### Luke 6:47
 > ⁴⁷I will show you what it’s like when someone comes to me, listens to my teaching, and then follows it.
