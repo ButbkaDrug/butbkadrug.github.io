@@ -35,7 +35,7 @@ In modern translation it sounds like:
  ⁴⁶“So why do you keep calling me ‘Lord, Lord!’ when you don’t do what I say?
 
 ### LORD, LORD
-This is important question. But before we will break it down. First let's gather a little bit of a context. Who Jesus is talking to? Who He is asking?
+This is an important question. But before we will break it down. First let's gather a little bit of a context. Who Jesus is talking to? Who He is asking?
 
 We can see that this question addressed exclusively to the people, who call Jesus *Lord, Lord*. But, what does is mean?
 
@@ -47,7 +47,7 @@ Now, you probably already know this, but repetition of the word "Lord" is delibe
 * belonging
 * public confession
 
-Jesus addresses those who claim to be His devoted, loyal followers. In the modern terms we would say. That it is people who go to church on Sundays. Who sing during worship. Have all the right answers. They know all the right words. They **LISTEN**, they **HEAR** the WORD. They "follow" Jesus.
+Jesus addresses those who claim to be His devoted, loyal followers. In the modern terms we would say. That it is about people who go to church on Sundays. Who sing during worship. Have all the right answers. They know all the right words. They **LISTEN**, they **HEAR** the WORD. They "follow" Jesus.
 
 Potentially Jesus can speaks about me and you. We all can fall into this category. Because it is hard to tell real followers from superficial.
 
@@ -59,11 +59,11 @@ This kind of people were around Jesus back in the day. They are here tonight. Th
 ### TO DO
 The word **DO** also means **make**, **produce**. Following is not merely LISTENING, HEARING or READING the word. It is about applying. It is about doing, producing fruit, making difference. **ACTING UPON IT**
 
-Unfortunately we live in the world of consumption. When we trained to just endlessly consume. We listen to the podcasts or sermons non stop. Thinking that makes us more spiritual. Makes us better Christians. As soon as we finish one book, podcast, sermon. We jump to the next one. And then the next one. So on and so forth.
+Unfortunately we live in the world of constant consumption. We trained ourselves to endlessly consume content. We listen to the podcasts or sermons non stop. Thinking that makes us more spiritual. Makes us better Christians. As soon as we finish one book, podcast, sermon. We jump to the next one. And then the next one. So on and so forth.
 
 We like the ideas and words. But we rarely bother to do the work necessary to internalize that knowledge. We do not act upon it. We do not take time to practice.
 
-We consume so much and act so little that eventually we become spiritually obese. We say that "I need this to grow. I do it for my spiritual growth." When in reality you consume just for the sake of it, because it feels good. And you want more.
+We consume so much and act so little that eventually we become spiritually obese. We say that "I need this to grow. I do it for my spiritual growth." When in reality you consume just for the sake of it, because it feels good. And you want more. You just like it.
 
 ### Difference in worldview
 I think it is a real problem. In the modern world we adopted "Greek" style of learning. Where the highest activity is **theōria**. Observation. In the world of **theōria** highest goal is understanding, possessing the knowledge. Application is not important and often unnecessary. It is a worldview in which **knowledge is the goal**.
@@ -72,31 +72,51 @@ This is how we study in our schools. This is how we study in the university. We 
 
 That is why today one consider himself **an expert** after watching couple videos on YouTube or reading a book on the topic. I've definitely been guilty of that.
 
-And then you you 
-
+And then you get a homegeown, cauch expret. Trying to argue with a real expert who invested himself into practicing. And you get something like this.
 
 ### EXAMPLE
-The Princess Bride (1987) Scene: Vizzini vs. Westley (battle of wits)
-or
 Wizard Duel: Severus Snape vs Gilderoy Lockhart
 
-### 
-And without realizing it, we take this approach and apply it to all spheres of our life. We listen and watch, watch and listen or read. And it feels good. Feels like we getting better, wiser. We get more insight, new knowledge, new revelations. It feels like we learn something, making progress!
+Without realizing it, we take **theoria** approach and apply it to all spheres of our life. We listen and watch, watch and listen or read. And it feels good. Feels like we getting better, wiser. We get more insight, new knowledge, new revelations. It feels like we learn something, making progress! When in the reality it is only an illusion.
 
 
-
-
-
+### Line 
+Jesus draws the line in his example
 
 ### Luke 6:47
-> ⁴⁷I will show you what it’s like when someone comes to me, listens to my teaching, and then follows it.
+> ⁴⁷ (one is) ...listens to my teaching, and then follows it...
 
 ### Luke 6:49
-> ⁴⁹But the one who has heard and has not acted *accordingly* is like a man who...
+> ⁴⁹..the one who has heard and has not acted *accordingly*...
 
-The both types of people they came, they have listened to the teaching. The diffarance is that one acted opon it and the other did not. As we read illustration we see that for a while diffarance was not apparant. Until the troubles come. Then it became obvious.
+The both types of people they came to Jesus, they both have heared the word. The diffarance is that one acted opon it and the other did not. And for the time you could not tell the differance until they have expirianced some pressure. Then it became obvious.
 
-Do you remember earthqake in Malatia in 2023?
+### Earthquake
+How many of you remember earthqake in Malatia in 2023? A lot of buildings have collapsed. You can watch before and after footage. Some, building ramian untuched, the other onec turn into a pile of brick and cement. One was porly built, the other one was build well.
+
+But you could not tell the diffarance until they were all tested. Then the diffarance became obvious.
+
+
+### CONCLUSION
+I don't want us to confirm to the culture of this world. I don't want any of us to be consumers. Couch exprets on faith and Christianity. I want us to be doers. Good workers who **do**, **make**, **produce**.
+
+I wanted each of us to take time to internalize what we learn. To take a sober look on where do we place the word of God in our life? I know that you all know **"the right answer"**. I don't want your right answers. I want you to look back over the last 8 mounth. And to see, how much your life changed because of the book of Romans. What did God reveil to you. Did you put an effort to act upon it?
+
+Bible is not ment to be just read. Bible ment to be applied directly into our lifes.
+
+### Luke 6:46
+ ⁴⁶“Now why do you call Me, ‘Lord, Lord,’ and do not do what I say?
+
+Is this question if for you?
+
+
+
+
+
+
+
+
+
 
 
 
