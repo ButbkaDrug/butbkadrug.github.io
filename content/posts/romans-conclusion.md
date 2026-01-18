@@ -1,6 +1,6 @@
 +++
 date = '2026-01-13T13:16:47+04:00'
-draft = true
+draft = false
 title = 'Romans Conclusion'
 +++
 
