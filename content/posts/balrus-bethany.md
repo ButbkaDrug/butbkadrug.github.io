@@ -189,29 +189,40 @@ title = 'Balrus Bethany'
 ⁴⁹А слушающий и неисполняющий подобен...
 
 
+Как мы видим обе категории людей пришли к Иисусу. Оба услышали слово. И разница между ними в том, что один применил это слово в жизни. А другой нет. И какое-то время между ними небыло видно никакой разницы. Все они выглядили как посвященные ученики Христа. Пока в их жизнь не пришли испытания.
 
-Both types of people came to Jesus. They both heard the word. The difference is that one acted upon it, and the other did not. And for a time, you couldn’t tell the difference—until they experienced pressure. Then it became obvious.
+### Luke 6:47-49
+⁴⁷Всякий, приходящий ко Мне и слушающий слова Мои и исполняющий их, скажу вам, кому подобен.⁴⁸Он подобен человеку, строящему дом, который копал, углубился и положил основание на камне; почему, когда случилось наводнение и вода напёрла на этот дом, то не могла поколебать его, потому что он основан был на камне.⁴⁹А слушающий и неисполняющий подобен человеку, построившему дом на земле без основания, который, когда напёрла на него вода, тотчас обрушился; и разрушение дома сего было великое.
 
-How about you? Which one do you think you are? And I’m not asking which one you *would like* to be—no. Take the time to reflect and see. Not for me. For you.
+### Землетрясение
+Если помните, не так давно сильное землетрясени произошлов в Турции. В области Малатия в 2023 году. Многие здания просто рухнули. В интернете можно найти смонтированную запись Где показывают одни и теже улицы и площади ДО и ПОСЛЕ землетрясения. Можно видеть что одни дома остались стоять практически не поврежденными. Другие в буквальном смысле превратились в груду кирпича и пыли.
 
-### Earthquake
-How many of you remember the earthquake in Malatya in 2023? A lot of buildings collapsed. You can watch the before-and-after footage on the internet. Some buildings remained untouched, while others turned into piles of brick and cement. One was poorly built; the other was built well.
+Когда ты смотриш на эти здания ДО землетрясения. Они выглядят идентично. Между ними не видно никакой разницы. Но когда пришло испытание, разница стала очевидна.
 
-But you couldn’t tell the difference until they were tested. Then the difference became obvious.
+### Luke 6:49
+⁴⁹... который, когда напёрла на него вода(или землятрясение), тотчас обрушился; и разрушение дома сего было великое.
 
-### CONCLUSION
-I don’t want us to conform to the culture of this world. I don’t want any of us to be mere consumers, couch experts on faith and Christianity. I want us to be doers, good workers, true followers who **do**, who **make**, who **produce**.
+Из-за нарушений норм строительства. Большинство зданий не просто обрушилось. Что уже само по себе страшно. Но обрушение зданий происходило по типу "блин". Когда несущие опоры и стены выходят из строи и перекрытия между этажами начинают падать одно на другое, как стопка блинов практически не оставляя шансов на выживание.
 
-That’s another reason why I didn’t want us to rush into a new book, because we are not after **theoria**. In Romans 12:2, we read:
+А как по поводу нас с вами? К какой категории отношусь я? И я не имею ввиду, к какой категории я хотел бы относиться. Знаете, каждый раз когда я заполняют тест, где нужно оцень себя. Так получается, что я отмечаю не те пункты которые соответствуют мне на самом дела, а те которые мне хотелось бы, чтобы соответствовали.
 
-### Romans 12:2
-²And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.
+Поэтом когда приходит время оценки нашего следования. На нужно посвятить этому время. Не потому что так сказал проповедующий. Не для меня, для себя. Поступаю ли я по слову, или только слушаю? Можно ли это увидеть в моей жизни? Какие изменения произошли в моей жизни за 2025 год. Благодаря послушанию слову Божьему?
 
-I want each of us to take time to internalize what we’ve learned. To take a sober look at where we place the Word of God in our lives. I know that you all know **"the right answer"**. I don’t want the “right answers.” I want every one of us to look back over the past eight months and see how much our lives have changed because of the book of Romans. What did God reveal to you? Did you put in the effort to act upon it?
+### Итог
+Мы не должны подстраиваться под культуру этого мира. Мы не должны быть просто потребителями, диванными экспертами в вопросах веры и Христианства. Мы должны быдь делателями, верными работниками, истинными последователями кто **исполняет**, **поступает**, кто **делает**. 
 
-The Bible is not meant to be just read. The Bible is meant to be applied directly into our lives.
+Мы не должны продолжать смотреть на мир через призму **theoria**. Наоборот в 12 главе послания к Римлянам мы читаем:
+
+### Romans 12:2(современны перевод)
+²Не приспосабливайтесь к образу жизни этого мира, но преображайтесь, обновляя ваш разум, чтобы вы сами могли постигать волю Божью, благую, угодную и совершенную.
+
+Давайте прилагать усилия для того чтобы **проработать**, применить на практике то, что мы слышим. Здраво оценим, какую роль нашей жизни играет Слово Божье. Конечно мы все знаем, что нужно ответить на этот вопрос. Но сегодня мы не ищем "правильных ответов". Мы все знаем правильный ответ. Но вместо этого давайте спрашивать у Бога чему он хочет нас научить. И смотреть применям ли мы в нашей повседневной жизни, ту истину, которую Дух Святой открывает нам.
+
+Библия - не просто книга, которую нужно читать. Библию нужно применять. 
+
+### ИТОГ ИТОГ
 
 ### Luke 6:46
- ⁴⁶“Now why do you call Me, ‘Lord, Lord,’ and do not do what I say?
+⁴⁶Что вы зовете Меня: Господи! Господи! — и не делаете того, что Я говорю?
 
-Is this question if for you?
+Адресов ли этот вопрос сегодня к нам?
