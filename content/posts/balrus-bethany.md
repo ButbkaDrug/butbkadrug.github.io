@@ -229,4 +229,4 @@ title = 'Balrus Bethany'
 
 Адресов ли этот вопрос сегодня к нам?
 
-{{ timer }}
+{{< stopwatch >}}
