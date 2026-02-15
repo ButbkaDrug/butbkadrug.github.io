@@ -35,12 +35,12 @@ Our next book will be the letter to Philippians. We will pick up were we left. A
 Today we will have less of a sermon and deep dive into history. We will have an overview, gather some context. Historical background and so on. Things which will help us to better understand the text.
 
 ### Back to matter
-What is actually helpful to know?
+What is actually helpful to know when you study biblical text?
 
-- Who wrote the letter?
-- Where was the author when he wrote that letter?
+- Who wrote that text?
+- Where was the author when he wrote that?
 - Under which circumstances?
-- Who are his original recipients of the letter?
+- Who are his original recipients/target audiance of the text?
 - Is there something special or unique about recipient or location or time of the writing?
 
 All this factors will have an impact and will be reflected in the text. Knowing the answers to this questions is very helpful in order to derive the authors intent. And it will also help us to understand how this truth applies to our life.
