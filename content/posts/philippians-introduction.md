@@ -112,37 +112,36 @@ Quite a journey isn't it?
 
 In the end Paul actually get's to Rome even though not the way he initiall planned.
 
-### Who are the Philippians and Why does Paul write a letter to them?
-Now, let's see who are the Philippians and why Paul is writing a letter to them?
 
 ### RECAP
 So, let's recap this little part. Paul sent a letter to Rome about his coming. Returnes from Jerusalem. Get's arrested and eventually excorted to Rome as a prisoner. Remening under the house arrest while waiting for his trial.
 
-### Who?
-Ok. We figured our what happened to Paul. Now let's see about Philippians.
+
+### Who? Philippians
+Ok. We figured our what happened to Paul. Now let's see about Philippians. Who they are and why Paul is writing a letter to them?
 
 Philippians are the believers from the city of Philippi. In Macedonia.
 
 Father of Alexander the Great, Philip II conquered this city and renamed it after himself to Philippi.
 
-Much later an important battle happened there. Between Roman republicans and imperialists. Republicans lost. Which ensured among other things the worship of the deified dead emperor. Which became a point of contention between Christians and Romans. Especially in the Philippi. Why?
+Much later an important battle happened there. Between Roman republicans and imperialists. Republicans lost. Which ensured among other things that Romans should worship deified dead emperor. Which always was a point of contention between Christians and Roman authorities. Especially in the Philippi. Why?
 
-Because after this battle, Philippi was enlarged and became a Roman colony. Discharged soldiers were given land there to settled in the city. So, quickly the city of Philippi became full of former Roman soldiers and officers. Who were extremely loyal to Rome and worshiped Emperor as a diety. They also firmly believed that everyone should do so too.
+Because after that important battle, Philippi was enlarged and became a Roman colony. Discharged soldiers were given land there to settled in the city. So, quickly the city of Philippi became full of former Roman soldiers and officers. Who were extremely loyal to Rome and worshiped Emperor as a diety. And they also firmly believed that everyone should do so too.
 
-That's the history of Philippi the city.
+That's the brief history of Philippi the city.
 
-But what connects Paul and Philippi?
+Now what connects Paul and Philippi?
 
 ### Connection with Paul
-Very condensed version is that during second missonary trip Paul and his companians try to go to new region "Asia Minor" to preach the Gospel. But Holy Spirit prevents the twice. 
+Very condensed version is that during second missonary trip(about 10 years before the letter to Philippi) Paul and his companians were tring to go to new region called "Asia Minor" to preach the Gospel. But Holy Spirit prevents the twice. 
 
-Then, right after that Paul get's a vision of a Macedonian man calling for help. And they immidiately go there. Full story in Acts 16. 
+Then, right after that Paul get's a vision of a Macedonian man calling for help. So, they immidiately go there. Full story in Acts 16. 
 
-They get to Philippi. And started the first Christian church in Europe. Yes, if you never thought about it Philippian church was the **fist one** in Europe.
+They get to the city of Philippi. Which was a central city of Macedonia. And started the first Christian church in Europe. Yes, if you never thought about it Philippian church was the **fist one** in Europe.
 
 The highlight of their time in Philippi, and you probably remember this stories, is when young slave-girl possessed with an evil spirit was following Paul and Silas for days. Until Paul got very annoyed and casts the evil spirit out.
 
-Which brought them not praise, but a great deal of trouble. Paul and Silas were arrested, beaten up and put into prison. But then God set them free via massive earthquake. Which also brought to fatih the main jailer.
+Which brought them not praise, but a great deal of trouble. Paul and Silas got arrested, beaten up and put into prison. But then God set them free via massive earthquake. Which also brought to fatih the main jailer.
 
 Another great story worth checking out.
 
@@ -159,57 +158,54 @@ The answer is simple. This letter is a "Thank you" letter. Philippians collected
 
 And along with the money Epaphroditus also have brought the news. An update of what's going on in the fellowship.
 
-We will see Paul's reflection on the issues as we study the letter. But all in one Paul wants to thank Philippians for their car and support.
+We will see Paul's reflection on the issues as we study the letter. But all in one Paul wants to thank Philippians for their care and support.
 
 ### Conclusion
-So, what can we learn today. Apart from important history and some interesting facts? Those will come in handy later as we go through the letter.
+But what can we learn today. Apart from important history and some interesting facts? Those will come in handy later as we go through the letter.
 
 But as of today what do we learn?
 
-We got to explore path of an apostle Paul. What have happen to him in between two letters that we study.
+We got to explore the path of an apostle Paul. What have happen to him in between two letters that we study.
 
 ### FIST
-Fist this that we learn is that Paul - was a simple man. Just like any one of us. He wasn't any kind of superhuman or anything like that. No. Regualr fella.
+Fist this that we learn is that Paul - was a simple man. Just like any one of us. He wasn't any kind of superhuman or anything like that. No. *Regualr fella*.
 
-As well as his companions. Regular people, just like me and you. **Dr. Luke** who wrote the gospel of Luke and the book of Acts. **Timothy** and **Silas**. They are not uber spiritual almost out of this world super humans. Not at all. Look at them:
+As well as his companions. Regular people, just like me and you. **Dr. Luke** who wrote the gospel of Luke and the book of Acts. **Timothy** and **Silas**. They were not some sort of a uber spiritual almost out of this world super humans. Not at all. Look at them:
 
 ### Acts 21:12
 >¹²When we had heard this(what will happend to Paul in Jerusalem), we ... *began* begging him not to go up to Jerusalem.
 
-Look at their reaction. Regualr humans, with regular human reaction. Except those regular humans chose to trust the Lord.
+Look at their reaction. Regualr humans, with regular human reaction. With an exception that those regular humans chose to trust the Lord. Because without a trust, they would quckly get dissapointed, maybe even lose their faith in site of everything that have happened.
 
-**Trust In The Lord** is no like *on/off* switch. Like you ether trust in the lord or you dont. No, there is a different degrees of trust, that come with expiriance. Every time we go through something with the Lord. Our ability to trust him grows. First you able to trust in little things, than little bigger and bigger and bigger. I think we going to talk about it more in depth as we progress through the letter.
+And funny thing about trust. Is that **Trust** is no like *on/off* switch. Like you ether trust in the Lord or you dont. No, it more like a scale.  There are different degrees of trust, which come with expiriance. Every time we go through something in the Lord. Our ability to trust him grows.
 
-It's just like muscules. Isaak can bench press way more then me. Twice my body weight if I'm not mistaken. Did he was born with this ability? No. Did he got to this weight his first day in gym? No. Gradually increasing the weight he made his muclies stronger and more capable.
+At First you only able to trust in little things. Than little more and little more. We going to come back to this more in depth as we progress through the letter.
 
-Thought the course of His life Paul's capacity grew tromandesly. We will see that he was able to fully trust the Lord at this stage:
+### Isaak
+Trust it's just like our muscules. For example Isaak can bench press way more then me. Twice my body weight if I'm not mistaken. Was he born with this ability?
+
+- No.
+
+Did he got to this weight his first day in gym?
+
+- No.
+
+Gradually increasing the weight you make your muclies stronger and more capable.
+
+Thougout the course of His life Paul's capacity to trust God grew tromandesly. And eventually He was able to trust the Lord fully:
 
 ### Act 21:14
 >¹⁴And since he(Paul) would not be persuaded, we became quiet, remarking, “The will of the Lord be done!”
 
-Then as we study the bible I should not say. "Well... those are **APOSTILES**. With a capital A. And I'm not like that. I'm just regular guy.
+## What
+What does it mean for us?
+
+It means that as we study the bible, and we see something remarkable,  we should not say. "Well... those are **APOSTILES**. With a capital A. And I'm not like that. I'm just regular guy.
 
 Just like in a song - *"I'm just a boy inside a man. Not exactly who you think I am..."*
 
-Bible were written by devine insperation of God. But in the same time it was written by the regular people just like ourselves. For the regular people just like ourselves.
+One one hand Bible were written by devine insperation of God. But in the same time it was written by the regular people just like ourselves. For the regular people just like ourselves.
 
-To help us to be regular people who trust the Lord.
+The stories that we read, stories that we share should help us to trust the Lord more. 
 
-
-
-
-
-
-
-### IF THERE IS TIME
-Lord who can turn bad circumstances of our life into something useful.
-<!-- NOTE: Lord turns bad things into useful onces -->
-### Philippians 1:12-14
->¹²Now I want you to know, brothers *and sisters,* that my circumstances have turned out for the greater progress of the gospel,
-
->¹³so that my imprisonment in *the cause of* Christ has become well known throughout the praetorian guard and to everyone else,
-
->¹⁴and that most of the brothers *and sisters,* trusting in the Lord because of my imprisonment, have far more courage to speak the word of God without fear.
-
-### Turn to good
-In the end all the evil that happend to Paul were turned to some good. The circumstances was not good. What happened was not good. But God was able to yeld some good out of it.
+{{ stopwatch }}
