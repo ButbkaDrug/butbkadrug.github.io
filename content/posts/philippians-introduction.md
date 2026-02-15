@@ -24,6 +24,8 @@ It's not like it is all that important. But, I think it's cool. And now you know
 ### Mapping out events
 It is surprisingly interesting to try to map out events of the new testament in chronological order. I was doing just that during my preparations. It's really helps to see more connection and reasoning between different parts of a Bible. You stop viewing New Testament as a collection of random scripts. But instead they all start to come together into a story. Story that we can and should learn from.
 
+Today we attept to do just that. Instead of jumping from one book to another, we will try to "build a bridge" between the two.
+
 ### Not from the start
 So, what is our next book?
 
