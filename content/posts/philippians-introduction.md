@@ -1,33 +1,36 @@
 +++
 date = '2026-02-07T12:34:18+04:00'
-draft = true
+draft = false
 title = 'Philippians Introduction'
 +++
 
 ### INTRO 
-<!-- Good intro  -->
 
-Last 3 weeks we had a little break from expositional study. We had a break from me preaching. We've had a few really nice guests (Andrey is not a guest, but he did great too!) And it's ok to step back every once in a while and talk about a certain topic as God leads. I hope you enjoyed it.
+Hello Church. For the last 3 weeks we had a little break from our regular study. You've got to enjoy some other preachers, not only me.
 
-Now I think we're ready to go back to our regular way of learning the Bible. If you are new here. In calvary chapel we study the Bible chapter by chapter, verse by verse. Looking at what the Bible has to say to us. We let the word of God speak into our life.
+We've had wonderful guests (well, technically Andrey is not a guest, but never the less he did great too!) And it's totally ok to have a break every once in a while to have a guest speaker or a topical sermon. Nothing wrong with that. I hope you enjoyed it.
 
-Time has come for us to advance to a next book. And I'm happy to tell you that we will continue with the letters of Paul. Paul has written a few of them over the course of his ministry. **13** books of the New Testament are widely considered to be written by Apostle Paul.
+With that said I think we're ready to go back to our regular study. If you are new here. In Calvary Chapel we study the Bible chapter by chapter, verse by verse. From the beginig of the book to the end. Looking at what the Bible has to say to us... We let the word of God speak and we learn to apply it's truth to our lifes.
 
-We just finished studying a letter to the Roman church. And chronologically the letter to Romans sits in the middle of the list. After letters to Galatians, Thessalonians, and Corinthians.
+And as you might remember, time has come for us to start a new book. Because we finshed Romans just before I left. And I'm happy to tell you that we will continue to study letters of Paul. Paul has written a few over the course of his ministry. **13** books of the New Testament are widely considered to be written by Apostle Paul.
+
+We just finished a book of Romans. And chronologically the letter to Romans sits in the middle of the list. After letters to Galatians, Thessalonians, and Corinthians.
 
 ### Fun fact
 Fun fact for you if you will. Did you know that Letters to Galatians, Thessalonians and Corinthians were written before the Gospels? I didn't know that until just recently.
 
-It's not like it is all that important. Probably not gonna revolutionize your life or view of the Bible. But, I think it's fun to know. And now you know too.
+It's not like it is all that important. But, I think it's cool. And now you know that too.
 
 ### Mapping out events
-It is surprisingly interesting to try to map out events of the new testament in chronological order. I think it helps to see a bit more connection and reasoning between different parts of a Bible. You stop viewing New Testament as a collection of random scripts. But instead they all start to come together into a story. Story that we can and should learn from.
+It is surprisingly interesting to try to map out events of the new testament in chronological order. I was doing just that during my preparations. It's really helps to see more connection and reasoning between different parts of a Bible. You stop viewing New Testament as a collection of random scripts. But instead they all start to come together into a story. Story that we can and should learn from.
 
 ### Not from the start
-We're not going to start from the first letter of Paul. Even though I should confess I did consider that. Instead we will pick up from where we left. Book of Romans. And advance to the next letter. Which is Letter to Philippians.
+So, what is our next book?
+
+Our next book will be the letter to Philippians. We will pick up were we left. At the end of Romans. And trace what happened between the time when Paul wrote letter to Rome and letter to Phillipians.
 
 ### Context
-Today we will have an overview, gather a little bit of context. Historical background and so on. Which will help us to better understand this letter. And will help to prevent misinterpretation.
+Today we will have less of a sermon and deep dive into history. We will have an overview, gather some context. Historical background and so on. Things which will help us to better understand the text.
 
 ### Back to matter
 What is actually helpful to know?
@@ -36,35 +39,42 @@ What is actually helpful to know?
 - Where was the author when he wrote that letter?
 - Under which circumstances?
 - Who are his original recipients of the letter?
-- What is special or unique about them or location or time in which it was written etc.?
+- Is there something special or unique about recipient or location or time of the writing?
 
-It will have an impact and will be reflected in the text. So, let's find the answer to these questions.
+All this factors will have an impact and will be reflected in the text. Knowing the answers to this questions is very helpful in order to derive the authors intent. And it will also help us to understand how this truth applies to our life.
+
+So, let's find the answers to these questions.
 
 ### Who? 
-We know that apostle Paul was the author of this letter. How do we know that?
+We know that apostle Paul was the author of this letter. How do we know that? Easey
 
 ### Philippians 1:1
- ¹Paul and Timothy, bond-servants of Christ Jesus... 
+>¹Paul and Timothy, bond-servants of Christ Jesus... 
 
 With this one it's pretty clear. Because Paul names himself right in the verse 1.
 
 ### Where is Apostle Paul
 Where was Paul when he wrote the letter?
 
-At the time he wrote his letter he was in prison. I believe that he is under the house arrest in Rome.
+At the time he wrote his letter he was in prison. I believe that he is under the house arrest in Rome. How do we know that?
+
+### Philippians 1:12,13
+ ¹²Now I want you to know, brothers *and sisters,* that my circumstances have turned out for the greater progress of the gospel,¹³so that my imprisonment in *the cause of* Christ has become well known throughout the praetorian guard and to everyone else,
 
 ### Connection to Romans
-Let's briefly talk about what happened between letters to Romans and Philippians.
+Wait. Last thing we knew about Paul, is that he was in Corinth, writing a letter to Rome. Letting them know he want's to visit them right?
 
-If you remember at the end of the letter to Romans Paul writes about desire to visit them. But he says that he needs to visit Jerusalem first. And at the end of his letter Paul request prayer:
+Let's briefly talk about what happened between letters to Romans and Philippians. Because there is a 5 year gap between the two.
+
+If you remember at the end of the letter to Romans Paul writes that he needs to visit Jerusalem before he can come. Paul also request prayer regarding that:
 
 ### Romans 15:30-31
  ³⁰...I urge you, brothers *and sisters,* ...to strive together with me in your prayers to God for me, ³¹that I may be rescued from those who are disobedient in Judea...
 
-Paul anticipates some troubles in Jerusalem. He was not clueless about the risks of going to Jerusalem. He was well aware but decided to go there anyway. In Acts 21 we read:
+Paul anticipates some potential troubles in Jerusalem. He was not clueless about the risks of going there. In fact I think he was well aware of what's coming. But decided to go anyway. In Acts 21 Luke sheds some light on the events:
 
 ### Acts 21:10-14
->¹⁰As we (Luke, Paul, Mark, Silas) were staying there (Ceasarea on their way to Jerusalem) for some days, a prophet named Agabus came down from Judea.
+>¹⁰As we (Luke, Paul, Timothy, Silas) were staying there (Ceasarea on their way to Jerusalem, this is righ after Paul sent the letter to rome) for some days, a prophet named Agabus came down from Judea.
 
 >¹¹And he came to us and took Paul’s belt and bound his own feet and hands, and said, “This is what the Holy Spirit says: ‘In this way the Jews in Jerusalem will bind the man who owns this belt and hand him over to the Gentiles.’ ”
 
@@ -75,11 +85,11 @@ Paul anticipates some troubles in Jerusalem. He was not clueless about the risks
 >¹⁴And since he would not be persuaded, we became quiet, remarking, “The will of the Lord be done!”
 
 ### Jerusalem
-And that is exactly what happened. In short Paul arrived in Jerusalem. Then "those who are disobedient" as Paul called them in the letter, caused some serious trouble for Paul.
+And it happend exactly like the prophet said. In short - Paul arrived in Jerusalem. Then "those who are disobedient" as Paul called them in the letter, caused some serious trouble for him.
 
-He almost gets killed by the mob when he visits the Temple. Roman soldiers save him from the mob. It's an epic story really, You should check it out.
+Paul almost gets killed by the mob when he visits the Temple. Roman soldiers save him from the Jews. It's an epic story really, You should check it out. It's all in Acts.
 
-But those Jews were not to give up easily. After failing to kill Paul on the spot, they made a clever plan to assassinate Paul. Unfortunately for them, that information gets leaked and Romans send Paul away from Jerusalem under the guard of 470 roman soldiers. Can you Imagine?
+But those Jews were not to give up easily. After failing to kill Paul on the spot, they made a clever plan to assassinate Paul. Unfortunately for them, they have leaked that information and Romans send Paul away from Jerusalem under the guard of 470 roman soldiers. Can you Imagine?
 
 - 200 soldiers
 
@@ -87,56 +97,117 @@ But those Jews were not to give up easily. After failing to kill Paul on the spo
 
 - 70 horsemen
 
-All were protecting Paul. Escorting him to Caesarea. And From there Paul eventually was sent to Rome.
+All were protecting Paul. Escorting him to Caesarea. And from there eventually Paul was sent to Rome.
 
 ### Time gap.
-There is a 5-year gap between Paul's letter to the Romans and his actually arriving in Rome. After at least two assassination attempts. After being imprisoned for several years in Ceasarea. After a surviving a shipwreck and more. He ends up under "house arrest" in Rome. Constantly watched and guarded by the Roman soldiers.
+There is a 5-year long jurney between Paul's letter to the Romans and him actually arriving to Rome.
 
-And that's where we find him at the time of writing letter to Philippians. 
+After at least two assassination attempts. After 2 years in prison in Ceasarea. After a surviving a shipwreck and more. He ends up under the "house arrest" in Rome. Constantly watched and guarded by the Roman soldiers.
+
+And that's where we find him at the time of his writing the letter to Philippians. 
 
 Quite a journey isn't it?
+
+In the end Paul actually get's to Rome even though not the way he initiall planned.
 
 ### Who are the Philippians and Why does Paul write a letter to them?
 Now, let's see who are the Philippians and why Paul is writing a letter to them?
 
+### RECAP
+So, let's recap this little part. Paul sent a letter to Rome about his coming. Returnes from Jerusalem. Get's arrested and eventually excorted to Rome as a prisoner. Remening under the house arrest while waiting for his trial.
+
 ### Who?
-As you can imagine Philippians are the believers from the city of Philippi. In Macedonia.
+Ok. We figured our what happened to Paul. Now let's see about Philippians.
 
-Father of Alexander the Great, Philip II conquered this city and named it after himself Philippi.
+Philippians are the believers from the city of Philippi. In Macedonia.
 
-Much later there was an important battle there. Between Roman republicans and imperialists. Republicans lost. the Roman empire remained imperialistic. Which ensured among other things the worship of the deified dead emperor. which became a point of contention between Christians and Romans. Especially in the Philippi. Why?
+Father of Alexander the Great, Philip II conquered this city and renamed it after himself to Philippi.
 
-Because after this battle, Philippi was enlarged and became a Roman colony. Discharged soldiers were given fertile land to farm and settled in the city. So, the city of Philippi was full of former Roman soldiers and officers. Who were extremely loyal to Rome and worshiped Emperor. And firmly believed that everyone should do so too.
+Much later an important battle happened there. Between Roman republicans and imperialists. Republicans lost. Which ensured among other things the worship of the deified dead emperor. Which became a point of contention between Christians and Romans. Especially in the Philippi. Why?
 
-That's the history of Philippi. But what connects Paul and Philippi?
+Because after this battle, Philippi was enlarged and became a Roman colony. Discharged soldiers were given land there to settled in the city. So, quickly the city of Philippi became full of former Roman soldiers and officers. Who were extremely loyal to Rome and worshiped Emperor as a diety. They also firmly believed that everyone should do so too.
+
+That's the history of Philippi the city.
+
+But what connects Paul and Philippi?
 
 ### Connection with Paul
-Well, much later Paul, Silas, Mark and apostle Luke. came together to Philippi and started a church there. during the so-called "second missionary journey". The major goal of the second journey was to support churches that were founded during the "first missionary journey".
+Very condensed version is that during second missonary trip Paul and his companians try to go to new region "Asia Minor" to preach the Gospel. But Holy Spirit prevents the twice. 
 
-But when they have finished visiting existing churches, Paul tried to advance into a new region called "Asia Minor" and preach there. But Holy Spirit did not allow for that. Actually they were stopped twice by the Holy Spirit. Then Paul got a vision of a Macedonian man calling for aid. You can read the full story in Acts 16. 
+Then, right after that Paul get's a vision of a Macedonian man calling for help. And they immidiately go there. Full story in Acts 16. 
 
-That's how they got to Philippi. And started the first Christian church in Europe.
+They get to Philippi. And started the first Christian church in Europe. Yes, if you never thought about it Philippian church was the **fist one** in Europe.
 
-The highlight of their time in Philippi, and you probably remember this part, is when young slave-girl possessed with an evil spirit was following Paul and Silas for days proclaiming that they are ministers of God almighty. Until Paul got very annoyed and cast evil spirit out.
+The highlight of their time in Philippi, and you probably remember this stories, is when young slave-girl possessed with an evil spirit was following Paul and Silas for days. Until Paul got very annoyed and casts the evil spirit out.
 
-which brought them a great deal of trouble. Paul and Silas were beaten up and put into prison. But then God set them free via massive earthquake. Which also brought the main jailer to faith.
+Which brought them not praise, but a great deal of trouble. Paul and Silas were arrested, beaten up and put into prison. But then God set them free via massive earthquake. Which also brought to fatih the main jailer.
 
 Another great story worth checking out.
 
-So Philippi - main city of Macedonia. Full of retired soldiers and Roman influence. First church to be founded in Europe. 
+So, to recap Philippi - is the main city of Macedonia. Full of retired soldiers and full or Roman influence. First church to be founded in Europe by Paul, Timothy, Apostle Luke and Silas. 
 
 ### Why
-Now let's go back to Apostle Paul at the present time (time of the writing the letter I mean).  We should fast-forward 10 years. This is how much time has passed since they have founded the church in Philippi.
-
-Now Paul is under house arrest in Rome. Waiting for the trial.
-
+With that I think we have enough historical data. And we can come back to Paul, who is under house arrest in Rome. Waiting for the trial.
 
 ### Why Now?
-The question I had in my head is: why now? Why has Paul decided to write a letter 10 years after?
+The question that I had in my head is: **Why Now**? Why Paul have decided to write this letter at this stage?
 
 ### The answer
 The answer is simple. This letter is a "Thank you" letter. Philippians collected financial support for Paul and sent it with a trusted man from their church named Epaphroditus.
 
-And with the money Epaphroditus also have brought the news. An update of what's going on in the fellowship. We will see Paul's reflection on the issues as we study the letter.
+And along with the money Epaphroditus also have brought the news. An update of what's going on in the fellowship.
 
-But all in one of the major highlights of this letter is "Joy". Paul says words like joy and rejoice a lot. Which is interesting considering that he himself is in prison.
+We will see Paul's reflection on the issues as we study the letter. But all in one Paul wants to thank Philippians for their car and support.
+
+### Conclusion
+So, what can we learn today. Apart from important history and some interesting facts? Those will come in handy later as we go through the letter.
+
+But as of today what do we learn?
+
+We got to explore path of an apostle Paul. What have happen to him in between two letters that we study.
+
+### FIST
+Fist this that we learn is that Paul - was a simple man. Just like any one of us. He wasn't any kind of superhuman or anything like that. No. Regualr fella.
+
+As well as his companions. Regular people, just like me and you. **Dr. Luke** who wrote the gospel of Luke and the book of Acts. **Timothy** and **Silas**. They are not uber spiritual almost out of this world super humans. Not at all. Look at them:
+
+### Acts 21:12
+>¹²When we had heard this(what will happend to Paul in Jerusalem), we ... *began* begging him not to go up to Jerusalem.
+
+Look at their reaction. Regualr humans, with regular human reaction. Except those regular humans chose to trust the Lord.
+
+**Trust In The Lord** is no like *on/off* switch. Like you ether trust in the lord or you dont. No, there is a different degrees of trust, that come with expiriance. Every time we go through something with the Lord. Our ability to trust him grows. First you able to trust in little things, than little bigger and bigger and bigger. I think we going to talk about it more in depth as we progress through the letter.
+
+It's just like muscules. Isaak can bench press way more then me. Twice my body weight if I'm not mistaken. Did he was born with this ability? No. Did he got to this weight his first day in gym? No. Gradually increasing the weight he made his muclies stronger and more capable.
+
+Thought the course of His life Paul's capacity grew tromandesly. We will see that he was able to fully trust the Lord at this stage:
+
+### Act 21:14
+>¹⁴And since he(Paul) would not be persuaded, we became quiet, remarking, “The will of the Lord be done!”
+
+Then as we study the bible I should not say. "Well... those are **APOSTILES**. With a capital A. And I'm not like that. I'm just regular guy.
+
+Just like in a song - *"I'm just a boy inside a man. Not exactly who you think I am..."*
+
+Bible were written by devine insperation of God. But in the same time it was written by the regular people just like ourselves. For the regular people just like ourselves.
+
+To help us to be regular people who trust the Lord.
+
+
+
+
+
+
+
+### IF THERE IS TIME
+Lord who can turn bad circumstances of our life into something useful.
+<!-- NOTE: Lord turns bad things into useful onces -->
+### Philippians 1:12-14
+>¹²Now I want you to know, brothers *and sisters,* that my circumstances have turned out for the greater progress of the gospel,
+
+>¹³so that my imprisonment in *the cause of* Christ has become well known throughout the praetorian guard and to everyone else,
+
+>¹⁴and that most of the brothers *and sisters,* trusting in the Lord because of my imprisonment, have far more courage to speak the word of God without fear.
+
+### Turn to good
+In the end all the evil that happend to Paul were turned to some good. The circumstances was not good. What happened was not good. But God was able to yeld some good out of it.
