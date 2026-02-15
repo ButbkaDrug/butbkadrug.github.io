@@ -208,4 +208,6 @@ One one hand Bible were written by devine insperation of God. But in the same ti
 
 The stories that we read, stories that we share should help us to trust the Lord more. 
 
+What is your area where you need to trust the Lord today? 
+
 {{ stopwatch }}
