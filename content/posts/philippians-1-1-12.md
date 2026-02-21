@@ -1,6 +1,6 @@
 +++
 date = '2026-02-22T01:04:15+04:00'
-draft = true
+draft = false
 title = 'Philippians 1:1-6'
 +++
 
