@@ -1,11 +1,8 @@
----
-title: "Philippians 1:1-6"
-draft: false
-build:
-  render: always
-  list: always
-  publishResources: false
----
++++
+date = '2026-02-22T01:04:15+04:00'
+draft = true
+title = 'Philippians 1:1-6'
++++
 
 ### Intro
 Last time we've had an overview of our New Book. Which is letter to Philippians. We looked at Paul's jurney that preceded the letter to Philippians. We leared about Pauls situation and the history not only of the city of Philipi but also the history of the first church on European contintet.
