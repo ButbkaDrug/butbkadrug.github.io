@@ -1,5 +1,6 @@
 ---
-title: "Content Placeholder"
+title: "Philippians 1:1-6"
+draft: false
 build:
   render: always
   list: always
