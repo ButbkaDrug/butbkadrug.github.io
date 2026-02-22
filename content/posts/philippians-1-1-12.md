@@ -152,14 +152,16 @@ What are your areas of pride? People are extremely susceptible to pride, and the
 
 Maybe you feel like you’ve already figured it out…
 
-
-
 You know: I to church for a decades at this point. I don’t smoke. I don’t drink. I don’t live a loose sexual life. I don’t break laws. I don’t know… I’m all good, really.
 
 Or maybe the other way around.
 
 You feel like a failure—that you are so difficult and stubborn that God will give up on you, if He hasn’t already…
 
-Both are lies. We are *works in progress*. Not yet finished, but we will be finished.
+Or maybe your life has become hard—very challenging. And it feels like God has left you.
 
-The work will be completed only on the day of Jesus Christ.
+All those are lies. We are *works in progress*.
+
+Challenges are the first sign that God is working. As we go through trials, we learn and grow. We are being transformed into the Christ-like image. A challenging life doesn’t mean God is not with you. In fact, it often indicates the opposite.
+
+The work is not yet finished, but it will be. The work will be completed only on the day of Jesus Christ. Let’s not stop halfway through, or two-thirds of the way. Let’s not let pride lead us away from the right path.
