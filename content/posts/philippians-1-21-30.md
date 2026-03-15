@@ -121,43 +121,55 @@ So, whether Paul rebeled as some argue or not. We see that God was with Paul. He
 God was able to yeld some remarkble outcomes from this very intense, very difficult situation. He was in control. He is a winner. And as for Paul, he was not only ready, but happy to do those thinks. As we will shortly see.
 
 ### Back to Philippians 
-But because from human point of view Paul's imprisonment looked like defeat. As if God's plan failed. As if something went wrong. People were concerned and worried. And rightfully so considering all the thing Paul went through.
+But as we coming back to the book of Philippians. They didn't know what would be the end of it. In fact, all they knew is that Paul is in preason. Maybe they've heard about his hardships on the way to Rome. And from human point of view Paul's imprisonment might look like a defeat. As if God's plan failed. As if something went wrong. Such a powerful minister now in the preason. People were concerned and worried. And rightfully so, considering all the thing Paul went through.
 
-That's why in his letter Paul tells Philippians not to be discouraged because of his imprisonment. We read "Joy" and "rejoice" many times through the letter. Which tells us Paul is not depressed about his situation. He embraced his position. And honestly he doesn't sound like he is desperate for relieve. In Philibians 1:19 Paul talks about deliverance. But, in verse 20 we see that he considers both options **LIFE** as well as **DEATH**. Both options are viable for Him.
+That's why in his letter Paul tells Philippians not to be discouraged because of his imprisonment. We read "Joy" and "rejoice" many times through the letter. Which tells us Paul is not depressed about his situation. He embraced his choice. And honestly it doesn't sound like he is desperate for relieve. In Philippians 1:19 Paul talks about his deliverance. But, in verse 20 we see that *delivarans* for him would be both **LIFE** as well as **DEATH**. Both options are viable for Him. Even more so, he says that the second one is actually more desirable. 
 
 ### Philippians 1:18-21
-> ...I also will rejoice,¹⁹for I know that this will turn out for my deliverance through your prayers and the provision of the Spirit of Jesus Christ,²⁰according to my eager expectation and hope, that I will not be put to shame in anything, but *that* with all boldness, Christ will even now, as always, be exalted in my body, whether by life or by death.
+> ...I also will rejoice,¹⁹for I know that this will turn out for my deliverance through your prayers and the provision of the Spirit of Jesus Christ,²⁰according to my eager expectation and hope, that I will not be put to shame in anything, but *that* with all boldness, Christ will even now, as always, be exalted in my body, whether by **life** or by **death**.
 
 
-Unlike many of us, Paul was not afraid of death. When we get into circumstances, all we want is to get relieved. And most of the time it means to continue to live. And I think same was position of Philippines church. They wanted, Paul to continue to live. That's what their prayers were about. But Paul's attitude is a bit different. In the verse 21 he says:
+Unlike many of us, Paul was not afraid of difficult circumstances, or even death. When we get into hardships, all we want is to get relieved. We want our lifes to get back to normal state. And I think same was position of Philippines church. They wanted, Paul to go back to his ministry. That's what their prayers were about. But Paul's attitude is a bit different. In the verse 21 he says:
 
 
 ### Philippians 1:21-30
 > ²¹For to me, to live is Christ, and to die is gain.
 
+He letting us know that he will be happy either way. Last Sunday we read that at this point everybody knew that Paul is in chains *because of Christ*, or *for the sake of Christ*. Which means that everyone knew he's not some kind of a criminal. That Paul did nothing wrong. Everyone knew that **He is there for Christ.**
 
-He letting us know that he will be happy either way. Last time we read that that everybody knew that Paul is in chains *because of Christ*, or *for the sake of Christ*. Which means that everybody knew he's not some kind of a criminal. That Paul did nothing wrong and it was not some sort of a shady business on his side that cased him trouble. Everyone knew that **He is there for Christ.**
+Paul comforts his friends saying: "Don't worry about me. Everyone knows I'm inecent. I'm a rebel nor chriminal. Everybody knows it's about Christ. And no matter how it will all turn out for me. It will all server for the glory of God"
 
-If you ever wanted to have same kind of boldness as Paul, today we will reveal his secret.
-
-Paul had boldness in such complicated situation, because he knew that this is the place where God wants him to be... When we read verse 21 it sounds rather radical. But this verse is the key that let's us understand his Paul's assurance. Paul explains to Philippians and to us his attitude to life:
+And further Paul continue to explains his attitude to life in general:
 
 ### Philippians 1:22-30
 > ²²But if *I am* to live *on* in the flesh, this *will mean* fruitful labor for me; and I do not know which to choose.²³But I am hard-pressed from both *directions,* having the desire to depart and be with Christ, for *that* is very much better;²⁴yet to remain on in the flesh is more necessary for your sakes.²⁵Convinced of this, I know that I will remain and continue with you all for your progress and joy in the faith,²⁶so that your pride in Christ Jesus may be abundant because of me by my coming to you again.
 
-Paul says that **to live In flesh means to continue his work for Christ**. He is not looking forward to some sort of retirement. When he would be able to travel around and see the world. When he would finally  leave for himself a little bit. No, he says that if he is to stay, he will continue with his ministry. And his only reasoning for life is his concern is other people. He doesn't talk about himself at all.
+Paul says that **to live In flesh means to continue his work for Christ**. He is not looking forward to some sort of retirement. When he would be able to travel around and see the world. When he would finally settle down somewhere on the distant farm. And live for himself a little bit. No, he says that if he is to stay, he will surely continue with his ministry. He is not discoraged by his imprisonment. He is not terrified by the possibility of execusion. He embraced that and ready to continue.
 
-On the other hand, Paul says that "if I am to die", it is still very good option for me. In fact, he says if I would think about myself, I'd chose this one. He says it's very much better, or other translations say it's better by far.
+We do not read even slightest hint or regreat. No. Paul states that I will continue to do exactly what he've been doing. That all this will serve for the glory of God.
 
-Let's think about it. Church praying for Paul's relief, for his freedom. They don't want Paul to die. I think that even very possibility of it terrifies them. And I think this is proper attitude on their side.
+### How it effects me
+And such stands amazes me. I'll confess I don't like trouble. I like when everything goes well. And this is what I'm praying for all the time. But now, as we enter the time of unsertanty. When laws in the country changing and it's not clear how life will be in couple month. This give me corage. Paul was in far worse situation. And somehow managed to preserve boldness in Christ. This reminds me that God is in control. And as we deal with minor inconviniaces, we can "keep calm, carry on".
 
-But Paul tells them that actually I don't mind dying for Christ. He says if I would to chose. It that would be up to me to decide, I wold probably choose to depart and be with Christ.
+The obsticles that we face should not scare us away form doing what God called us to do. To be the people God want's us to be. We can be like Paul. We can have the same boldness too.
 
-Paul says that ether outcome is in his favor. 
+And I know that each of us goes through some harships right now. We all have our own battles and struggles. And encoragement for us is that God is in control.
 
-This is Paul's secret of not being afraid of hardships and even death.
-**Is to know that you are in God's will**. Is to be sure that you leave the life God wants you to leave. That you are right were God wants you to be. And you do what God wants you to do. If you will be sure of this things, you'll be able to have the same attitude Paul had.
+And as we read today. Even if you are the soul reason for your struggles. God not gonna abondant you in the mids of it. He is still able to help you. And willing to help you.
 
-**If your life is Christ, then to die is gain.**
+### Boldness like Paul
+But if you want to have Paul's kind of boldness. Or at least start to move in that direction. I have few useful, hopefully practical tips for you. I think it will especially useful reminders In our current obsticles as foreigners. And what i find the most common things that get people caught:
 
-How do we apply it to our current situation?
+1. We should be as much as possible complient with local laws.
+
+    * This will ensure that we not bringing troubles on ourselves by being foolish or too smart. That if we are to suffer, it would be surely for the Christ sake alone. And not because you were trying to cheat the system. We need to be sure, that no one is  able to acuse us of anything else, but our faith in Christ Jesus. Becuase if you have some shady stuff in your life. Be sure the enemy will bring them up to compromise you. And by making desicion to break the law or by trying to "be clever" you only inviting troubles to your life. And disobeying scriptures too. Be proactive in it. 
+
+2. Know you battlefield
+
+    * Both Jesus and Paul lived at the time when their homeland were occupite. They lived under burden of Roman empire. Which was not perfect. Not very fear. But yet, they knew that their battle field is not politics. Their mission is not revolution or anything like that. Their mission was to spreat the Gospel. Help people. This what concered them. And I know it will rob some peole wrong way, but I'll say it anyway. I beleive that same applies to us. Our first concern should be the kingdom of God. We should pray and bless the authorities. We should obey them, as long as it does not breaks God's law. We should remember that first of all we are citizents of the Kindom of God. And all our efforts should go that way.
+
+3. The most important I saved for the end - Trust God
+
+    * Also, if we trust that God is in control, it helps a lot. And when you follow his lead. When you are sure that you are where He want's you to be. And you do the things God wants you to do. You can be sure that He is in control. That he will take care of you as long as you trust in Him.
+
+    * But if you are the lord of your life. And you are the one who decides. If you live by your own wisdom. Then... well... I don't know.
