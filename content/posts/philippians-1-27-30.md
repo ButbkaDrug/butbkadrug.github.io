@@ -7,18 +7,24 @@ title = 'Philippians 1:27-30'
 ## Intro
 <!--TODO: Write an intro -->
 
-Last week we went over the section of the text where Paul encourages believers in Philippy. He reveals his attitude to this situation. Inspiring us not to be afraid of the circumstances. We went over Paul's famous quote:
+Last week we went over the section of the text where Paul encourages believers, his friend, who were conserned about him being in preason. He reveals his attitude to this situation. He let's us know that, he is not in any way afraid of his circumstances.  We went over Paul's famous quote:
 
  - "For me, to live is Christ, and to die is gain..."
  *Apostle Paul*
 
-The words I believe not every Christian can say whole heatedly. And we talked how we can gain the same confidence. Or at least how we can start working the words such confidence.
+The words I think not every Christian can say whole heatedly. We looked into **"how we can gain the same confidence"**. Or at least how we can start working in the right direction.
 
-Today we will finish up the 1st chapter. Apostle Paul continue to edify believers and Philippy. He said that he actually prefers to depart and be with Christ. Because it is way better option. And it is if you really think about it. To advance from imperfect world to the perfect place, from suffering into joy, from pain to true life... But we're not gonna go into that today, because it's not our topic for today.
+Today we will cover the rest of the 1st chapter. Apostle Paul start to share his heart for believers and Philippy.
 
-Our topic for today is what pulse says next. He says: - for YOU it will be better if I stay and continue to minister to you.
+### Paul's heart
+In the verse 23 he says that he actually prefers to "*depart and be with Christ*". But then He says: - **BUT** for YOU it will be better if I stay... Stay and continue to minister to you...
 
-In verse 25 Paul continue:
+Bible let's us to have an insight into Paul's heart. Paul says I'm not afraid of the chains. One one hand he has his desire - to be with Christ, on the other hand he can recogninze that people still need him. He is at the crossroad when he choosing between the two:
+ * To do what **HE** wants. Something that benefit him.
+ * To do what would be better for his people.
+
+### Example
+
 
 #### Philippians 1:25,26
 ²⁵Convinced of this, I know that I will remain and continue with you all for your progress and joy in the faith,²⁶so that your pride in Christ Jesus may be abundant because of me by my coming to you again.
