@@ -7,19 +7,48 @@ title = 'Philippians 1:27-30'
 ## Intro
 <!--TODO: Write an intro -->
 
-Last week we went over the section of the text where Paul encourages believers, his friend, who were conserned about him being in preason. He reveals his attitude to this situation. He let's us know that, he is not in any way afraid of his circumstances.  We went over Paul's famous quote:
+Last week we went over the section of the text where Paul encourages believers, his friend, who were concerned about him being in prison. He reveals his attitude to this situation. He lets us know that, he is not, in any way afraid, of his circumstances.  We went over Paul's famous quote:
 
  - "For me, to live is Christ, and to die is gain..."
+
  *Apostle Paul*
 
-The words I think not every Christian can say whole heatedly. We looked into **"how we can gain the same confidence"**. Or at least how we can start working in the right direction.
+The words I think not every Christian can say whole heatedly. We opened up  **"how can we also gain the same kind of confidence"**. Or at least how we can start moving in the right direction.
 
-Today we will cover the rest of the 1st chapter. Apostle Paul start to share his heart for believers and Philippy.
+Today we will cover the rest of the 1st chapter. We will continue to discover the heart of apostle Paul Apostle Paul for believers and Philippy. Not only this letter shows us the relationships apostle Paul had with Philippines, it sets the example for us. What kind of relationships we should have between one another. 
+
+### Word of caution
+As we go over versus in chapters, always try to apply what we discover, with we learn to your specific situation.
+
+Because often when we learn something, especially if it's some sort of behavior correction. We know exactly who will benefit of it. We think: I wish this person would hear that. He really needs that.
+
+But what we should do instead, we should try to see how it applies to me. How I should change. Start looking at the log in your eye, instead of a spec in your brother's eye. As scripture would say.
+
+With that being said. Let's get to our study.
 
 ### Paul's heart
-In the verse 23 he says that he actually prefers to "*depart and be with Christ*". But then He says: - **BUT** for YOU it will be better if I stay... Stay and continue to minister to you...
+In the verse 23 Paul says that actually he prefers to "*depart and be with Christ*". But then He says: - **BUT** for YOU it will be better if I stay... Stay and continue to minister to you...
 
-Bible let's us to have an insight into Paul's heart. Paul says I'm not afraid of the chains. One one hand he has his desire - to be with Christ, on the other hand he can recogninze that people still need him. He is at the crossroad when he choosing between the two:
+This verse open up Paul's inner world. Bible gives us an insight into Paul's heart. We can see the "**chain of thought**" apostle goes through in order to make an important decision. We can see what actually motivates him. What he consider important. Which factors outweigh the others.
+
+### FEAR
+And first he says "**I'm not afraid of the chains**". So for Paul, in his current situation, fear is not a deciding factor. It's not part of the equation. Paul ether do not have fear, or discards fear. So that it would not influence his final decision. Whatever decision he makes, we know that it is not out of fear.
+
+It is important to remember that. When it comes to making important, life changing decision. Fear can play a huge role. And it is fear of the man we talking about. No the fear of the Lord.
+
+"What people will think of me?"
+"What they would say?"
+"What if I will lose my friend?"
+"What if I will loose me reputation?"
+
+It doesn't mean that you're not afraid. However it shouldn't be deciding factor...
+
+**Do not let fear to stop you from doing what is right!**. Later we'll get back to this, but for now let's look for it further.
+
+### Needs of others
+Then he continues. On one hand Paul has his own desire - **to be with Christ**, on the other hand he can recognize that people still need him.
+
+He is at the crossroad when he choosing between the two:
  * To do what **HE** wants. Something that benefit him.
  * To do what would be better for his people.
 
