@@ -15,81 +15,69 @@ Last week we went over the section of the text where Paul encourages believers, 
 
 The words I think not every Christian can say whole heatedly. We opened up  **"how can we also gain the same kind of confidence"**. Or at least how we can start moving in the right direction.
 
-Today we will cover the rest of the 1st chapter. We will continue to discover the heart of apostle Paul Apostle Paul for believers and Philippy. Not only this letter shows us the relationships apostle Paul had with Philippines, it sets the example for us. What kind of relationships we should have between one another. 
+Today we will cover the rest of the 1st chapter. We will continue to discover the heart of apostle Paul. Not only this letter shows us relationships apostle Paul had with Philippines, it also sets the example. It models the kind of relationships we should strive for between one another. In verse 10 we read:
+
+### Philippians 1:10(NLT)
+> ¹⁰...I want you to understand what really matters, so that you may live pure and blameless lives until the day of Christ’s return.
 
 ### Word of caution
-As we go over versus in chapters, always try to apply what we discover, with we learn to your specific situation.
+Before we start digging in and explore "**what really matters**", I want to say a word of caution. As we go though this letter. Let's try to project that truth that we learn to our own life. Let the Holy Spirit point out if we lacking in certain departments. Let's learn how to apply what we might discover. So, that we would not be listeners only. But doers.
 
-Because often when we learn something, especially if it's some sort of behavior correction. We know exactly who will benefit of it. We think: I wish this person would hear that. He really needs that.
+In the same time let's avoid common pitfall. Which usually sounds like: "Gosh... I know exactly who will benefit from it. I wish  **insert the name here** would hear that. And finally change."
 
-But what we should do instead, we should try to see how it applies to me. How I should change. Start looking at the log in your eye, instead of a spec in your brother's eye. As scripture would say.
+Let's not be kind of people who have notices a spec in your brother's eye. And completely missed a log sticking out of your own eye. As scripture would say.
 
-With that being said. Let's get to our study.
+With that being said. Let's get to our study...
 
 ### Paul's heart
-In the verse 23 Paul says that actually he prefers to "*depart and be with Christ*". But then He says: - **BUT** for YOU it will be better if I stay... Stay and continue to minister to you...
+In the verse 23 Paul says that his preferred option is to "*depart and be with Christ*". But also He says: - **BUT** it will be better for **YOU** if I stay... Stay and continue to minister to you...
 
-This verse open up Paul's inner world. Bible gives us an insight into Paul's heart. We can see the "**chain of thought**" apostle goes through in order to make an important decision. We can see what actually motivates him. What he consider important. Which factors outweigh the others.
+This verse open up Paul's inner world a little bit. Bible gives us an insight into Paul's heart. We can observe the "**chain of thought**" apostle goes through in order to make an important decision. We can see what actually motivates him. What he consider important. Which factors outweigh the others.
 
-### FEAR
-And first he says "**I'm not afraid of the chains**". So for Paul, in his current situation, fear is not a deciding factor. It's not part of the equation. Paul ether do not have fear, or discards fear. So that it would not influence his final decision. Whatever decision he makes, we know that it is not out of fear.
+### FEAR should not control our life
+And first that we observe is that he states "**I'm not afraid of the chains**". It is very important observation. Paul in his, without a doubt difficult situation refuses to  let fear be a deciding factor. He says that it's not even a part of the equation. Apostle ether do not have fear, or discards, discounts fear. He letting us know that it does not influences his decisions. No matter what he will choose, we know that it is not out of fear.
 
-It is important to remember that. When it comes to making important, life changing decision. Fear can play a huge role. And it is fear of the man we talking about. No the fear of the Lord.
-
-"What people will think of me?"
-"What they would say?"
-"What if I will lose my friend?"
-"What if I will loose me reputation?"
-
-It doesn't mean that you're not afraid. However it shouldn't be deciding factor...
-
-**Do not let fear to stop you from doing what is right!**. Later we'll get back to this, but for now let's look for it further.
+Fist thing that really matter is that **We should not let our fears to control our lives.**
 
 ### Needs of others
-Then he continues. On one hand Paul has his own desire - **to be with Christ**, on the other hand he can recognize that people still need him.
+Next Paul continue. On one hand there is something that he wants - **to be with Christ**. On the other hand he recognizes that people still need him.
 
-He is at the crossroad when he choosing between the two:
- * To do what **HE** wants. Something that benefit him.
- * To do what would be better for his people.
+Text shows us that Paul is at the crossroad when he need to choice between the two:
+ * To do what **HE** wants. Fulfill his desire.
+ * To do what would be better for others.
 
-### Example
+I want us to understand what Paul is saying. He says, "Guys, I really, really just want to depart. But, I do understand that you still need me here..." Then in verse 25 we read:
 
+### Philippians 1:25(NLT)
+> ²⁵Knowing this, I am convinced that I will remain alive so I can continue to help all of you grow and experience the joy of your faith.
 
-#### Philippians 1:25,26
-²⁵Convinced of this, I know that I will remain and continue with you all for your progress and joy in the faith,²⁶so that your pride in Christ Jesus may be abundant because of me by my coming to you again.
+Other translation says: 
 
-Paul convinced that his work is not over yet. Believers still needed him. His ministry is not obsolete yet. It's not irrelevant anymore. There are still things to do. And all that will make Paul to choose staying over departing. Because he cares about others more than his own desires.
+#### Philippians 1:25(NASB)
+> ²⁵Convinced of this, I know that I will remain and continue with you all **for your progress and joy** in the faith
 
-He follows the attitude and the command of Jesus. To think of others more than you think of yourself. This scripture shows us Paul's struggle between the two desires. Selfish ambition versus needs of others. And he chooses the other one. If it will be up to him to decide, he will put aside his desire. And he will do what is better for others.
+And in this verse we can make two observations:
 
-And his motivation is not glory or wealth, well-being, or some sort of Personal gain. No, he says I will continue with you all **"for your progress and joy"**.
+First observation is what give Paul confidence:
 
-His main concern is well-being of others. Progress of those he responsible for. In a way he rejects career advancement, for the sake of his people. For the sake of those who still need him. He set aside his personal gains for the sake of the ministry.
+### Philippians 1:25
+> ²⁵Knowing this, I am convinced that I will remain alive...
 
+Paul confidence comes from the knowledge that his mission is not over yet. He knows that if God want's him to continue to minister to Philippians, He will get Paul out. We touch on this last time. But I'll say it again - staying withing God's will. When you submit your will to His will. When you do what He want's you to do. When you rely on Him. It boosts your confidence like nothing else.
 
-In this verses, Paul let us to have a view into his thinking process. And into his decision-making process. And I believe all that to help us learn. To set example for us to follow.
+Second observation is that Paul does not say "I'm doing this, because this is what I want..." He says "I'm doing this because this is what **you** need...". Which is obviously not the same thing. And it's not like Paul doesn't have an opinion on the matter. He definitely does. Paul explicitly declared what he would rather do in verse 23. He wants to depart and be with Christ:
 
-When you learn something new, it is so much helpful when you can see someone do it. But, it's even more helpful if the person reveals his thinking process behind it. Why he chose to do this way and not the other way. It helped to go from blind repetition, to actually understand, understanding and applying.
+But despite that He says:  "I'll stay... I'll stay **to help you**... To make sure **you** continue to progress...".
 
-If there is a person you admire. Important figure in your life that you want to be more like. Often you start to copy actions of this person, his attitudes, maybe his words or expressions. Before you even know what person is really like. And as you get to know him more and more, you can understand why he does what he does. Why did he do it this way and then you can compare it to your life, your decisions. When you've been to similar situation, how did you do?
+Paul making decision based on what God whats him to do. Rather then what HE wants.
 
-And then if you find a Mismatch, you are motivated to improve your behavior. And I firmly believe that this versus is such case. Apostle Paul, where very highly regarded among Philippines. People wanted to be like him. And he said an example, Giving them opportunity to look behind the scenes. On how he thinks. On how he makes decision. What is his motivation? So that they can compare it with their own, and be motivated to make necessary adjustments.
+### Example?
+Paul sets aside his desires for the sake of others. He follows the command of Jesus. To think of others more than you think of yourself.
 
-Process I'm doing it for the progress in your faith. So faith it's not something static. Is not Something that you just get once and then you always have it. No. It's a path. It is something measurable. Something we can grow. Something we can lack, have a little off. Something that we should strive to have as much as possible.
+He sets the example. That sometimes we have to set aside our desires for the sake of others. 
 
-And what helps us to grow our faith? It's when we see God's work in our life, or in life of the people we know.
+<!-- TODO: expand of this -->
 
-That's why Paul desires to stay and visit Philippines. So that they can see how God delivered him. So that their faith, their confidence in Christ Jesus will a bond.
-
-For the same reason every Sunday night I encourage you to share with one another. To share your struggles and also the blessings you experience. Because it grows your faith. That's why once a month we typically try to have someone share their testimony during our service. So that we can grow in our faith. That's why when you sure testimony, you're not exulting yoursel. Or at least you shouldn't be exulting yourself. It's time to give glory to God for what he have done and edify others.
-
-It's not about you. It's about God and his work and you. It's about helping others to grow.
-
-Again, in this verses, we see that apostle Paul thought of others, cared of others more than personal gains. He preferred to set aside his personal gains for the time, for the sake of others.
-
-It's not like he will never be able the Lord. No, temporarily he decides to wait with that. So when you set aside your personal games for the sake of others, it doesn't mean that you give up on those. No, I'm sure God will bless you and you will get those eventually as well. It's more about not concentrating on yourself. It's about not being egocentric. It's about preventing your pride from getting in the way of the will of God. Because most often are pride ease, our biggest obstacle in our walk with a Lord.
-
-And will be coming back to pride issue several times throughout this letter. And the first antidote for pride is thinking of others more than about yourself.
 
 Let's continue to read from the verse 27:
 
