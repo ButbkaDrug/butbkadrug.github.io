@@ -5,7 +5,7 @@ title = 'Philippians 1:27-30'
 +++
 
 ## Intro
-Greetings, dear brothers and sisters. I invite you to turn to the Word of God. We are reading Philippians chapter 1. Last week, we went over the section of the text where Paul encourages believers—his friends—who were concerned about him. He reveals his attitude toward this situation. He lets us know that he is not, in any way, afraid of his circumstances. We looked at Paul’s famous words:
+Greetings, dear brothers and sisters. I invite you to turn to the Word of God. We are reading Philippians chapter 1. Last week, we went over the section of the text where Paul encourages believers — his friends — who were concerned about him. He reveals his attitude toward this situation. He lets us know that he is not, in any way, afraid of his circumstances. We looked at Paul’s famous words:
 
  - "For me, to live is Christ, and to die is gain..." - *Apostle Paul*
 
@@ -33,27 +33,31 @@ Last Sunday, we read that Paul was torn between two possibilities for his future
 ### Philippians 1:20-22
  ²⁰..I fully expect and hope that I will never be ashamed, but that I will continue to be bold for Christ, as I have been in the past. And I trust that my life will bring honor to Christ, whether I live or die.²¹For to me, living means living for Christ, and dying is even better.²²But if I live, I can do more fruitful work for Christ. So I really don’t know which is better.
 
-Then in verse 23, he says that **his** preferred option is to "*depart and be with Christ*." But he also says: **"But it will be better for you if I stay..."**—to stay and continue to minister to you.
+Then in verse 23, he says that **his** preferred option is to "*depart and be with Christ*." But he also says: **"But it will be better for you if I stay..."**
 
 In these verses, we have a great opportunity to learn from Paul. He guides us through his thought process. The Bible gives us insight into his heart. We can see the "**chain of thought**" the apostle goes through when making an important decision.
 
 I find this to be pure gold. Because when you learn, it’s great to see how people do things. But it’s even greater to understand why they do what they do! Then, instead of blindly following steps, you can actually understand what’s going on.
 
-And here we can see what’s going on in Paul’s head—what actually motivates him, and what he considers important...
+And here we can see what’s going on in Paul’s head — what actually motivates him, and what he considers important...
 
 ### FEAR should not control our life
-And the first important statement Paul makes sounds like this: **"I'm not afraid of the chains."** I want us to pay attention to that. Remember that Paul is, without a doubt, in a very difficult situation—truly life-or-death kind of obstacles. But yet, he refuses to be driven by **fear**. It’s not even part of the equation when it comes to making up his mind.
+And the first important statement Paul makes sounds like this: **"I'm not afraid of the chains."** I want us to pay attention to that. Remember that Paul is, without a doubt, in a very difficult situation. Truly life-or-death kind of obstacles. But yet, he refuses to be driven by **fear**. It’s not even part of the equation when it comes to making up his mind.
 
-Maybe Paul didn’t have any fears at this stage. That’s very possible, considering the story of his life. Or, more likely, he discards—he rejects—his fears. He lets us know that fear does not influence his decisions in any way. So no matter what he chooses, if it were up to him to decide, we can be sure that his decision would not be based on fear.
+Maybe Paul didn’t have any fears at this stage. That’s very possible, considering the story of his life. Or, more likely, he discards — he rejects — his fears. He lets us know that fear does not influence his decisions in any way. So no matter what he chooses, if it were up to him to decide, we can be sure that his decision would not be based on fear.
 
 He doesn’t let fear stop him from doing what God called him to do. He doesn’t let fear stop him from living the kind of life God wants him to live.
 
 And I think we can learn from Paul. We can learn **not to let fear take control over our lives...**
 
 ### Time of change
-It so happens that we live in a time of change. We didn’t ask for it, but it is what it is. And I hear people say that it’s not the best, to say the least. I don’t know if that’s entirely true, but there is some truth to it. And I think if we are honest with ourselves, we can admit that every one of us wrestles with our own portion of fears. We engage in this battle with our worries. Sometimes we keep them down, but other times they get the best of us. We read some news or talk to the wrong person, and boom—fear and anxiety take over. And it can be overwhelming. We can lose sleep over our fears, wake up in the middle of the night because of a nightmare, when fear sneaks even into our dreams. Days and weeks can go by while we are fully absorbed by our fears, doubts, worries, and anxieties. It can affect every part of our lives. It gets hard to concentrate. Hard to work. It messes up our mental space. Affects the atmosphere in your home. Your relationships, affections… You don’t want to pray or go to church.
+It so happens that we live in a time of change. We didn’t ask for it, but it is what it is. And I hear people say that it’s not the best, to say the least. I don’t know if that’s entirely true, but there is some truth to it. And I think if we are honest with ourselves, we can admit that every one of us wrestles with our own portion of fears.
 
-Does any of this resonate with you? Or is it just me?
+We engage in this battle with our worries. Sometimes we keep them down, but other times they get the best of us. We read some news or talk to the wrong person, and boom—fear and anxiety take over. And it can be overwhelming. We can lose sleep over our fears, wake up in the middle of the night because of a nightmare, when fear sneaks even into our dreams.
+
+Days and weeks can go by while we are fully absorbed by our fears, doubts, worries, and anxieties. It can affect every part of our lives. It gets hard to concentrate. Hard to work. It messes up our mental space. Affects the atmosphere in your home. Your relationships, affections… You don’t want to pray or go to church.
+
+**Does any of this resonate with you? Or is it just me?**
 
 Fear takes away the joy we used to have. It takes away our peace. And even though nothing has happened yet, we start to live as if it did. And honestly, sometimes fear **does** take over our life. It’s not good. It’s not what we want. We don’t like it, right? More than that, it’s not what God wants for you either. The will and the heart of God for you is to experience **peace** and **joy**.
 
@@ -66,7 +70,7 @@ This is what God’s will for you is: to experience **love, joy, and peace**—t
 
 That’s why the enemy tries to steal these things using fear, doubt, and worries. Sometimes we feel like there is nothing we can do about it. We feel helpless, crushed under the weight of these things. They feel bigger than we are…
 
-And maybe it is true. Those obstacles—whether it’s disease, persecution, war, or anything else—maybe they seem too big or too complicated to overcome. But that doesn’t mean we are helpless. We can and should **RESIST** and fight back.
+And maybe it is true. Those obstacles—whether it’s disease, persecution, war, or anything else — maybe they are too big, too complicated to overcome. But that doesn’t mean we are helpless. We can and should **RESIST** and fight back.
 
 Fear is a weapon of our enemy. He effectively uses fear to paralyze us, to rob us of the things God gives us. He uses fear to stop us from doing God’s work, to stop us from living the life God wants us to live.
 
@@ -88,13 +92,15 @@ It’s a nice sunny day. The water is warm and calm, almost without waves—basi
 
 He patiently shows her what to do, watching her carefully, helping just enough to make sure she isn’t sinking, but not too much—so she can get a feel for what swimming actually feels like.
 
-But she starts to panic. "Ahhh, it’s too deep... I can’t do it... I’m so scared..." and so on.
+But she starts to panic. "Ahhh, it’s too deep... I can’t do it... I’m so scared..." and so on and so forth. She stops following instructions, and everything falls apart.
 
-Then my friend says a phrase that immediately engraved itself into my memory. He says:
+This goes on for some time. Then my friend says a phrase that immediately engraved itself into my memory. He says:
 
 "**You think I worked so hard to take good care of you for these 10 years only to let you drown here???**"
 
-Of course not! No father would let this happen, right? It doesn’t even make any sense—it sounds silly.
+Of course not! No father would let this happen, right? It doesn’t even make any sense.
+
+Jesus says the same thing to us:
 
 ### Matthew 6:25-34
 > ²⁵“That is why I tell you not to worry about everyday life—whether you have enough food and drink, or enough clothes to wear. Isn’t life more than food, and your body more than clothing? ²⁶Look at the birds. They don’t plant or harvest or store food in barns, for your heavenly Father feeds them. And aren’t you far more valuable to him than they are?²⁷Can all your worries add a single moment to your life?
@@ -126,16 +132,16 @@ But it seems like either the Apostle Paul wasn’t very close with God, or there
 ### Don't let your fiers overwelm you.
 My message today is simple: don’t let your fears, doubts, or worries overwhelm you. Do not let them take control of your life and decisions. Resist. Fight back. Put your trust in the Lord.
 
-My prayer is simple: "Lord, I’m afraid. Help me. Give me your peace."
+My prayer is often is: "Lord, I’m afraid. Help me. Give me your peace."
 
-And when worries and fears attack me, I tell them, "My Father loves me. He is in control. I will trust Him."
+And when worries and fears attack me, I tell myself, I tell my soul, I tell them, "My Father loves me. He is in control. I will trust Him."
 
 Also, do not isolate yourself—share with someone. With a solid believer who will be able to support you.
 
 ### Philippians 1:27
- ²⁷Above all, you must live as citizens of heaven, conducting yourselves in a manner worthy of the Good News about Christ... (so that) I will know that you are standing together with one spirit and one purpose, fighting together for the faith, which is the Good News.
+ ²⁷Above all, you must live as citizens of heaven, conducting yourselves in a manner worthy of the Good News about Christ...(then) I will know that you are standing together with one spirit and one purpose, fighting together for the faith, which is the Good News.
 
-This verse has a lot to unpack, but in our context for today, **together** is a keyword. When we are on our own, we are easily defeated. But together, we are the Church, and then, as Jesus said in Matthew 16:18:
+This verse has a lot to unpack, but in our context for today, **together** is a keyword. When we are on our own, we are easily defeated. But together, we are the Church. And then when we live as citizens of heaven, when we stand together as His church. Then as  Jesus said in Matthew 16:18:
 
 ### Matthew 16:18
 ¹⁸.. all the powers of hell will not conquer it.
