@@ -25,9 +25,39 @@ In the verse two he says be of the **same mind**, **same love**, **same spirit**
 And this word is one of those that is not that easy to translate. As you learn languages, you grow to realize that sometimes, you just cannot translate one word to the other language. One word i
 n one language can have dozen meanings depending on situation. Or because it's so tightly integrated into culture, you would have to use entire paragraph to explain the meaning of the word, and even then probably would fail to give comprehensive explanation.
 
-**Phroneo** - Means how you think, what you value, the mindset that shapes your actions. Phroneo - is your system of beliefs, inner triggers that define your behavior. And Paul Calls us to be united in what we consider important individually and as a community too.
+**Phroneo** - Means how you think, what you value, the mindset that shapes your actions. Phroneo - is your system of beliefs, inner triggers that define your behavior. This is how you feel and think. Your mindset. And bible calls us to share this mindset. To function as a one unit.
 
+1. Same thinking
+2. Same love
+3. Same inner life
+4. One unified mindset
 
+Then we have practical examples that we already covered last time and also some new one's. In verse 3 Paul says: do not seek your own glory. Wether it is ministry or life outside the church. Selfishness is not a legit motivator. We not gonna repeat all that Andrew already sayed last time. We can just to the verse 5 and pick up from there.
+
+### Jesus phroneo
+
+### Philippians 2:5
+ ⁵You must have the "same attitude" that Christ Jesus had.
+
+And again Paul speaks about this mindset. Phroneo. In other words he says: "You should have same motivation as Jesus". And in the following verses we can see detailed explanation, what is this mindset.
+
+Next verses I will read from a CSB translation. It more closely resables the original text:
+
+### Philippians 2:6-8(CSB)
+> 6 ... who, existing in the form of God,
+did not consider equality with God
+as something to be exploited.
+
+> 7 Instead he emptied himself
+by assuming the form of a servant,
+taking on the likeness of humanity.
+And when he had come as a man,
+
+> 8 he humbled himself by becoming obedient
+to the point of death —
+even to death on a cross.
+
+In verse 6 Paul says that Jesus
 
 
 <!-- ### Philippians 1:9 -->
