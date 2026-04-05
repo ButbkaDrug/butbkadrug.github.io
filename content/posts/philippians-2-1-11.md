@@ -139,4 +139,6 @@ But in order to enjoy the benefits of God's kingdom. We need to live like it's c
 ### Conclusion
 It will take an effort on our side. God will never **take over your will**. You need to do this choice. But as we live like a citizens of heaven, God himself will work in us and through us. Giving us directions, desire and all the things necessary, helping us to accomplish His work.
 
-
+### NOTES FOR MYSELF: How can it impact me?
+* Maybe I do not serve God because I'm too busy persuing my ambition
+* Maybe I do serve God, but I'm actually looking to fulfill my own ambitions doing that
