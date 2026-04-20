@@ -10,6 +10,15 @@ title = 'Staff Meeting'
 
 The greatest misionary of new testament. Joins the church in Antioch - and stays plugged in there. After every trip he returns back to his home church. And shares about the trip
 
+### Acts 14:26-28
+ ²⁶Из Атталии они отплыли обратно в Антиохию, где были вверены Божьей благодати на труд, который они и исполнили.²⁷Вернувшись обратно, они собрали церковь и рассказали обо всем, что Бог совершил через них и как Он открыл дверь веры для язычников.²⁸*Там* они пробыли довольно много времени вместе с учениками.
+
+### Acts 18:22,23
+ ²²Он сошел с корабля в Кесарии, пришел *в Иерусалим* и, поприветствовав местную церковь, отправился в Антиохию.
+
+ ²³Проведя некоторое время *в Антиохии*, Павел отправился *оттуда* в путь через Галатийскую область и Фригию, укрепляя всех учеников.
+
+
 ### For their benefint
 
 Let people see you, your life and learn from you. In the church setting. Minister to the church. Because this is the will of God. God will work through you. In People
