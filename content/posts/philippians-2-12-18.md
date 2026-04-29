@@ -143,48 +143,5 @@ We should seek **His face** first. And then we will see **His hand**. We should 
 
 If you got confused and discouraged because you feel like you lack spiritual in your life, you can come and talk to me.
 
-
-**--- CUT HERE ---**
-
-And that nicely leads us right to our passage for today. Philippians 2:12-14.
-
-### Philippians 2:12-14
-> ¹²So then, my beloved, just as you have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling;¹³for it is God who is at work in you, both to desire and to work for *His* good pleasure.
-
-### SO THEN
-Paul starts this section of the letter from saying "*so then*". Which hints to us that, the following will be logical conclusion of what was said previously. And if you will look up couple verses you will see that Paul talks about Jesus:
-
-That He 1 **Humbled** himself, then **humbled** himself even more, by being **OBEDIENT** to extreme degree. And as a result of **THAT**, God highly exalted Him. Paul lists all the beautiful blessings are rewards which God bestowed on Jesus for his **HUMILITY** and **OBEDIENCE**.
-
-### CITIZENS OF HEAVEN
-This two are the core characteristics of a true **CITIZEN OF HEAVEN**. You can't tell citizens of heaven by the color of their skin. You not gonna tell them by the shape of their eyes. Nor by their fitness level. You can't tell by their appearance. 
-
-But this two, **HUMILITY** and **OBEDIENCE** are very strong indicators. God values this characteristics so very much. Every citizen of heaven should have them.
-
-It's like sports. Like heavy lifting for example. I'm not too much of the lifter as you can tell. But, I know the thing or two. You don't do it once and you good for life... No, you have to continue to do it. And more you do it, better you at it.
-
-And Paul reminds us of that, he says:
-
-### PRESENCE vs ABSENCE
-> ...just as you have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling
-
-That's a mouthful sentence. Let's try to break it down. 
-
-### DO NOT STOP
-Paul is saying do not stop pursuing relationships with God. You would continue to ACTIVELY LISTEN/GIVE EAR to what is God saying to you. He says you've been obedient when I was with you, it's even more important now, when I'm away.
-
-Unfortunately in reality is often hard to do. It's easier to do the right thing when your leader/mentor/pastor is near. And require fare bit of maturity to continue to be the same way when you on your own.
-
-### Story about construction
-
-### Example from marrige
-
-### Work out your selvation
-
-
-
-### Philippians 2:14-18
-> ⁴Do all things without complaining or arguments;¹⁵so that you will prove yourselves to be blameless and innocent, children of God above reproach in the midst of a crooked and perverse generation, among whom you appear as lights in the world,¹⁶holding firmly the word of life, so that on the day of Christ I can take pride because I did not run in vain nor labor in vain.¹⁷But even if I am being poured out as a drink offering upon the sacrifice and service of your faith, I rejoice and share my joy with you all.¹⁸You too, *I urge you,* rejoice in the same way and share your joy with me.
-
-### STATEMENT
-We should continue to live the life worthy of the Gospel, regardless. Whether someone is watching or not. Becuase, we do it not because someone told us. Not for the man. But because it is God who working in us.
+### OUTRO
+...
