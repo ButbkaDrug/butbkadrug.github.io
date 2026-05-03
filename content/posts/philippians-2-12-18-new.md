@@ -113,70 +113,37 @@ So it's important to be able to be obedient:
 > "Not only in my presents, but even more in my ab sense..." Paul.
 
 ### Ownership
-We should take ownership over our faith, over our walk with the Lord. And learn to be obedient not only in the presence, but also in the absence of our key people. We got to find our own passion, our own vision, our own love for God.
+We should take ownership over our faith, over our walk with the Lord. And learn to be obedient not only in the presence, but also in the absence of our key people. Outside of the church setting. We got to find our own passion, our own vision, our own love for God.
 
-The kind of love when we will continue to **work out** our salvation - Live by the principles of the kingdom. Not because this is what "church" tells you to do. Not because mom or leader, or pastor or a friend will tell you off. But because you love God. Because you understand that it is best for you.
+The kind of love that will allow us to continue to work out our salvation - to Live by the principles of the kingdom of God. Not because this is what “church” tells you to do. But because you love God.
 
-### Kids and teeth??
-I don't know if you have kids. In case you don't I would like to inform you that kids does not like to brush their teeth. And you, as a parant literally have to have arguments with them in order to pursue them to go and actually brush their teeth. You can absolute ruin someones day with a simple question "Have you brushed your teeth?" 
-
-They think they doing it for you.
-
-But once they mature a little. They start to realize that, it's not for ME they brushing their teeth. But, for their own benefit. Because otherwise things go south... And you don't have to check on them anymore. They start to do this on their own. They take the ownership over their health.
-
-Same with our walk with the Lord. At one time you come to church, your read your bible, you pray because your mom told you so. Or because otherwise people be asking where have you've been. Or milion of other reasons.
-
-You force changes in your life motivated by others. But in reality this is God working in you.
+And also do not cease desires to do things for God. Because those most likely come from Him.
 
 ### Philippians 2:13
-¹³for it is God who is at work in you, both to desire and to work for *His* good pleasure.
+> ¹³for it is God who is at work in you, both to desire and to work for His good pleasure.
 
-So, even if your key person have a failure of faith. Falls into sin, leaves the church. It doesn't mean it all waisted now. You need to continue to **work out**  on your own now. Yes, it's harder. But, God healps you. He is doing the work. Producing decire and giving you energy to fulfill those good desires.
+So, even if your key person leaves. Moves to another country or something. Maybe even has a failure of faith. Falls into sin, heresy or leaves the church. It doesn’t mean it all wasted. That you should leave too.
+
+No, continue to work out your own salvation. Yes, it’s harder. But, God will continue to help. Because it was him all the way, producing desire to do good. And giving you energy to fulfill those good desires.
+
 
 ### Conclusion
-God value obedience extremely highly.
+Wrapping up we can definitely say that God value obedience extremely highly:
 
-### 1 Samuel 15:22
-“Does the LORD have as much delight in burnt offerings and sacrifices As in obeying the voice of the LORD? Behold, to obey is better than a sacrifice, *And* to pay attention is *better* than the fat of rams.
+1 Samuel 15:22
+“Does the LORD have as much delight in burnt offerings and sacrifices As in obeying the voice of the LORD? Behold, to obey is better than a sacrifice, And to pay attention is better than the fat of rams.
 
-Your obidience to the Lord means to hey way more then anything you can do "for Him". We read the same in our today scripture too. And whole bible full of it. It repeated again and again.
+Obedience is way more important than anything you can do “for God”. 
 
-First we have to learn obidience. In the family, in the church. We learn by watching our key people. How they obey and foolow the Lord. We learn to **be obidient in the presence**.
+We read the same in our scripture for toady as well. Bible repeats this truth again and again.
 
-It require **HUMILITY**. Another characteristic that God values extremely highly.
+We learn to be obedient to God. By exercising obedience in our family also in the church. It really helps if we see our key people walk in obedience. This is how we learn to be **obedient in the presence**.
 
-**Showing obedience in the presentce**, in your family, in your church - is your playground. If you fail to be obedient, to exercise humility there. Then aint no way you will be able to obey God outside of that setting.
+It requires **HUMILITY**. Another characteristic that God values extremely highly.
 
-There is considerable part of the people who preffer the state of a VISITOR. Because, they are trying to avoid this very thing. Accountability and Authority.
+Showing obedience in the presence, in your family, in your church is like a playground. It is the place to learn and to grow. But if you fail to be obedient, to exercise humility there. Then no way you will be able to obey God in more challenging situations outside of that setting.
 
-That's why people gladly join so called "online" churches. Because there is no accountability, there is no authority over you. You don't have to exercise humility and obedience if you don't want to. No one knows you and your life really. Because it's all just online.
+If you failed to be obedient **IN THE PRESENCE** You not gonna succeed in **obedience in the absence**.
 
-But guess what? It is God who work in you. Through your familiy, thourhg your church. God forbid though a pastor...
-
-And if you failed even at that stage. If you failed to be obidient **IN THE PRESENTCE** You not gonna succeed in obedientce in the absence.
-
-### Important
-{{ stopwatch }}
-
-
-
-
-
-
-
-<!-- Paul is saying you learned how to live for God. And you successfuly did that together with me. Don't stop now, when I'm gone. While Paul was among them he would help them to stay on track. Encorage and correct. But not once he is gone. Naturally the attantion level would drop. The pashion would cool down a little. Like a fist gear in the car, it give you nice bump in the beginning. But eventually you have to switch to the second gear in higher. -->
-<!---->
-<!-- And that's what Paul encorages them to do. WORK OUT your selvation. Continue to live out those relationships with God you have obtained. Continue to live like a sitizents of heaven. Continue to walk in HUMILITY that expressed in OBEDIENCE. -->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!-- ### Philippians 2:14-18 -->
-<!-- > ⁴Do all things without complaining or arguments;¹⁵so that you will prove yourselves to be blameless and innocent, children of God above reproach in the midst of a crooked and perverse generation, among whom you appear as lights in the world,¹⁶holding firmly the word of life, so that on the day of Christ I can take pride because I did not run in vain nor labor in vain.¹⁷But even if I am being poured out as a drink offering upon the sacrifice and service of your faith, I rejoice and share my joy with you all.¹⁸You too, *I urge you,* rejoice in the same way and share your joy with me. -->
-<!---->
-<!-- ### STATEMENT -->
-<!-- We should continue to live the life worthy of the Gospel, regardless. Whether someone is watching or not. Becuase, we do it not because someone told us. Not for the man. But because it is God who working in us. -->
+### Practical steps
+In following verses - for the next time
