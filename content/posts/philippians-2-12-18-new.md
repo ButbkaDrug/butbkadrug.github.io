@@ -1,6 +1,6 @@
 +++
 date = '2026-04-29T09:36:04+04:00'
-draft = true
+draft = false
 title = 'Philippians 2:12-18(Actually)'
 +++
 
@@ -139,6 +139,7 @@ But guess what? It is God who work in you. Through your familiy, thourhg your ch
 And if you failed even at that stage. If you failed to be obidient **IN THE PRESENTCE** You not gonna succeed in obedientce in the absence.
 
 ### Important
+{{ stopwatch }}
 
 
 
@@ -146,21 +147,19 @@ And if you failed even at that stage. If you failed to be obidient **IN THE PRES
 
 
 
-
-
-Paul is saying you learned how to live for God. And you successfuly did that together with me. Don't stop now, when I'm gone. While Paul was among them he would help them to stay on track. Encorage and correct. But not once he is gone. Naturally the attantion level would drop. The pashion would cool down a little. Like a fist gear in the car, it give you nice bump in the beginning. But eventually you have to switch to the second gear in higher.
-
-And that's what Paul encorages them to do. WORK OUT your selvation. Continue to live out those relationships with God you have obtained. Continue to live like a sitizents of heaven. Continue to walk in HUMILITY that expressed in OBEDIENCE.
-
-
-
-
-
-
-
-
-### Philippians 2:14-18
-> ⁴Do all things without complaining or arguments;¹⁵so that you will prove yourselves to be blameless and innocent, children of God above reproach in the midst of a crooked and perverse generation, among whom you appear as lights in the world,¹⁶holding firmly the word of life, so that on the day of Christ I can take pride because I did not run in vain nor labor in vain.¹⁷But even if I am being poured out as a drink offering upon the sacrifice and service of your faith, I rejoice and share my joy with you all.¹⁸You too, *I urge you,* rejoice in the same way and share your joy with me.
-
-### STATEMENT
-We should continue to live the life worthy of the Gospel, regardless. Whether someone is watching or not. Becuase, we do it not because someone told us. Not for the man. But because it is God who working in us.
+<!-- Paul is saying you learned how to live for God. And you successfuly did that together with me. Don't stop now, when I'm gone. While Paul was among them he would help them to stay on track. Encorage and correct. But not once he is gone. Naturally the attantion level would drop. The pashion would cool down a little. Like a fist gear in the car, it give you nice bump in the beginning. But eventually you have to switch to the second gear in higher. -->
+<!---->
+<!-- And that's what Paul encorages them to do. WORK OUT your selvation. Continue to live out those relationships with God you have obtained. Continue to live like a sitizents of heaven. Continue to walk in HUMILITY that expressed in OBEDIENCE. -->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!-- ### Philippians 2:14-18 -->
+<!-- > ⁴Do all things without complaining or arguments;¹⁵so that you will prove yourselves to be blameless and innocent, children of God above reproach in the midst of a crooked and perverse generation, among whom you appear as lights in the world,¹⁶holding firmly the word of life, so that on the day of Christ I can take pride because I did not run in vain nor labor in vain.¹⁷But even if I am being poured out as a drink offering upon the sacrifice and service of your faith, I rejoice and share my joy with you all.¹⁸You too, *I urge you,* rejoice in the same way and share your joy with me. -->
+<!---->
+<!-- ### STATEMENT -->
+<!-- We should continue to live the life worthy of the Gospel, regardless. Whether someone is watching or not. Becuase, we do it not because someone told us. Not for the man. But because it is God who working in us. -->
