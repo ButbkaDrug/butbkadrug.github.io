@@ -146,7 +146,7 @@ If we find ourselves in the conflicting situation we should RESET our minds to t
 > ### Philippians 2:3,4
 > ³Do nothing from selfishness or empty conceit, but with humility consider one another as more important than yourselves;⁴do not *merely* look out for your own personal *interests,* but also for the *interests* of others.
 
-Jesus followed this very principles. And let's be honest, we can't jump any higher that him. (verses 6-11). Adopting this mindset will help us if not avoid, then to resolve most of our issues.
+Jesus followed this very principles. And let's be honest, we can't jump any higher that him. (verses 6-11). Adopting right mindset will help us, if not avoid, then to resolve most of our issues.
 
 I have few real life examples when focusing on the wrong thing caused the issue: 
 
@@ -160,28 +160,28 @@ I have few real life examples when focusing on the wrong thing caused the issue:
 
 - **The Carpet Color Crisis:** A church split down the middle and formed two separate congregations because members could not agree on whether the new sanctuary carpet should be blue or red.
 
-Even though completely real, this ridiculous examples shows how important it is to have a right mindset. The main issues here is not coffee or beard length, Facebook status or color of the carpet. The main issue is wrong PHRONEO, wrong mindset.
+Even though completely real, this ridiculous examples shows how important it is to have a right mindset. The main issues here is not coffee or beard length, Facebook status or color of the carpet. The main issue is **wrong PHRONEO**, wrong mindset.
 
-RESET your mindset. To live like a citizen of heaven.
+We should RESET our mindsets to live like a citizen of heaven.
+
+[ CUT IF TIME IS OUT]
 
 ### WHAT IF IT IS DOES NOT WORK
-But sometimes it is not working out. Sometimes the issue does not get resolved. What's then? How do we go about it as citizens of heaven? Let's look into the verse 3 of the chapter 4:
+But sometimes two people fail to resolve the issue between themselves. Then verse 3:
 
 > ### Philippians 4:3
 > ³Indeed, true companion, I ask you also, help these women who have shared my struggle in *the cause of* the gospel, together with Clement as well as the rest of my fellow workers, whose names are in the book of life.
 
-If you cannot settle your dispute and find the agreement on your own. You should seek AND ACCEPT help of the honorable christian leaders.
+If you cannot settle your dispute and find the agreement on your own. You SHOULD SEEK and ACCEPT help of the honorable christian leaders.
 
-In this section of the letter Paul most likely asks  a leader of Philippian church. The language he uses point that he talking to a person equal in authority to himself. Asking Him to literally "to take hold together with one, to assist" them in this conflict.
+In this section of the letter Paul asks  a leader of Philippian church(most likely). The language he uses point that he talking to a person equal in authority to himself. Asking to help or literally "to take hold together with one" or "to assist" to resolve this conflict. Literally saying to SEIZE, to ARREST the dispute. Sound funny but I think like it portrays the mood very well.
 
-If it is too big to handle between, sometimes church leaders, person of authority should help to push that RESET button.
+Bottom line if it is too big to handle between you two. Sometimes church leader, person of authority can assist to push that RESET button.
 
 ### HOW IMPORTANT IS IT
-We should not be afraid of the conflicts in the church. Because, if we are genuine before one another we will run into things. It's totally normal. But we SHOULD resolve our issues. How important is it to resolve personal issues in the church? It is important enough to have entire sections of the bible dedicated to this very topic. 
+We should not be afraid of the conflicts in the church. Because, if we are genuine before one another we will run into things we disagree on. It's totally normal. But we SHOULD RESOLVE our issues.
 
-We often say that Lord cares about you personally. Which is true. But we should not forget that Lord cares about us as a community as well! If my children have a conflict, it does not make me happy. And I want them to resolve it. It is important to me. And it is Godly attitude.
-
+How important is it? It is important enough to have entire sections of the bible dedicated to this very topic. 
 
 ### CONCLUSION
-<!-- REWREITE THIS SECTION -->
-Our journey isn't over yet. And there is pitfalls on our ways. The "outer" threads like workers of evil, the once we need to be aware of. As well as inner traps like a conflicts. And what helps us it to have right PHRONEO.
+So, we should STEY'-KO together. While we still on the run. And to strive to be like-minded. To have PHRONEO that we find in Christ Jesus. And focus on important stuff that you unite us. And work through the the issues as they arise. We should live like citizens of heaven.
