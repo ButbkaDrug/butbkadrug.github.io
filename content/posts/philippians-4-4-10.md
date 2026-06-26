@@ -52,11 +52,38 @@ And temptation might be just to stick to the old habits. To do the things the ol
 
 Here we have few important, practical tips that will guide is in the right direction. Give us the goal to aim to. It can serve you as a reminder if you already on the right track. Or it can guide you if you new to this whole thing.
 
+In the chapter 3 we read about what not be aware of. About "got you"'s that surround us as citizens of heaven. Also, about some "dont's" what not to do. And at last we get to "do"'s. Let's read starting in verse 4.
+
 > #### Philippians 4:4-7
 > ⁴Rejoice in the Lord always; again I will say, rejoice!⁵Let your gentle *spirit* be known to all people. The Lord is near.⁶Do not be anxious about anything, but in everything by prayer and pleading with thanksgiving let your requests be made known to God.⁷And the peace of God, which surpasses all comprehension, will guard your hearts and minds in Christ Jesus.
 
 #### REJOICE
-And the very first principle is to **rejoice**. When we are **in the Lord** we have reasons for joy. And we are called to learn to rejoice. To be full of joy. When we read the bible we can see that people of God are people of joy. Not grumpy and angry. But joyful and kind.
+And the first that we read is **to rejoice**. It is very interesting, because Paul is undergoing quite difficult stage in his life. And, people in Philippi also facing some challenging times. But, despite all that, again and again thought the whole letter Paul says "**rejoice in the Lord**".
+
+It is important to find joy **in the Lord**. Especially at the difficult stages of your life.
+
+Their example shows that **we can** find joy **in the Lord** in any obstacles. I'd say that those who **live "in the Lord"** have access to the source of our joy that is constant. Because the Lord is. In the Lord we trust that He is in control. He is on our side. That he will and already comforting us.
+
+### Revelation 21:4
+⁴...He will wipe away every tear from their eyes; and there will no longer be *any* death; there will no longer be *any* mourning, or crying, or pain...
+
+That's the future that is ahead of us. But also in the present God already actively participates in our lives. God lives in us. He gave us His Holy Spirit. And what is one of the major fruits or major evidence of the work of the Holy Spirit? 
+
+### Galatians 5:22
+²²But the fruit of the Spirit is love, **JOY**, peace, patience, kindness, goodness, faithfulness,
+
+Maybe in this world we not always have reasons for joy. But **in the Lord** we can have joy that above that obstacles.
+Not that Paul, as well as myself, say CAN and not WILL. Because let's not forget that even though it available it's not enforced. 
+
+> To rejoice, or not to rejoice...
+
+It is totally on us. We have the choice. And Paul encourages us to opt for joy. Because, when you full of joy life is so much easier. When you full of joy it is easier to overlook things, to forgive, to be generous. To reconcile. It's almost like a superpower. 
+
+Do not despise that. It will also help us with the next point which is GENTLE spirit.
 
 #### GENTLE SPIRIT
+
+### Philippians 4:5
+⁵Let your gentle *spirit* be known to all people. The Lord is near.
+
 
