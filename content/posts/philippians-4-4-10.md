@@ -5,7 +5,228 @@ title = 'Philippians 4:4-10'
 +++
 
 ### INTRO
-Greetings, brothers and sisters we continue our way through the letter to Philippines. You can say that we are at the finish line couple more Sundays and we are done. Honestly, I don't wanna finish whether to Philippines. It's such a wonderful book. I don't know about you, but I enjoyed it so very much.
+Greetings, brothers and sisters we continue our way through the letter to Philippines. You can say that we are almost at the finish line. Couple more Sundays and we are done... Honestly, I'm a bit sad that Philippines almost over. It's such a wonderful book. I don't know about you, but I enjoy it so very much.
+
+Last Sunday we reviewed chapter 3 and started to explore chapter 4. We got to the point when Paul set's us up for the race. Like a coach, who already had a successful career in this sport(metaphorically speaking). Knows all "in's and out's". All secrets of the trade. Like a true master of his craft Paul prepares us to what's lies ahead.
+
+Sharing some insight knowledge. What to be aware of. Common "gotcha's" that we will encounter during the race. Also, some "do's" and "don't's" that will keep us going.
+
+Treat this section of the letter as the coaching session. Like you see in many sports. It's something that helps the athlete to win. By helping them to focus on the right thing at the right time.
+
+Let's read starting in verse 4.
+
+> #### Philippians 4:4-7
+> ⁴Rejoice in the Lord always; again I will say, rejoice!⁵Let your gentle *spirit* be known to all people. The Lord is near.⁶Do not be anxious about anything, but in everything by prayer and pleading with thanksgiving let your requests be made known to God.⁷And the peace of God, which surpasses all comprehension, will guard your hearts and minds in Christ Jesus.
+
+#### REJOICE
+Beautiful words. Let's breakdown this section and look at the first peace.
+
+> #### Philippians 4:4
+> ⁴Rejoice in the Lord always; again I will say, rejoice!
+
+First advice, pro tip or command that we find in this section, is  **to rejoice**...
+
+Which is very interesting considering all things. Remember that Paul is undergoing quite difficult stage in his life and ministry. He writes this letter from prison. Not knowing yet weather his case will result in freedom or execution.
+
+He write to people in Philippi who also facing some challenging times on their journey with the Lord. But, despite all that, again and again thought the whole letter Paul talks about **joy**, many times says "**rejoice!**".
+
+In every single chapter, you can find word **joy** and/or **rejoice** used multiple times. Which as they say when you study the bible is a strong hint, that this is of importance.
+
+### BIG ON JOY
+For some reason. In his letter to Philippians Paul is big on **JOY**. Not only emphasizing that HE have JOY. Despite the obstacles. Which in his case is quite impressive. But also he insisting on his readers to rejoice as well.
+
+Let's look at the couple verses:
+
+> #### Philippians 2:17,18
+> ¹⁷But even if I am being poured out as a drink offering upon the sacrifice and service of your faith[read is as **even if I'll die**], I rejoice and share my joy with you all.¹⁸You too, *I urge you,* rejoice in the same way and share your joy with me.
+
+...
+
+> #### Philippians 3:1
+> ¹Finally, my brothers *and sisters,* rejoice in the Lord. To write the same things *again* is no trouble for me, and it is a safeguard for you.
+
+...
+
+> ### Philippians 4:4
+> ⁴Rejoice in the Lord always; again I will say, rejoice!
+
+...
+
+And it is not a comprehensive list.
+
+4 chapters of the letter to Philippians use **rejoice** more times then the entire book of Acts! Which is 12 times bigger than Philippians.
+
+4 chapter of Philippians used **rejoice** as much as all 30 chapters of the Gospel of John.
+
+Isn't that remarkable? If that is not a hint. I don't know what is! When put in perspective it becomes obvious that Paul is onto something here.
+
+### IN THE MIDS OF DIFFICULTY
+As, you might already notice. Many times **rejoice** is found in the mid's of difficulty. In chapter 1
+
+### Philippians 1:17,18
+¹⁷the former proclaim Christ ... thinking that they are causing me distress in my imprisonment.¹⁸What then? ...Christ is proclaimed, and in this I rejoice. 
+
+He continues:
+
+### Philippians 1:19-20
+I also will rejoice, ¹⁹for I know that this will turn out for my deliverance... ²⁰*that* with all boldness, Christ will even now, as always, be exalted in my body, whether by life or by death.
+
+Again, hi rejoices despite his obstacles giving absolutely no reasons for it.
+
+In Chapter 2 we find similar trend. Paul says: "Even if I'll have to die, I still rejoice. **AND** I want you to share in this joy with me!".
+
+This scriptures not only talk about **HAVING** joy **in the Lord**. They also takes us deeper. They talk about rejoicing **even in** or rather **especially** during difficult stages of our life.
+
+### IN THE LORD
+Using examples of Paul and Philippians, Bible shows that **WE CAN** find joy **IN THE LORD** in any kind of obstacles. With **in the Lord** being an important part.
+
+Those who **"in the Lord"** have access to the ultimate source of our joy. Joy that not depends on certain conditions being met. When we are **In the Lord**, when we trust and we let **Him** to be in control, then  we can rest in HIM. And rejoice even when our life gives us no reasons for it.
+
+If we would go back to chapter 1 and see how Paul talks about his situation, which was pretty hard and depressing . In which many would just burst with complains and disappointment. What we find is actually **joy**.
+
+**Why? How? How it's even possible?**
+
+...
+
+I think that the secret is easy to understand but difficult to master. Paul learned how to live "**in the Lord**". In this new reality of citizen of heaven.
+
+As the citizens of heaven we don't have to rely on the obstacles to be quite right. On ourselves. Or whatever else. As citizens of heaven we are promised following:
+
+### Revelation 21:4
+⁴...He will wipe away every tear from their eyes; and there will no longer be *any* death; there will no longer be *any* mourning, or crying, or pain...
+
+That give hope. That builds up. But, also that's for future. And in them mean time, right now, we are not on our own too. God is already at work in us. Remember Philippians 1:6:
+
+### Philippians 1:6
+⁶*For I am* confident of this very thing, that He who began a good work among you will complete it by the day of Christ Jesus.
+
+God is at work in us through His Holy Spirit. And we know that one of the fruits or evidence that Holy Spirit is in us is JOY:
+
+### Galatians 5:22
+²²But the fruit of the Spirit is love, **JOY**, peace, patience, kindness, goodness, faithfulness,
+
+### IN THE WORLD
+This world, the life outside the kingdom of God. Not always gives reasons for joy. People get discouraged and depressed. Some go into drugs, alcohol. Some commit suicide. Participate in other, often self destructive activities. Effectively due to the lack of joy in their lives.
+
+It happens all over the place. As we read last time they are *heading towards destruction*.
+
+### ABOVE ALL
+But **in the Lord** we have source of joy that is above the obstacles. Above hardships. Above all. Though out the whole letter Paul says "USE THIS SOURCE"! It is the source of strength that helps to endure all things. It is essential for life.  It's almost like a superpower!
+
+#### EAT DURING THE RACE
+Did you know that during the marathon athletes have to refuel their body throughout the whole race. They have to take in some carbs every 30 minutes or so. And also consume enough water and electrolytes. Otherwise they will run out of energy and will never finish the race.
+
+If you mess it up bed enough you can even die. That's how important that is!
+
+They absolutely have to do it at the right time. Because those things don't have and immediate effect. It takes some time before you can feel that fresh chunk of energy.
+
+### US
+And as the athletes who run the race "IN THE LORD". We have to do the same thing. We have to replenish our "stores" or energy. At the right times. And **JOY** is one of those essentials that we have to have in our lives to be able to advance forward. Especially during hard times.
+
+Don't let your joy to get depleted. It is very dangerous. You have to replenish it during the race.
+
+### OUR PART
+And "Beware" as Paul would say it doesn't happened automagically. We have access to the source. But there is a steps that we need to take:
+
+> To rejoice, or not to rejoice...
+
+It is on us. We have the choice. Like in Deuteronomy:
+
+### Deuteronomy 30:19
+¹⁹I call heaven and earth to witness against you today, that I have placed before you life and death, the blessing and the curse. So choose life in order that you may live...
+
+The source is available for those who in the Lord. And the bible encourages us to want's you to use it. To opt for the joy.
+
+When you are full of joy life is so much easier. When you full of joy it is easier to overlook things, to forgive, to be generous. To reconcile. It is a superpower. Do not despise it.
+
+### TO BE CONTINUED...
+It will also help us with the next steps that we will talk about next Sunday.
+
+### HOW TO GET IT
+But you didn't tell us the most important part. How do I get to this source?
+
+Well, the answer is scattered throughout the letter. You need to figure it out for yourself. I'll give you the key. And the key is : "**IN THE LORD**"
+
+Plus i believe we gonna talk about it more in future. But for those who like to know the end of the book before they start reading it you can already look into verse 6:
+
+### Philippians 4:6
+⁶Do not be anxious about anything, but in everything by prayer and pleading with thanksgiving let your requests be made known to God.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Last Sunday we came to a more practical part of this letter. Reviewed that sometimes even committed and mature, devoted followers of Christ might have conflict and disagreement. In the Bible teaches us that we should resolve them. And if two people struggle to resolve their dispute on their own honorable Christian leaders should assist themto seize this conflict. It is not OK to let it go on and on. It's not the proper way.
 
@@ -47,43 +268,3 @@ Last time we talked about resolving disagreements. In this world, it is OK to ju
 And temptation might be just to stick to the old habits. To do the things the old-fashioned way. And no, my brothers and sisters we should stand firm in the Lord in the way true citizens do. We need to learn to be good citizens. And this chapter provides us with some helpful,practical tips.
 
 <!-- TODO: rewrite\ review the above -->
-
-### PRACTICAL TIPS
-
-Here we have few important, practical tips that will guide is in the right direction. Give us the goal to aim to. It can serve you as a reminder if you already on the right track. Or it can guide you if you new to this whole thing.
-
-In the chapter 3 we read about what not be aware of. About "got you"'s that surround us as citizens of heaven. Also, about some "dont's" what not to do. And at last we get to "do"'s. Let's read starting in verse 4.
-
-> #### Philippians 4:4-7
-> ⁴Rejoice in the Lord always; again I will say, rejoice!⁵Let your gentle *spirit* be known to all people. The Lord is near.⁶Do not be anxious about anything, but in everything by prayer and pleading with thanksgiving let your requests be made known to God.⁷And the peace of God, which surpasses all comprehension, will guard your hearts and minds in Christ Jesus.
-
-#### REJOICE
-And the first that we read is **to rejoice**. It is very interesting, because Paul is undergoing quite difficult stage in his life. And, people in Philippi also facing some challenging times. But, despite all that, again and again thought the whole letter Paul says "**rejoice in the Lord**".
-
-It is important to find joy **in the Lord**. Especially at the difficult stages of your life.
-
-Their example shows that **we can** find joy **in the Lord** in any obstacles. I'd say that those who **live "in the Lord"** have access to the source of our joy that is constant. Because the Lord is. In the Lord we trust that He is in control. He is on our side. That he will and already comforting us.
-
-### Revelation 21:4
-⁴...He will wipe away every tear from their eyes; and there will no longer be *any* death; there will no longer be *any* mourning, or crying, or pain...
-
-That's the future that is ahead of us. But also in the present God already actively participates in our lives. God lives in us. He gave us His Holy Spirit. And what is one of the major fruits or major evidence of the work of the Holy Spirit? 
-
-### Galatians 5:22
-²²But the fruit of the Spirit is love, **JOY**, peace, patience, kindness, goodness, faithfulness,
-
-Maybe in this world we not always have reasons for joy. But **in the Lord** we can have joy that above that obstacles.
-Not that Paul, as well as myself, say CAN and not WILL. Because let's not forget that even though it available it's not enforced. 
-
-> To rejoice, or not to rejoice...
-
-It is totally on us. We have the choice. And Paul encourages us to opt for joy. Because, when you full of joy life is so much easier. When you full of joy it is easier to overlook things, to forgive, to be generous. To reconcile. It's almost like a superpower. 
-
-Do not despise that. It will also help us with the next point which is GENTLE spirit.
-
-#### GENTLE SPIRIT
-
-### Philippians 4:5
-⁵Let your gentle *spirit* be known to all people. The Lord is near.
-
-
