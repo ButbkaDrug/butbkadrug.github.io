@@ -4,31 +4,57 @@ draft = true
 title = 'Philippians 4 10 14'
 +++
 
+Greetings church, we will continue to explore chapter 4. We almost finished this wonderful letter. But there are still few important lessons to learn. We are up to verse 10. Let's open our bible and read from there:
+
 ### Philippians 4:10-14
  ¹⁰But I rejoiced in the Lord greatly, that now at last you have revived your concern for me; indeed, you were concerned *before,* but you lacked an opportunity *to act.*¹¹Not that I speak from need, for I have learned to be content in whatever *circumstances* I am.¹²I know how to get along with little, and I also know how to live in prosperity; in any and every *circumstance* I have learned the secret of being filled and going hungry, both of having abundance and suffering need.¹³I can do all things through Him who strengthens me.¹⁴Nevertheless, you have done well to share *with me* in my difficulty.
 
+There are at least couple very important topics for us in this scripture. It contains one of the most quoted, and in the same time one of the miss read verses of the new testament:
 
-Let's break down this verses and see what they say. Starting in verse 10:
+### Philippians 4:13
+> ¹³I can do all things through Him who strengthens me.
+
+Also this scripture contains some *secret knowledge*. Which we will talk about next time, so stay tuned. But today we going to explore another equally important topic. We will talk about financial support.
+
+Let's start breaking down verses and see what they say. Starting in verse 10:
 
 #### Philippians 4:10
- ¹⁰But I rejoiced in the Lord greatly, that now at last you have revived your concern for me; indeed, you were concerned *before,* but you lacked an opportunity *to act.*
+> ¹⁰But I rejoiced in the Lord greatly, that now at last you have revived your concern for me; indeed, you were concerned *before,* but you lacked an opportunity *to act.*
 
 ### CONTEXT
-In order to truly understand this passage, we need a little bit of a context. If you've been following along throughout the whole book, you already know all this. But for those who are new here, I'll sprinkle in a little bit of an additional information that will help us to correctly perceive what Bible is saying here.
+In order to truly understand this passage, we need to have a little bit of a context. If you've been following along throughout the whole book, you already know all this. But for those who are new here, I'll sprinkle in a little bit of an additional information that will help us to correctly perceive what Bible is saying here.
 
-This letter is written by apostle Paul. One of the greatest Apostles of the New Testament. Who started a lot of churches. Who were main advocate of "Salvation by faith, for non Jews!".
+### STORY
+This letter is written by apostle Paul. One of the greatest Apostles of the New Testament. Who started a lot of churches. Who were main advocate of new movement "Salvation by faith, for non Jews!". And also he  was one of the first missionaries and full time ministers of the Gospel. Meaning that doing the work of the Gospel were his main job.
 
-He wrote this letter to the church of the city of Philippi, to the brothers and sisters who were concerned about his situation. Because, at the time of writing this Paul is in the Roman prison for his faith in Christ.
+### DIFFARANCE ###
+There is a difference between hobby and full time job.
 
-He writes a letter to his friends, the Church that he started a number of years ago. Church that has been his partner in ministry for many years. Doing the same work of the gospel. Sharing the same struggles. But, also supporting Paul financially. Enabling Paul to continue Lord's work. They did this for years.
 
-But then something happened. Church didn't support Paul for a while. Maybe it was due to the Paul's circumstances. Because he was all over the place, while being escorted into the Roman prison going.  Undergoing the most crazy obstacles. Or maybe it was something on the other end. Maybe something were going on in Philippi. Most likely a little bit of both.
 
-But in the end, they figured it all out. And got it going again. They sent one of their members to take care of Paul's needs while he is under arrest. And also they send enough money to make sure Paul is well supplied.
+He wrote this letter to the church of the city of Philippi, to the brothers and sisters who were concerned about his situation. Because, at the time of writing this Paul was under houser arrest in Roman for his faith in Christ.
 
-Remember Paul is under house arrest. He is unable to work and earn money. He doesn't have passive income. Or savings to live off. He is not even unable to go anywhere. But He still have to pay rent. And we all know how much of a burden that might be. Especially when you don't have a job that pays. 
+### RECIPIENTS
+He writes a letter to his friends, the Church that he started a number of years ago. Church that has been his partner in ministry for many years. Doing the same work of the gospel. Sharing the same struggles. But, also to those who supported Paul and his ministry financially. Enabling him to continue the Lord's work. And it was not just some one time thing. It was a commitment.
 
-Also someone needs to do the shopping. Groceries, toilet paper idk. you name it. Some basic stuff. 
+Later in verses 15 and 16 we read:
+
+#### Philippians 4:15-16
+> ¹⁵You yourselves also know, Philippians, that at the first *preaching* of the gospel, after I left Macedonia, no church shared with me in the matter of giving and receiving except you alone;¹⁶for even in Thessalonica you sent *a gift* more than once for my needs...
+
+### THEIR STATE
+We can see that Philippians even though there were fairly new church understood something others didn't. From the very beginning they partnered with Paul. By doing the same work themselves AND supporting his mission. And honestly that's the model of a healthy church.
+
+
+### CHANGE
+So, they started well. They have started by doing the right thing. But then something happened. Church stopped support Paul for a while. Maybe it was due to the Paul's circumstances. Because he was all over the place, while being escorted to the Rome.  Undergoing the most crazy obstacles and circumstances. Or maybe it was something on the other end. Maybe something were going on in Philippi. We don't know. Most likely it was a little bit of both. All we know is that it wasn't really their fault. But rather "they had no opportunity" as Paul mentions in the verse 10.
+
+### PRESENT MOEMNT
+But after all they figured it all out. And got it going again. From the letter we know that they sent one of their members **Epaphroditus** to take care of Paul's needs while he is under arrest. And also they have sent big amount of money to make sure Paul is well supplied and not lacking in his, without a doubt difficult situation.
+
+It was important because remember that Paul is under arrest. He is unable to work and earn money. He doesn't have passive income. Or savings to live off. But He still have to pay rent while he is in Rome. And we all know how much of a burden rent alone might be. Especially when you don't have stable job that pays. 
+
+Don't forget about other basic needs like shopping. Groceries, toilet paper idk. you name it.
 
 With that said let's go back to our text: 
 
