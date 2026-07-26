@@ -1,20 +1,25 @@
 +++
 date = '2026-07-23T21:09:47+04:00'
-draft = true
+draft = falset
 title = 'Philippians 4:10-14'
 +++
 
-Greetings church, we will continue to explore Philippians chapter 4. We almost finished this wonderful letter. But there are still few important lessons to learn. We are up to verse 10. Let's open our bibles and read from there:
+### INTRO
+Greetings church, we will continue to explore Philippians chapter 4. We almost finished this wonderful letter. But there are still few important lessons for us to learn left there. We are up to verse 10. Let's open our bibles and read from there:
 
-### Philippians 4:10-14
+#### Philippians 4:10-19
  ¹⁰But I rejoiced in the Lord greatly, that now at last you have revived your concern for me; indeed, you were concerned *before,* but you lacked an opportunity *to act.*¹¹Not that I speak from need, for I have learned to be content in whatever *circumstances* I am.¹²I know how to get along with little, and I also know how to live in prosperity; in any and every *circumstance* I have learned the secret of being filled and going hungry, both of having abundance and suffering need.¹³I can do all things through Him who strengthens me.¹⁴Nevertheless, you have done well to share *with me* in my difficulty.
 
-There are at least couple very important topics for us in this scripture. It contains one of the most quoted, and in the same time I'd say one of the most often miss read verses of the new testament:
+ ¹⁵You yourselves also know, Philippians, that at the first *preaching* of the gospel, after I left Macedonia, no church shared with me in the matter of giving and receiving except you alone;¹⁶for even in Thessalonica you sent *a gift* more than once for my needs.¹⁷Not that I seek the gift *itself,* but I seek the profit which increases to your account.¹⁸But I have received everything in full and have an abundance; I am amply supplied, having received from Epaphroditus what you have sent, a fragrant aroma, an acceptable sacrifice, pleasing to God.¹⁹And my God will supply all your needs according to His riches in glory in Christ Jesus.²⁰Now to our God and Father *be* the glory forever and ever. Amen.
+
+ ...
+
+There are at least couple very important topics for us in this scripture. It contains one of the most quoted, and in the same time In my opinion one of the most often miss read verses of the new testament:
 
 ### Philippians 4:13
 > ¹³I can do all things through Him who strengthens me.
 
-Along with that, this scripture contains some *secret knowledge*. Which we will talk about next time, so stay tuned. But today we going to explore another equally important topic. We will talk about financial support of the work of the Gospel.
+Along with that, this scripture contains some *secret knowledge*. Which we will talk about next time, so stay tuned for that. But today we going to explore another equally important topic. We will talk about financial support of the work of the Gospel.
 
 Let's start breaking down the verses and see what they say. Starting in verse 10:
 
@@ -50,34 +55,66 @@ And later in verse 18 bible says that their gift is like a:
 ### Philippians 4:18
 ¹⁸... a fragrant aroma, an acceptable sacrifice, **pleasing to God**.
 
-So, even though Paul wasn't after the money(as we will read in a moment). Bible clearly says that Philippians did very well by supporting Paul. That it is **pleasing to God**.
+So, even though Paul wasn't after the money(as we will read in a moment). Bible clearly says that Philippians did very well by supporting Paul. Bible says: it is **pleasing to God**.
 
-I think we can all agree that according to this text supporting the workers of the Gospel is a good thing. That pleasing God. And the question I have:
+I think we can all agree that according to this text supporting the workers of the Gospel is a good thing. That pleasing God. And the question I have reading this:
 
 **If this is true, then why nobody doing that?**
 
 ...
 
-
 ### CHANGE
-So, Philippians started well. They have started by doing the right thing. But then something happened. Church have stopped supporting Paul for a while. Maybe it was due to the Paul's circumstances. Because he was all over the place, while being escorted to Rome. Undergoing the most crazy obstacles and circumstances.
+So, Philippians started well. They have started by doing the right thing. But then something happened. Church have stopped supporting Paul for a while. Maybe it was due to the Paul's circumstances. Because he was all over the place, while being escorted to Rome. Undergoing the most crazy obstacles and circumstances. Which we talked about a few weeks ago.
 
-Or maybe it was something on the other end. Maybe something were going on in Philippi. We don't know. Most likely it was a little bit of both. All we know is that it wasn't really Philippians choice. Scripture describes it as "they had no opportunity" as it was mentioned in verse 10.
+Or maybe it was something on the other end. Maybe something were going on in Philippi. We don't know. Most likely it was a little bit of both. All we know is that stopping support  wasn't really Philippians choice. Scripture describes it as "they had no opportunity" as it was mentioned in verse 10.
 
 ### PRESENT MOMENT 
 But after all they figured it all out. And got it going again. From the letter we know that they sent one of their members **Epaphroditus** to take care of Paul's needs while he is under arrest. And also they have sent big amount of money to make sure Paul is well supplied and not lacking in his, without a doubt, difficult situation.
 
-I think it was very important thing to do. Because remember Paul is under arrest. He is unable to work and earn money. He doesn't have passive income. Or savings to live off. But He still have to pay rent while he is in Rome. And we all know how much of a burden rent alone might be. Especially when you don't have stable job that pays. 
+I think it was very important thing to do. Because remember Paul is under arrest. He is unable to work and earn money. He doesn't have passive income. Or savings to live off. But He still have to pay rent while he is in Rome. Because, he was not in prison. But he were allowed to rent a space and remain under the house arrest. And we all know how much of a burden rent alone might be. Especially when you don't have stable job that pays. 
 
 Let's also not forget about other basic needs like shopping for example... Groceries, toilet paper idk. you name it. Someone has to do all this and stuff costs money...
 
 ### GENUENE CARE - LOOKING FOR THE OPPORTUNITY
-We see that people of Philippi were genuinely concerned about Paul. About his situation and conditions. They didn't look for excuse to drop his support. No, they were looking for the opportunity to provide for him. It was not a burden. They were happy to do it.
+We see that people of Philippi were genuinely concerned about Paul. About his situation and conditions. They didn't look for excuses to drop his support. No, they were looking for the opportunity to provide for him. It was not a burden. They were happy to do it.
 
-They could have easily say: "Church in Rome will take care of Paul...". He is right there... I don't know if you remember but Philippi is about 800km away from Rome. It could take many month just to travel between two cities. Which makes up for a perfect excuse not to do anything. But nevertheless people from the church went into all this efforts, took huge risk in order to take care of Paul.
+They could have easily say: "Church in Rome will take care of Paul...". He is right there... I don't know if you remember but Philippi is about 800km away from Rome. It could take many month just to travel between two cities. Which makes up for a perfect excuse not to do anything. But nevertheless people from the church went into all this efforts, took huge risk. Their messenger Epaphroditus nearly died fulfilling the job. In order to take care of Paul. They were dedicated.
 
 ...
 
+So, they could have quit. And concentrate on their own issues which we know they have. But they didn't. And bible says: 
+
+### Philippians 4:14
+¹⁴Nevertheless, you have done well to share *with me* in my difficulty.
+
+and later in verse 17: 
+
+### Philippians 4:17
+> ¹⁷I don’t say this because I want a gift from you. Rather, I want you to receive a reward for your kindness.
+
+We will look at this situation from the Paul's side next time(hopefully). But today we can see that by supporting Paul, not only people have done well. But also they will receive a reward.
+
+Which leads us to conclusion that you never lose by supporting missions, by supporting those who doing the Lord's work. Personally me, I think it is the best investment you can possible make.
+
+This days you can invest in multitude of things. Market shares. God forbid Crypto currencies. Stock market. You name it.
+
+Some of them are more questionable then the others. But let's not forget that there is another option. Invest into mission. Into work of the Gospel.
+
+It's a **win - win** situation for both, those who support and those who've been supported. We read in verse 19:
+
+### Philippians 4:19
+> ¹⁹And my God will supply all your needs according to His riches in glory in Christ Jesus.
+
+There is a promise. As you starting to care about Lord's work, by supporting His workers. As you look after them, Lord will look after you.
+
+### CONCLUSION DRAFT
+Let's be honest. Not all of us will be doing the work of the Gospel. Not all of us are dreaming about being a missionaries or full time workers of the Gospel. Very few people are like that. But, it is still responsibility of every christian to make sure mission happens.
+
+Let's not make excuses. Let's be more like Philippians who looking for the opportunities. And we will receive reward that increases on our behalf. And then God will supply all our needs according to His reaches.
+
+I want you to think what is your role in all this?
+
+<!-- FIX: 
 And when we read Paul's reply he  says following:
 
 #### Philippians 4:10
@@ -106,27 +143,4 @@ There is a Worldy way of doing things.  Like in the time of Paul there were Roma
 ### EXAMPLE ###
 
 And there is alternative way. The way we called to live as citizens of heaven. The Lord's way of doing things. And when we choose to live our life the Lord's way we choose the right thing. It brings us a lot of good in a long run. Even though it might not be the easiest choice in the moment.
-
-So, in case of Philippians, Paul rejoices about THEM, not himself. In the verses 11 and 12 we read:
-
-### Philippians 4:11,12
-> ¹¹Not that I speak from need, for I have learned to be content in whatever *circumstances* I am.¹²I know how to get along with little, and I also know how to live in prosperity; in any and every *circumstance* I have learned the secret of being filled and going hungry, both of having abundance and suffering need.
-
-### FIRST 
-We will talk about most of it next time. Today I want us to see that Paul not after riches. On one hand he says "I'm so happy to receive your gift." But on the other hand he makes a strong point that it's not about him, or his financial situation.
-
-He rejoices because he can see the fruit of their, Philippians faith. Their maturity and obedience to the Lord.
-
-Later in verse 17, after affirmation of their support Paul says:
-
-### Philippians 4:17
-> ¹⁷I don’t say this because I want a gift from you. Rather, I want you to receive a reward for your kindness.
-
-Indicating that by supporting him, not only people have done well. But also they will receive a reward.
-
-You never lose by supporting missions. By supporting those who doing the Lord's work. Personally, I think it is the best investment you can possible make. Which also pleases the Lord.
-
-It's a **win - win** situation for both, those who support and those who've been supported.
-
-### Philippians 4:19
-> ¹⁹And my God will supply all your needs according to His riches in glory in Christ Jesus.
+-->
