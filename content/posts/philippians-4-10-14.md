@@ -1,6 +1,6 @@
 +++
 date = '2026-07-23T21:09:47+04:00'
-draft = falset
+draft = false
 title = 'Philippians 4:10-14'
 +++
 
