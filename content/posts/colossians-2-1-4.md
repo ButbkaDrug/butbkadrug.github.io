@@ -1,6 +1,6 @@
 +++
 date = '2026-09-13T10:25:19+04:00'
-draft = true
+draft = false
 title = 'Colossians 2:1-4'
 +++
 
